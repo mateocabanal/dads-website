@@ -1,0 +1,238 @@
+/*
+Global definitions
+*/
+
+$font-size-base: 22px;
+$font-size-h1: 60px;
+$font-size-h2: 45px;
+$font-size-h3: 25px;
+$font-size-h4: 18px;
+$font-size-base: 18px;
+$p-primary-size: 25px;
+$p-secondary-size: 18px;
+$p-disclaimer-size: 12px;
+$font-size-mobile: 14px;
+$font-size-h1-mobile: 30px;
+
+/*
+Navbar custom sass
+*/
+
+$navbar-height: 100px;
+$navbar-default-color: #000 !default;
+$navbar-default-bg: #000 !default;
+$navbar-default-border: darken($navbar-default-bg, 6.5%) !default;
+
+/* 
+Navbar links
+*/
+
+$navbar-default-link-color: #000 !default;
+$navbar-default-link-hover-color: #aaa !default;
+
+/*
+Custom location and filename of the included Glyphicons icon font since Bootstrap is fetched via Bower.
+*/
+
+$icon-font-path: "../bower_components/bootstrap-sass-official/assets/fonts/bootstrap/" !default;
+//= require ../bower_components/bootstrap-sass-official/assets/stylesheets/_bootstrap.scss
+@import "bootstrap";
+html,
+body {
+    background: #000;
+    color: #fff;
+}
+
+body {
+    padding-top: 80px;
+}
+
+* {
+    outline-style: none;
+}
+
+.navbar-right a {
+    color: #eee;
+}
+
+.navbar {
+    .container {
+        /* Small devices (tablets, 768px and up) */
+        @media (min-width: $screen-sm-min) {
+            padding-left: 0;
+            padding-right: 0;
+        }
+    }
+    .navbar-brand {
+        color: #eee;
+        font-size: 20px;
+        padding: 40px 15px;
+        line-height: 20px;
+        span {
+            padding-left: 30px;
+        }
+        &:hover,
+        &:active,
+        &:focus {
+            color: inherit;
+        }
+    }
+    .navbar-right {
+        a {
+            font-size: 14px;
+            padding-bottom: 2px;
+            line-height: 20px;
+            border-bottom: 1px solid;
+            margin-right: 20px;
+            &:hover {
+                text-decoration: none;
+            }
+        }
+    }
+}
+
+#mySlideshow-cont {
+    margin-top: 30px;
+    height: auto;
+    overflow: hidden;
+    &.slideClosed {
+        height: 1px;
+    }
+}
+
+#nav-cont {
+    margin-bottom: 20px;
+    a {
+        height: 26px;
+        width: 26px;
+        display: inline-block;
+    }
+    #close {
+        background: url('../img/rommelcabanal-button-close.png') no-repeat top center;
+        background-size: 26px;
+        &:hover {
+            background-position: 0 -26px;
+        }
+    }
+    #prev {
+        background: url('../img/rommelcabanal-button-left.png') no-repeat top center;
+        background-size: 26px;
+        &:hover {
+            background-position: 0 -26px;
+        }
+    }
+    #next {
+        background: url('../img/rommelcabanal-button-right.png') no-repeat top center;
+        background-size: 26px;
+        &:hover {
+            background-position: 0 -26px;
+        }
+    }
+}
+
+#portfolio {
+    h2 {
+        margin-top: 50px;
+        margin-bottom: 40px;
+    }
+}
+
+#mySlideshow {
+    p {
+        font-size: 12px;
+    }
+    img {
+        padding-bottom: 15px;
+    }
+}
+
+.row-no-padding {
+    [class*="col-"] {
+        padding-left: 0 !important;
+        padding-right: 0 !important;
+    }
+}
+
+#pager {
+    margin-top: 30px;
+}
+
+.hovereffect {
+    width: 100%;
+    height: 100%;
+    float: left;
+    overflow: hidden;
+    position: relative;
+    text-align: center;
+    cursor: pointer;
+    background: #000;
+}
+
+.hovereffect .overlay {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    overflow: hidden;
+    top: 0;
+    left: 0;
+}
+
+.hovereffect img {
+    display: block;
+    position: relative;
+    -webkit-transition: all 0.35s;
+    transition: all 0.35s;
+}
+
+.hovereffect:hover img {
+    filter: brightness(0.8);
+    -webkit-filter: brightness(0.8);
+}
+
+.hovereffect .overlay:before {
+    opacity: 0;
+    filter: alpha(opacity=0);
+    -webkit-transition: opacity 0.35s, -webkit-transform 0.45s;
+    transition: opacity 0.35s, transform 0.45s;
+}
+
+.hovereffect a,
+.hovereffect p {
+    color: #FFF;
+    opacity: 0;
+    filter: alpha(opacity=0);
+    -webkit-transition: opacity 0.35s, -webkit-transform 0.45s;
+    transition: opacity 0.35s, transform 0.45s;
+}
+
+.hovereffect:hover img {
+    opacity: 0.4;
+    filter: alpha(opacity=60);
+}
+
+.hovereffect:hover .overlay:before,
+.hovereffect:hover a,
+.hovereffect:hover p {
+    opacity: 1;
+    filter: alpha(opacity=100);
+}
+
+.hovereffect:hover p {
+    position: relative;
+    top: 49%;
+    transform: translateY(-49%);
+    font-size: 20px;
+    font-weight: 400;
+}
+
+footer {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: #595959;
+    a {
+        color: #595959;
+        &:hover {
+            color: #fff;
+        }
+    }
+}
