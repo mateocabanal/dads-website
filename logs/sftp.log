@@ -1,0 +1,1277 @@
+Mar  8 20:37:57 10.71.60.0 tmp60604105-342 Connection from 10.71.60.0 port 13184 on 74.208.57.232 port 22 rdomain ""
+Mar  8 20:37:57 10.71.60.0 tmp60604105-342 Accepted password for tmp60604105-342 from 10.71.60.0 port 13184 ssh2
+Mar  8 20:37:57 10.71.60.0 tmp60604105-342 Starting session: subsystem 'sftp' for tmp60604105-342 from 10.71.60.0 port 13184 id 0
+Mar  8 20:37:57 10.71.60.0 tmp60604105-342 session opened for local user tmp60604105-342 from [10.71.60.0]
+Mar  8 20:43:24 10.71.60.0 tmp60604105-342 session closed for local user tmp60604105-342 from [10.71.60.0]
+Mar  8 20:43:24 10.71.60.0 tmp60604105-342 Connection closed by 10.71.60.0 port 13184
+Mar  8 20:47:06 10.71.61.0 acc1094923309 Connection from 10.71.61.0 port 32762 on 74.208.57.232 port 22 rdomain ""
+Mar  8 20:47:08 10.71.61.0 acc1094923309 Accepted password for acc1094923309 from 10.71.61.0 port 32762 ssh2
+Mar  8 20:47:08 10.71.61.0 acc1094923309 Starting session: subsystem 'sftp' for acc1094923309 from 10.71.61.0 port 32762 id 0
+Mar  8 20:47:08 10.71.61.0 acc1094923309 session opened for local user acc1094923309 from [10.71.61.0]
+Mar  8 20:48:27 10.71.61.0 acc1094923309 Connection from 10.71.61.0 port 63388 on 74.208.57.232 port 22 rdomain ""
+Mar  8 20:48:27 10.71.61.0 acc1094923309 Accepted password for acc1094923309 from 10.71.61.0 port 63388 ssh2
+Mar  8 20:48:27 10.71.60.0 acc1094923309 Connection from 10.71.60.0 port 39394 on 74.208.57.232 port 22 rdomain ""
+Mar  8 20:48:27 10.71.60.0 acc1094923309 Accepted password for acc1094923309 from 10.71.60.0 port 39394 ssh2
+Mar  8 20:48:27 10.71.61.0 acc1094923309 Starting session: subsystem 'sftp' for acc1094923309 from 10.71.61.0 port 63388 id 0
+Mar  8 20:48:27 10.71.61.0 acc1094923309 session opened for local user acc1094923309 from [10.71.61.0]
+Mar  8 20:48:27 10.71.60.0 acc1094923309 Starting session: subsystem 'sftp' for acc1094923309 from 10.71.60.0 port 39394 id 0
+Mar  8 20:48:27 10.71.60.0 acc1094923309 session opened for local user acc1094923309 from [10.71.60.0]
+Mar  8 20:48:28 10.71.61.0 acc1094923309 open "/favicon.ico" flags READ mode 0666
+Mar  8 20:48:28 10.71.60.0 acc1094923309 open "/bower.json" flags READ mode 0666
+Mar  8 20:48:28 10.71.61.0 acc1094923309 close "/favicon.ico" bytes read 1406 written 0
+Mar  8 20:48:28 10.71.61.0 acc1094923309 [10.71.61.0|get|0|1406|0|0|0|2f66617669636f6e2e69636f|]
+Mar  8 20:48:28 10.71.60.0 acc1094923309 close "/bower.json" bytes read 445 written 0
+Mar  8 20:48:28 10.71.60.0 acc1094923309 [10.71.60.0|get|0|445|0|0|0|2f626f7765722e6a736f6e|]
+Mar  8 20:48:28 10.71.61.0 acc1094923309 open "/gulpfile.js" flags READ mode 0666
+Mar  8 20:48:28 10.71.60.0 acc1094923309 open "/index.html" flags READ mode 0666
+Mar  8 20:48:28 10.71.61.0 acc1094923309 close "/gulpfile.js" bytes read 1584 written 0
+Mar  8 20:48:28 10.71.61.0 acc1094923309 [10.71.61.0|get|0|1584|0|0|0|2f67756c7066696c652e6a73|]
+Mar  8 20:48:28 10.71.60.0 acc1094923309 close "/index.html" bytes read 48608 written 0
+Mar  8 20:48:28 10.71.60.0 acc1094923309 [10.71.60.0|get|0|48608|0|0|0|2f696e6465782e68746d6c|]
+Mar  8 20:48:28 10.71.61.0 acc1094923309 open "/package.json" flags READ mode 0666
+Mar  8 20:48:28 10.71.60.0 acc1094923309 session closed for local user acc1094923309 from [10.71.60.0]
+Mar  8 20:48:28 10.71.60.0 acc1094923309 Connection closed by 10.71.60.0 port 39394
+Mar  8 20:48:28 10.71.61.0 acc1094923309 close "/package.json" bytes read 617 written 0
+Mar  8 20:48:28 10.71.61.0 acc1094923309 [10.71.61.0|get|0|617|0|0|0|2f7061636b6167652e6a736f6e|]
+Mar  8 20:48:28 10.71.61.0 acc1094923309 Connection closed by 10.71.61.0 port 63388
+Mar  8 20:48:28 10.71.61.0 acc1094923309 session closed for local user acc1094923309 from [10.71.61.0]
+Mar  8 20:48:29 10.71.61.0 acc1094923309 Connection from 10.71.61.0 port 33050 on 74.208.57.232 port 22 rdomain ""
+Mar  8 20:48:29 10.71.61.0 acc1094923309 Accepted password for acc1094923309 from 10.71.61.0 port 33050 ssh2
+Mar  8 20:48:29 10.71.61.0 acc1094923309 Starting session: subsystem 'sftp' for acc1094923309 from 10.71.61.0 port 33050 id 0
+Mar  8 20:48:29 10.71.61.0 acc1094923309 Connection from 10.71.61.0 port 33052 on 74.208.57.232 port 22 rdomain ""
+Mar  8 20:48:29 10.71.61.0 acc1094923309 Accepted password for acc1094923309 from 10.71.61.0 port 33052 ssh2
+Mar  8 20:48:29 10.71.61.0 acc1094923309 session opened for local user acc1094923309 from [10.71.61.0]
+Mar  8 20:48:29 10.71.61.0 acc1094923309 Starting session: subsystem 'sftp' for acc1094923309 from 10.71.61.0 port 33052 id 0
+Mar  8 20:48:29 10.71.61.0 acc1094923309 session opened for local user acc1094923309 from [10.71.61.0]
+Mar  8 20:48:29 10.71.61.0 acc1094923309 open "/bower_components/bootstrap-sass-official/sache.json" flags READ mode 0666
+Mar  8 20:48:29 10.71.61.0 acc1094923309 open "/bower_components/bootstrap-sass-official/package.json" flags READ mode 0666
+Mar  8 20:48:29 10.71.61.0 acc1094923309 close "/bower_components/bootstrap-sass-official/sache.json" bytes read 260 written 0
+Mar  8 20:48:29 10.71.61.0 acc1094923309 [10.71.61.0|get|0|260|0|0|0|2f626f7765725f636f6d706f6e656e74732f626f6f7473747261702d736173732d6f6666696369616c2f73616368652e6a736f6e|]
+Mar  8 20:48:29 10.71.61.0 acc1094923309 close "/bower_components/bootstrap-sass-official/package.json" bytes read 1005 written 0
+Mar  8 20:48:29 10.71.61.0 acc1094923309 [10.71.61.0|get|0|1005|0|0|0|2f626f7765725f636f6d706f6e656e74732f626f6f7473747261702d736173732d6f6666696369616c2f7061636b6167652e6a736f6e|]
+Mar  8 20:48:29 10.71.61.0 acc1094923309 open "/bower_components/bootstrap-sass-official/eyeglass-exports.js" flags READ mode 0666
+Mar  8 20:48:29 10.71.61.0 acc1094923309 open "/bower_components/bootstrap-sass-official/composer.json" flags READ mode 0666
+Mar  8 20:48:30 10.71.61.0 acc1094923309 close "/bower_components/bootstrap-sass-official/eyeglass-exports.js" bytes read 147 written 0
+Mar  8 20:48:30 10.71.61.0 acc1094923309 close "/bower_components/bootstrap-sass-official/composer.json" bytes read 854 written 0
+Mar  8 20:48:30 10.71.61.0 acc1094923309 [10.71.61.0|get|1|147|0|0|0|2f626f7765725f636f6d706f6e656e74732f626f6f7473747261702d736173732d6f6666696369616c2f657965676c6173732d6578706f7274732e6a73|]
+Mar  8 20:48:30 10.71.61.0 acc1094923309 [10.71.61.0|get|1|854|0|0|0|2f626f7765725f636f6d706f6e656e74732f626f6f7473747261702d736173732d6f6666696369616c2f636f6d706f7365722e6a736f6e|]
+Mar  8 20:48:30 10.71.61.0 acc1094923309 open "/bower_components/bootstrap-sass-official/bower.json" flags READ mode 0666
+Mar  8 20:48:30 10.71.61.0 acc1094923309 open "/bower_components/bootstrap-sass-official/README.md" flags READ mode 0666
+Mar  8 20:48:30 10.71.61.0 acc1094923309 close "/bower_components/bootstrap-sass-official/bower.json" bytes read 741 written 0
+Mar  8 20:48:30 10.71.61.0 acc1094923309 [10.71.61.0|get|0|741|0|0|0|2f626f7765725f636f6d706f6e656e74732f626f6f7473747261702d736173732d6f6666696369616c2f626f7765722e6a736f6e|]
+Mar  8 20:48:30 10.71.61.0 acc1094923309 close "/bower_components/bootstrap-sass-official/README.md" bytes read 13343 written 0
+Mar  8 20:48:30 10.71.61.0 acc1094923309 [10.71.61.0|get|0|13343|0|0|0|2f626f7765725f636f6d706f6e656e74732f626f6f7473747261702d736173732d6f6666696369616c2f524541444d452e6d64|]
+Mar  8 20:48:30 10.71.61.0 acc1094923309 open "/bower_components/bootstrap-sass-official/LICENSE" flags READ mode 0666
+Mar  8 20:48:30 10.71.61.0 acc1094923309 open "/bower_components/bootstrap-sass-official/CONTRIBUTING.md" flags READ mode 0666
+Mar  8 20:48:30 10.71.61.0 acc1094923309 close "/bower_components/bootstrap-sass-official/LICENSE" bytes read 1130 written 0
+Mar  8 20:48:30 10.71.61.0 acc1094923309 [10.71.61.0|get|0|1130|0|0|0|2f626f7765725f636f6d706f6e656e74732f626f6f7473747261702d736173732d6f6666696369616c2f4c4943454e5345|]
+Mar  8 20:48:30 10.71.61.0 acc1094923309 close "/bower_components/bootstrap-sass-official/CONTRIBUTING.md" bytes read 3470 written 0
+Mar  8 20:48:30 10.71.61.0 acc1094923309 [10.71.61.0|get|0|3470|0|0|0|2f626f7765725f636f6d706f6e656e74732f626f6f7473747261702d736173732d6f6666696369616c2f434f4e545249425554494e472e6d64|]
+Mar  8 20:48:30 10.71.61.0 acc1094923309 open "/bower_components/bootstrap-sass-official/CHANGELOG.md" flags READ mode 0666
+Mar  8 20:48:30 10.71.61.0 acc1094923309 open "/bower_components/bootstrap-sass-official/assets/fonts/bootstrap/glyphicons-halflings-regular.woff2" flags READ mode 0666
+Mar  8 20:48:30 10.71.61.0 acc1094923309 close "/bower_components/bootstrap-sass-official/CHANGELOG.md" bytes read 7803 written 0
+Mar  8 20:48:30 10.71.61.0 acc1094923309 [10.71.61.0|get|0|7803|0|0|0|2f626f7765725f636f6d706f6e656e74732f626f6f7473747261702d736173732d6f6666696369616c2f4348414e47454c4f472e6d64|]
+Mar  8 20:48:30 10.71.61.0 acc1094923309 close "/bower_components/bootstrap-sass-official/assets/fonts/bootstrap/glyphicons-halflings-regular.woff2" bytes read 18028 written 0
+Mar  8 20:48:30 10.71.61.0 acc1094923309 [10.71.61.0|get|0|18028|0|0|0|2f626f7765725f636f6d706f6e656e74732f626f6f7473747261702d736173732d6f6666696369616c2f6173736574732f666f6e74732f626f6f7473747261702f676c79706869636f6e732d68616c666c696e67732d726567756c61722e776f666632|]
+Mar  8 20:48:31 10.71.61.0 acc1094923309 open "/bower_components/bootstrap-sass-official/assets/fonts/bootstrap/glyphicons-halflings-regular.woff" flags READ mode 0666
+Mar  8 20:48:31 10.71.61.0 acc1094923309 open "/bower_components/bootstrap-sass-official/assets/fonts/bootstrap/glyphicons-halflings-regular.ttf" flags READ mode 0666
+Mar  8 20:48:31 10.71.61.0 acc1094923309 close "/bower_components/bootstrap-sass-official/assets/fonts/bootstrap/glyphicons-halflings-regular.woff" bytes read 23424 written 0
+Mar  8 20:48:31 10.71.61.0 acc1094923309 [10.71.61.0|get|0|23424|0|0|0|2f626f7765725f636f6d706f6e656e74732f626f6f7473747261702d736173732d6f6666696369616c2f6173736574732f666f6e74732f626f6f7473747261702f676c79706869636f6e732d68616c666c696e67732d726567756c61722e776f6666|]
+Mar  8 20:48:31 10.71.61.0 acc1094923309 close "/bower_components/bootstrap-sass-official/assets/fonts/bootstrap/glyphicons-halflings-regular.ttf" bytes read 45404 written 0
+Mar  8 20:48:31 10.71.61.0 acc1094923309 [10.71.61.0|get|0|45404|0|0|0|2f626f7765725f636f6d706f6e656e74732f626f6f7473747261702d736173732d6f6666696369616c2f6173736574732f666f6e74732f626f6f7473747261702f676c79706869636f6e732d68616c666c696e67732d726567756c61722e747466|]
+Mar  8 20:48:31 10.71.61.0 acc1094923309 open "/bower_components/bootstrap-sass-official/assets/fonts/bootstrap/glyphicons-halflings-regular.svg" flags READ mode 0666
+Mar  8 20:48:31 10.71.61.0 acc1094923309 open "/bower_components/bootstrap-sass-official/assets/fonts/bootstrap/glyphicons-halflings-regular.eot" flags READ mode 0666
+Mar  8 20:48:31 10.71.61.0 acc1094923309 close "/bower_components/bootstrap-sass-official/assets/fonts/bootstrap/glyphicons-halflings-regular.svg" bytes read 108738 written 0
+Mar  8 20:48:31 10.71.61.0 acc1094923309 [10.71.61.0|get|0|108738|0|0|0|2f626f7765725f636f6d706f6e656e74732f626f6f7473747261702d736173732d6f6666696369616c2f6173736574732f666f6e74732f626f6f7473747261702f676c79706869636f6e732d68616c666c696e67732d726567756c61722e737667|]
+Mar  8 20:48:31 10.71.61.0 acc1094923309 close "/bower_components/bootstrap-sass-official/assets/fonts/bootstrap/glyphicons-halflings-regular.eot" bytes read 20127 written 0
+Mar  8 20:48:31 10.71.61.0 acc1094923309 [10.71.61.0|get|0|20127|0|0|0|2f626f7765725f636f6d706f6e656e74732f626f6f7473747261702d736173732d6f6666696369616c2f6173736574732f666f6e74732f626f6f7473747261702f676c79706869636f6e732d68616c666c696e67732d726567756c61722e656f74|]
+Mar  8 20:48:31 10.71.61.0 acc1094923309 open "/bower_components/bootstrap-sass-official/assets/javascripts/bootstrap.min.js" flags READ mode 0666
+Mar  8 20:48:31 10.71.61.0 acc1094923309 open "/bower_components/bootstrap-sass-official/assets/javascripts/bootstrap.js" flags READ mode 0666
+Mar  8 20:48:31 10.71.61.0 acc1094923309 close "/bower_components/bootstrap-sass-official/assets/javascripts/bootstrap.min.js" bytes read 37045 written 0
+Mar  8 20:48:31 10.71.61.0 acc1094923309 [10.71.61.0|get|0|37045|0|0|0|2f626f7765725f636f6d706f6e656e74732f626f6f7473747261702d736173732d6f6666696369616c2f6173736574732f6a617661736372697074732f626f6f7473747261702e6d696e2e6a73|]
+Mar  8 20:48:31 10.71.61.0 acc1094923309 close "/bower_components/bootstrap-sass-official/assets/javascripts/bootstrap.js" bytes read 69707 written 0
+Mar  8 20:48:31 10.71.61.0 acc1094923309 [10.71.61.0|get|0|69707|0|0|0|2f626f7765725f636f6d706f6e656e74732f626f6f7473747261702d736173732d6f6666696369616c2f6173736574732f6a617661736372697074732f626f6f7473747261702e6a73|]
+Mar  8 20:48:32 10.71.61.0 acc1094923309 open "/bower_components/bootstrap-sass-official/assets/javascripts/bootstrap-sprockets.js" flags READ mode 0666
+Mar  8 20:48:32 10.71.61.0 acc1094923309 close "/bower_components/bootstrap-sass-official/assets/javascripts/bootstrap-sprockets.js" bytes read 381 written 0
+Mar  8 20:48:32 10.71.61.0 acc1094923309 [10.71.61.0|get|1|381|0|0|0|2f626f7765725f636f6d706f6e656e74732f626f6f7473747261702d736173732d6f6666696369616c2f6173736574732f6a617661736372697074732f626f6f7473747261702d7370726f636b6574732e6a73|]
+Mar  8 20:48:32 10.71.61.0 acc1094923309 open "/bower_components/bootstrap-sass-official/assets/javascripts/bootstrap/transition.js" flags READ mode 0666
+Mar  8 20:48:32 10.71.61.0 acc1094923309 close "/bower_components/bootstrap-sass-official/assets/javascripts/bootstrap/transition.js" bytes read 1831 written 0
+Mar  8 20:48:32 10.71.61.0 acc1094923309 [10.71.61.0|get|0|1831|0|0|0|2f626f7765725f636f6d706f6e656e74732f626f6f7473747261702d736173732d6f6666696369616c2f6173736574732f6a617661736372697074732f626f6f7473747261702f7472616e736974696f6e2e6a73|]
+Mar  8 20:48:32 10.71.61.0 acc1094923309 open "/bower_components/bootstrap-sass-official/assets/javascripts/bootstrap/tooltip.js" flags READ mode 0666
+Mar  8 20:48:32 10.71.61.0 acc1094923309 open "/bower_components/bootstrap-sass-official/assets/javascripts/bootstrap/tab.js" flags READ mode 0666
+Mar  8 20:48:32 10.71.61.0 acc1094923309 close "/bower_components/bootstrap-sass-official/assets/javascripts/bootstrap/tooltip.js" bytes read 16719 written 0
+Mar  8 20:48:32 10.71.61.0 acc1094923309 [10.71.61.0|get|0|16719|0|0|0|2f626f7765725f636f6d706f6e656e74732f626f6f7473747261702d736173732d6f6666696369616c2f6173736574732f6a617661736372697074732f626f6f7473747261702f746f6f6c7469702e6a73|]
+Mar  8 20:48:32 10.71.61.0 acc1094923309 close "/bower_components/bootstrap-sass-official/assets/javascripts/bootstrap/tab.js" bytes read 3905 written 0
+Mar  8 20:48:32 10.71.61.0 acc1094923309 [10.71.61.0|get|0|3905|0|0|0|2f626f7765725f636f6d706f6e656e74732f626f6f7473747261702d736173732d6f6666696369616c2f6173736574732f6a617661736372697074732f626f6f7473747261702f7461622e6a73|]
+Mar  8 20:48:32 10.71.61.0 acc1094923309 open "/bower_components/bootstrap-sass-official/assets/javascripts/bootstrap/scrollspy.js" flags READ mode 0666
+Mar  8 20:48:32 10.71.61.0 acc1094923309 open "/bower_components/bootstrap-sass-official/assets/javascripts/bootstrap/popover.js" flags READ mode 0666
+Mar  8 20:48:32 10.71.61.0 acc1094923309 close "/bower_components/bootstrap-sass-official/assets/javascripts/bootstrap/scrollspy.js" bytes read 4707 written 0
+Mar  8 20:48:32 10.71.61.0 acc1094923309 [10.71.61.0|get|0|4707|0|0|0|2f626f7765725f636f6d706f6e656e74732f626f6f7473747261702d736173732d6f6666696369616c2f6173736574732f6a617661736372697074732f626f6f7473747261702f7363726f6c6c7370792e6a73|]
+Mar  8 20:48:32 10.71.61.0 acc1094923309 close "/bower_components/bootstrap-sass-official/assets/javascripts/bootstrap/popover.js" bytes read 3163 written 0
+Mar  8 20:48:32 10.71.61.0 acc1094923309 [10.71.61.0|get|0|3163|0|0|0|2f626f7765725f636f6d706f6e656e74732f626f6f7473747261702d736173732d6f6666696369616c2f6173736574732f6a617661736372697074732f626f6f7473747261702f706f706f7665722e6a73|]
+Mar  8 20:48:32 10.71.61.0 acc1094923309 open "/bower_components/bootstrap-sass-official/assets/javascripts/bootstrap/modal.js" flags READ mode 0666
+Mar  8 20:48:32 10.71.61.0 acc1094923309 open "/bower_components/bootstrap-sass-official/assets/javascripts/bootstrap/dropdown.js" flags READ mode 0666
+Mar  8 20:48:33 10.71.61.0 acc1094923309 close "/bower_components/bootstrap-sass-official/assets/javascripts/bootstrap/modal.js" bytes read 9987 written 0
+Mar  8 20:48:33 10.71.61.0 acc1094923309 [10.71.61.0|get|1|9987|0|0|0|2f626f7765725f636f6d706f6e656e74732f626f6f7473747261702d736173732d6f6666696369616c2f6173736574732f6a617661736372697074732f626f6f7473747261702f6d6f64616c2e6a73|]
+Mar  8 20:48:33 10.71.61.0 acc1094923309 close "/bower_components/bootstrap-sass-official/assets/javascripts/bootstrap/dropdown.js" bytes read 4743 written 0
+Mar  8 20:48:33 10.71.61.0 acc1094923309 [10.71.61.0|get|1|4743|0|0|0|2f626f7765725f636f6d706f6e656e74732f626f6f7473747261702d736173732d6f6666696369616c2f6173736574732f6a617661736372697074732f626f6f7473747261702f64726f70646f776e2e6a73|]
+Mar  8 20:48:33 10.71.61.0 acc1094923309 open "/bower_components/bootstrap-sass-official/assets/javascripts/bootstrap/collapse.js" flags READ mode 0666
+Mar  8 20:48:33 10.71.61.0 acc1094923309 open "/bower_components/bootstrap-sass-official/assets/javascripts/bootstrap/carousel.js" flags READ mode 0666
+Mar  8 20:48:33 10.71.61.0 acc1094923309 close "/bower_components/bootstrap-sass-official/assets/javascripts/bootstrap/collapse.js" bytes read 5991 written 0
+Mar  8 20:48:33 10.71.61.0 acc1094923309 [10.71.61.0|get|0|5991|0|0|0|2f626f7765725f636f6d706f6e656e74732f626f6f7473747261702d736173732d6f6666696369616c2f6173736574732f6a617661736372697074732f626f6f7473747261702f636f6c6c617073652e6a73|]
+Mar  8 20:48:33 10.71.61.0 acc1094923309 close "/bower_components/bootstrap-sass-official/assets/javascripts/bootstrap/carousel.js" bytes read 7141 written 0
+Mar  8 20:48:33 10.71.61.0 acc1094923309 [10.71.61.0|get|0|7141|0|0|0|2f626f7765725f636f6d706f6e656e74732f626f6f7473747261702d736173732d6f6666696369616c2f6173736574732f6a617661736372697074732f626f6f7473747261702f6361726f7573656c2e6a73|]
+Mar  8 20:48:33 10.71.61.0 acc1094923309 open "/bower_components/bootstrap-sass-official/assets/javascripts/bootstrap/button.js" flags READ mode 0666
+Mar  8 20:48:33 10.71.61.0 acc1094923309 open "/bower_components/bootstrap-sass-official/assets/javascripts/bootstrap/alert.js" flags READ mode 0666
+Mar  8 20:48:33 10.71.61.0 acc1094923309 close "/bower_components/bootstrap-sass-official/assets/javascripts/bootstrap/button.js" bytes read 3824 written 0
+Mar  8 20:48:33 10.71.61.0 acc1094923309 [10.71.61.0|get|0|3824|0|0|0|2f626f7765725f636f6d706f6e656e74732f626f6f7473747261702d736173732d6f6666696369616c2f6173736574732f6a617661736372697074732f626f6f7473747261702f627574746f6e2e6a73|]
+Mar  8 20:48:33 10.71.61.0 acc1094923309 close "/bower_components/bootstrap-sass-official/assets/javascripts/bootstrap/alert.js" bytes read 2284 written 0
+Mar  8 20:48:33 10.71.61.0 acc1094923309 [10.71.61.0|get|0|2284|0|0|0|2f626f7765725f636f6d706f6e656e74732f626f6f7473747261702d736173732d6f6666696369616c2f6173736574732f6a617661736372697074732f626f6f7473747261702f616c6572742e6a73|]
+Mar  8 20:48:33 10.71.61.0 acc1094923309 open "/bower_components/bootstrap-sass-official/assets/javascripts/bootstrap/affix.js" flags READ mode 0666
+Mar  8 20:48:33 10.71.61.0 acc1094923309 close "/bower_components/bootstrap-sass-official/assets/javascripts/bootstrap/affix.js" bytes read 4838 written 0
+Mar  8 20:48:33 10.71.61.0 acc1094923309 [10.71.61.0|get|0|4838|0|0|0|2f626f7765725f636f6d706f6e656e74732f626f6f7473747261702d736173732d6f6666696369616c2f6173736574732f6a617661736372697074732f626f6f7473747261702f61666669782e6a73|]
+Mar  8 20:48:33 10.71.61.0 acc1094923309 open "/bower_components/bootstrap-sass-official/assets/stylesheets/_bootstrap.scss" flags READ mode 0666
+Mar  8 20:48:33 10.71.61.0 acc1094923309 close "/bower_components/bootstrap-sass-official/assets/stylesheets/_bootstrap.scss" bytes read 1486 written 0
+Mar  8 20:48:33 10.71.61.0 acc1094923309 [10.71.61.0|get|0|1486|0|0|0|2f626f7765725f636f6d706f6e656e74732f626f6f7473747261702d736173732d6f6666696369616c2f6173736574732f7374796c657368656574732f5f626f6f7473747261702e73637373|]
+Mar  8 20:48:33 10.71.61.0 acc1094923309 open "/bower_components/bootstrap-sass-official/assets/stylesheets/_bootstrap-sprockets.scss" flags READ mode 0666
+Mar  8 20:48:34 10.71.61.0 acc1094923309 open "/bower_components/bootstrap-sass-official/assets/stylesheets/_bootstrap-mincer.scss" flags READ mode 0666
+Mar  8 20:48:34 10.71.61.0 acc1094923309 close "/bower_components/bootstrap-sass-official/assets/stylesheets/_bootstrap-sprockets.scss" bytes read 168 written 0
+Mar  8 20:48:34 10.71.61.0 acc1094923309 [10.71.61.0|get|1|168|0|0|0|2f626f7765725f636f6d706f6e656e74732f626f6f7473747261702d736173732d6f6666696369616c2f6173736574732f7374796c657368656574732f5f626f6f7473747261702d7370726f636b6574732e73637373|]
+Mar  8 20:48:34 10.71.61.0 acc1094923309 close "/bower_components/bootstrap-sass-official/assets/stylesheets/_bootstrap-mincer.scss" bytes read 757 written 0
+Mar  8 20:48:34 10.71.61.0 acc1094923309 [10.71.61.0|get|0|757|0|0|0|2f626f7765725f636f6d706f6e656e74732f626f6f7473747261702d736173732d6f6666696369616c2f6173736574732f7374796c657368656574732f5f626f6f7473747261702d6d696e6365722e73637373|]
+Mar  8 20:48:34 10.71.61.0 acc1094923309 open "/bower_components/bootstrap-sass-official/assets/stylesheets/_bootstrap-compass.scss" flags READ mode 0666
+Mar  8 20:48:34 10.71.61.0 acc1094923309 close "/bower_components/bootstrap-sass-official/assets/stylesheets/_bootstrap-compass.scss" bytes read 178 written 0
+Mar  8 20:48:34 10.71.61.0 acc1094923309 [10.71.61.0|get|0|178|0|0|0|2f626f7765725f636f6d706f6e656e74732f626f6f7473747261702d736173732d6f6666696369616c2f6173736574732f7374796c657368656574732f5f626f6f7473747261702d636f6d706173732e73637373|]
+Mar  8 20:48:34 10.71.61.0 acc1094923309 open "/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/_wells.scss" flags READ mode 0666
+Mar  8 20:48:34 10.71.61.0 acc1094923309 close "/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/_wells.scss" bytes read 535 written 0
+Mar  8 20:48:34 10.71.61.0 acc1094923309 [10.71.61.0|get|0|535|0|0|0|2f626f7765725f636f6d706f6e656e74732f626f6f7473747261702d736173732d6f6666696369616c2f6173736574732f7374796c657368656574732f626f6f7473747261702f5f77656c6c732e73637373|]
+Mar  8 20:48:34 10.71.61.0 acc1094923309 open "/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/_variables.scss" flags READ mode 0666
+Mar  8 20:48:34 10.71.61.0 acc1094923309 open "/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/_utilities.scss" flags READ mode 0666
+Mar  8 20:48:34 10.71.61.0 acc1094923309 close "/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/_variables.scss" bytes read 31290 written 0
+Mar  8 20:48:34 10.71.61.0 acc1094923309 [10.71.61.0|get|0|31290|0|0|0|2f626f7765725f636f6d706f6e656e74732f626f6f7473747261702d736173732d6f6666696369616c2f6173736574732f7374796c657368656574732f626f6f7473747261702f5f7661726961626c65732e73637373|]
+Mar  8 20:48:34 10.71.61.0 acc1094923309 close "/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/_utilities.scss" bytes read 765 written 0
+Mar  8 20:48:34 10.71.61.0 acc1094923309 [10.71.61.0|get|0|765|0|0|0|2f626f7765725f636f6d706f6e656e74732f626f6f7473747261702d736173732d6f6666696369616c2f6173736574732f7374796c657368656574732f626f6f7473747261702f5f7574696c69746965732e73637373|]
+Mar  8 20:48:34 10.71.61.0 acc1094923309 open "/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/_type.scss" flags READ mode 0666
+Mar  8 20:48:34 10.71.61.0 acc1094923309 open "/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/_tooltip.scss" flags READ mode 0666
+Mar  8 20:48:34 10.71.61.0 acc1094923309 close "/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/_type.scss" bytes read 6149 written 0
+Mar  8 20:48:34 10.71.61.0 acc1094923309 [10.71.61.0|get|0|6149|0|0|0|2f626f7765725f636f6d706f6e656e74732f626f6f7473747261702d736173732d6f6666696369616c2f6173736574732f7374796c657368656574732f626f6f7473747261702f5f747970652e73637373|]
+Mar  8 20:48:35 10.71.61.0 acc1094923309 close "/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/_tooltip.scss" bytes read 3007 written 0
+Mar  8 20:48:35 10.71.61.0 acc1094923309 [10.71.61.0|get|1|3007|0|0|0|2f626f7765725f636f6d706f6e656e74732f626f6f7473747261702d736173732d6f6666696369616c2f6173736574732f7374796c657368656574732f626f6f7473747261702f5f746f6f6c7469702e73637373|]
+Mar  8 20:48:35 10.71.61.0 acc1094923309 open "/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/_thumbnails.scss" flags READ mode 0666
+Mar  8 20:48:35 10.71.61.0 acc1094923309 open "/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/_theme.scss" flags READ mode 0666
+Mar  8 20:48:35 10.71.61.0 acc1094923309 close "/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/_thumbnails.scss" bytes read 892 written 0
+Mar  8 20:48:35 10.71.61.0 acc1094923309 [10.71.61.0|get|0|892|0|0|0|2f626f7765725f636f6d706f6e656e74732f626f6f7473747261702d736173732d6f6666696369616c2f6173736574732f7374796c657368656574732f626f6f7473747261702f5f7468756d626e61696c732e73637373|]
+Mar  8 20:48:35 10.71.61.0 acc1094923309 close "/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/_theme.scss" bytes read 8558 written 0
+Mar  8 20:48:35 10.71.61.0 acc1094923309 [10.71.61.0|get|0|8558|0|0|0|2f626f7765725f636f6d706f6e656e74732f626f6f7473747261702d736173732d6f6666696369616c2f6173736574732f7374796c657368656574732f626f6f7473747261702f5f7468656d652e73637373|]
+Mar  8 20:48:35 10.71.61.0 acc1094923309 open "/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/_tables.scss" flags READ mode 0666
+Mar  8 20:48:35 10.71.61.0 acc1094923309 open "/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/_scaffolding.scss" flags READ mode 0666
+Mar  8 20:48:35 10.71.61.0 acc1094923309 close "/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/_tables.scss" bytes read 4662 written 0
+Mar  8 20:48:35 10.71.61.0 acc1094923309 [10.71.61.0|get|0|4662|0|0|0|2f626f7765725f636f6d706f6e656e74732f626f6f7473747261702d736173732d6f6666696369616c2f6173736574732f7374796c657368656574732f626f6f7473747261702f5f7461626c65732e73637373|]
+Mar  8 20:48:35 10.71.61.0 acc1094923309 close "/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/_scaffolding.scss" bytes read 3031 written 0
+Mar  8 20:48:35 10.71.61.0 acc1094923309 [10.71.61.0|get|0|3031|0|0|0|2f626f7765725f636f6d706f6e656e74732f626f6f7473747261702d736173732d6f6666696369616c2f6173736574732f7374796c657368656574732f626f6f7473747261702f5f73636166666f6c64696e672e73637373|]
+Mar  8 20:48:35 10.71.61.0 acc1094923309 open "/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/_responsive-utilities.scss" flags READ mode 0666
+Mar  8 20:48:35 10.71.61.0 acc1094923309 open "/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/_responsive-embed.scss" flags READ mode 0666
+Mar  8 20:48:35 10.71.61.0 acc1094923309 close "/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/_responsive-utilities.scss" bytes read 4409 written 0
+Mar  8 20:48:35 10.71.61.0 acc1094923309 [10.71.61.0|get|0|4409|0|0|0|2f626f7765725f636f6d706f6e656e74732f626f6f7473747261702d736173732d6f6666696369616c2f6173736574732f7374796c657368656574732f626f6f7473747261702f5f726573706f6e736976652d7574696c69746965732e73637373|]
+Mar  8 20:48:35 10.71.61.0 acc1094923309 close "/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/_responsive-embed.scss" bytes read 546 written 0
+Mar  8 20:48:35 10.71.61.0 acc1094923309 [10.71.61.0|get|0|546|0|0|0|2f626f7765725f636f6d706f6e656e74732f626f6f7473747261702d736173732d6f6666696369616c2f6173736574732f7374796c657368656574732f626f6f7473747261702f5f726573706f6e736976652d656d6265642e73637373|]
+Mar  8 20:48:35 10.71.61.0 acc1094923309 open "/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/_progress-bars.scss" flags READ mode 0666
+Mar  8 20:48:35 10.71.61.0 acc1094923309 open "/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/_print.scss" flags READ mode 0666
+Mar  8 20:48:35 10.71.61.0 acc1094923309 close "/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/_progress-bars.scss" bytes read 1992 written 0
+Mar  8 20:48:35 10.71.61.0 acc1094923309 [10.71.61.0|get|0|1992|0|0|0|2f626f7765725f636f6d706f6e656e74732f626f6f7473747261702d736173732d6f6666696369616c2f6173736574732f7374796c657368656574732f626f6f7473747261702f5f70726f67726573732d626172732e73637373|]
+Mar  8 20:48:36 10.71.61.0 acc1094923309 close "/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/_print.scss" bytes read 1939 written 0
+Mar  8 20:48:36 10.71.61.0 acc1094923309 [10.71.61.0|get|1|1939|0|0|0|2f626f7765725f636f6d706f6e656e74732f626f6f7473747261702d736173732d6f6666696369616c2f6173736574732f7374796c657368656574732f626f6f7473747261702f5f7072696e742e73637373|]
+Mar  8 20:48:36 10.71.61.0 acc1094923309 open "/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/_popovers.scss" flags READ mode 0666
+Mar  8 20:48:36 10.71.61.0 acc1094923309 open "/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/_panels.scss" flags READ mode 0666
+Mar  8 20:48:36 10.71.61.0 acc1094923309 close "/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/_popovers.scss" bytes read 3502 written 0
+Mar  8 20:48:36 10.71.61.0 acc1094923309 [10.71.61.0|get|0|3502|0|0|0|2f626f7765725f636f6d706f6e656e74732f626f6f7473747261702d736173732d6f6666696369616c2f6173736574732f7374796c657368656574732f626f6f7473747261702f5f706f706f766572732e73637373|]
+Mar  8 20:48:36 10.71.61.0 acc1094923309 close "/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/_panels.scss" bytes read 6385 written 0
+Mar  8 20:48:36 10.71.61.0 acc1094923309 [10.71.61.0|get|0|6385|0|0|0|2f626f7765725f636f6d706f6e656e74732f626f6f7473747261702d736173732d6f6666696369616c2f6173736574732f7374796c657368656574732f626f6f7473747261702f5f70616e656c732e73637373|]
+Mar  8 20:48:36 10.71.61.0 acc1094923309 open "/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/_pagination.scss" flags READ mode 0666
+Mar  8 20:48:36 10.71.61.0 acc1094923309 open "/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/_pager.scss" flags READ mode 0666
+Mar  8 20:48:36 10.71.61.0 acc1094923309 close "/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/_pagination.scss" bytes read 2091 written 0
+Mar  8 20:48:36 10.71.61.0 acc1094923309 [10.71.61.0|get|0|2091|0|0|0|2f626f7765725f636f6d706f6e656e74732f626f6f7473747261702d736173732d6f6666696369616c2f6173736574732f7374796c657368656574732f626f6f7473747261702f5f706167696e6174696f6e2e73637373|]
+Mar  8 20:48:36 10.71.61.0 acc1094923309 close "/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/_pager.scss" bytes read 855 written 0
+Mar  8 20:48:36 10.71.61.0 acc1094923309 [10.71.61.0|get|0|855|0|0|0|2f626f7765725f636f6d706f6e656e74732f626f6f7473747261702d736173732d6f6666696369616c2f6173736574732f7374796c657368656574732f626f6f7473747261702f5f70616765722e73637373|]
+Mar  8 20:48:36 10.71.61.0 acc1094923309 open "/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/_normalize.scss" flags READ mode 0666
+Mar  8 20:48:36 10.71.61.0 acc1094923309 open "/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/_navs.scss" flags READ mode 0666
+Mar  8 20:48:36 10.71.61.0 acc1094923309 close "/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/_normalize.scss" bytes read 7559 written 0
+Mar  8 20:48:36 10.71.61.0 acc1094923309 [10.71.61.0|get|0|7559|0|0|0|2f626f7765725f636f6d706f6e656e74732f626f6f7473747261702d736173732d6f6666696369616c2f6173736574732f7374796c657368656574732f626f6f7473747261702f5f6e6f726d616c697a652e73637373|]
+Mar  8 20:48:36 10.71.61.0 acc1094923309 close "/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/_navs.scss" bytes read 4950 written 0
+Mar  8 20:48:36 10.71.61.0 acc1094923309 [10.71.61.0|get|0|4950|0|0|0|2f626f7765725f636f6d706f6e656e74732f626f6f7473747261702d736173732d6f6666696369616c2f6173736574732f7374796c657368656574732f626f6f7473747261702f5f6e6176732e73637373|]
+Mar  8 20:48:36 10.71.61.0 acc1094923309 open "/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/_navbar.scss" flags READ mode 0666
+Mar  8 20:48:36 10.71.61.0 acc1094923309 open "/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/_modals.scss" flags READ mode 0666
+Mar  8 20:48:36 10.71.61.0 acc1094923309 close "/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/_navbar.scss" bytes read 14729 written 0
+Mar  8 20:48:36 10.71.61.0 acc1094923309 [10.71.61.0|get|0|14729|0|0|0|2f626f7765725f636f6d706f6e656e74732f626f6f7473747261702d736173732d6f6666696369616c2f6173736574732f7374796c657368656574732f626f6f7473747261702f5f6e61766261722e73637373|]
+Mar  8 20:48:36 10.71.61.0 acc1094923309 close "/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/_modals.scss" bytes read 3568 written 0
+Mar  8 20:48:36 10.71.61.0 acc1094923309 [10.71.61.0|get|0|3568|0|0|0|2f626f7765725f636f6d706f6e656e74732f626f6f7473747261702d736173732d6f6666696369616c2f6173736574732f7374796c657368656574732f626f6f7473747261702f5f6d6f64616c732e73637373|]
+Mar  8 20:48:37 10.71.61.0 acc1094923309 open "/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/_mixins.scss" flags READ mode 0666
+Mar  8 20:48:37 10.71.61.0 acc1094923309 open "/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/_media.scss" flags READ mode 0666
+Mar  8 20:48:37 10.71.61.0 acc1094923309 close "/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/_mixins.scss" bytes read 986 written 0
+Mar  8 20:48:37 10.71.61.0 acc1094923309 [10.71.61.0|get|0|986|0|0|0|2f626f7765725f636f6d706f6e656e74732f626f6f7473747261702d736173732d6f6666696369616c2f6173736574732f7374796c657368656574732f626f6f7473747261702f5f6d6978696e732e73637373|]
+Mar  8 20:48:37 10.71.61.0 acc1094923309 close "/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/_media.scss" bytes read 900 written 0
+Mar  8 20:48:37 10.71.61.0 acc1094923309 [10.71.61.0|get|0|900|0|0|0|2f626f7765725f636f6d706f6e656e74732f626f6f7473747261702d736173732d6f6666696369616c2f6173736574732f7374796c657368656574732f626f6f7473747261702f5f6d656469612e73637373|]
+Mar  8 20:48:37 10.71.61.0 acc1094923309 open "/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/_list-group.scss" flags READ mode 0666
+Mar  8 20:48:37 10.71.61.0 acc1094923309 open "/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/_labels.scss" flags READ mode 0666
+Mar  8 20:48:37 10.71.61.0 acc1094923309 close "/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/_list-group.scss" bytes read 3172 written 0
+Mar  8 20:48:37 10.71.61.0 acc1094923309 [10.71.61.0|get|0|3172|0|0|0|2f626f7765725f636f6d706f6e656e74732f626f6f7473747261702d736173732d6f6666696369616c2f6173736574732f7374796c657368656574732f626f6f7473747261702f5f6c6973742d67726f75702e73637373|]
+Mar  8 20:48:37 10.71.61.0 acc1094923309 close "/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/_labels.scss" bytes read 1156 written 0
+Mar  8 20:48:37 10.71.61.0 acc1094923309 [10.71.61.0|get|0|1156|0|0|0|2f626f7765725f636f6d706f6e656e74732f626f6f7473747261702d736173732d6f6666696369616c2f6173736574732f7374796c657368656574732f626f6f7473747261702f5f6c6162656c732e73637373|]
+Mar  8 20:48:37 10.71.61.0 acc1094923309 open "/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/_jumbotron.scss" flags READ mode 0666
+Mar  8 20:48:37 10.71.61.0 acc1094923309 open "/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/_input-groups.scss" flags READ mode 0666
+Mar  8 20:48:37 10.71.61.0 acc1094923309 close "/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/_jumbotron.scss" bytes read 1152 written 0
+Mar  8 20:48:37 10.71.61.0 acc1094923309 [10.71.61.0|get|0|1152|0|0|0|2f626f7765725f636f6d706f6e656e74732f626f6f7473747261702d736173732d6f6666696369616c2f6173736574732f7374796c657368656574732f626f6f7473747261702f5f6a756d626f74726f6e2e73637373|]
+Mar  8 20:48:37 10.71.61.0 acc1094923309 close "/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/_input-groups.scss" bytes read 4313 written 0
+Mar  8 20:48:37 10.71.61.0 acc1094923309 [10.71.61.0|get|0|4313|0|0|0|2f626f7765725f636f6d706f6e656e74732f626f6f7473747261702d736173732d6f6666696369616c2f6173736574732f7374796c657368656574732f626f6f7473747261702f5f696e7075742d67726f7570732e73637373|]
+Mar  8 20:48:37 10.71.61.0 acc1094923309 open "/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/_grid.scss" flags READ mode 0666
+Mar  8 20:48:37 10.71.61.0 acc1094923309 open "/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/_glyphicons.scss" flags READ mode 0666
+Mar  8 20:48:37 10.71.61.0 acc1094923309 close "/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/_grid.scss" bytes read 1443 written 0
+Mar  8 20:48:37 10.71.61.0 acc1094923309 [10.71.61.0|get|0|1443|0|0|0|2f626f7765725f636f6d706f6e656e74732f626f6f7473747261702d736173732d6f6666696369616c2f6173736574732f7374796c657368656574732f626f6f7473747261702f5f677269642e73637373|]
+Mar  8 20:48:37 10.71.61.0 acc1094923309 close "/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/_glyphicons.scss" bytes read 20448 written 0
+Mar  8 20:48:37 10.71.61.0 acc1094923309 [10.71.61.0|get|0|20448|0|0|0|2f626f7765725f636f6d706f6e656e74732f626f6f7473747261702d736173732d6f6666696369616c2f6173736574732f7374796c657368656574732f626f6f7473747261702f5f676c79706869636f6e732e73637373|]
+Mar  8 20:48:37 10.71.61.0 acc1094923309 open "/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/_forms.scss" flags READ mode 0666
+Mar  8 20:48:38 10.71.61.0 acc1094923309 open "/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/_dropdowns.scss" flags READ mode 0666
+Mar  8 20:48:38 10.71.61.0 acc1094923309 close "/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/_forms.scss" bytes read 16162 written 0
+Mar  8 20:48:38 10.71.61.0 acc1094923309 [10.71.61.0|get|1|16162|0|0|0|2f626f7765725f636f6d706f6e656e74732f626f6f7473747261702d736173732d6f6666696369616c2f6173736574732f7374796c657368656574732f626f6f7473747261702f5f666f726d732e73637373|]
+Mar  8 20:48:38 10.71.61.0 acc1094923309 close "/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/_dropdowns.scss" bytes read 4889 written 0
+Mar  8 20:48:38 10.71.61.0 acc1094923309 [10.71.61.0|get|0|4889|0|0|0|2f626f7765725f636f6d706f6e656e74732f626f6f7473747261702d736173732d6f6666696369616c2f6173736574732f7374796c657368656574732f626f6f7473747261702f5f64726f70646f776e732e73637373|]
+Mar  8 20:48:38 10.71.61.0 acc1094923309 open "/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/_component-animations.scss" flags READ mode 0666
+Mar  8 20:48:38 10.71.61.0 acc1094923309 open "/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/_code.scss" flags READ mode 0666
+Mar  8 20:48:38 10.71.61.0 acc1094923309 close "/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/_component-animations.scss" bytes read 819 written 0
+Mar  8 20:48:38 10.71.61.0 acc1094923309 [10.71.61.0|get|0|819|0|0|0|2f626f7765725f636f6d706f6e656e74732f626f6f7473747261702d736173732d6f6666696369616c2f6173736574732f7374796c657368656574732f626f6f7473747261702f5f636f6d706f6e656e742d616e696d6174696f6e732e73637373|]
+Mar  8 20:48:38 10.71.61.0 acc1094923309 close "/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/_code.scss" bytes read 1401 written 0
+Mar  8 20:48:38 10.71.61.0 acc1094923309 [10.71.61.0|get|0|1401|0|0|0|2f626f7765725f636f6d706f6e656e74732f626f6f7473747261702d736173732d6f6666696369616c2f6173736574732f7374796c657368656574732f626f6f7473747261702f5f636f64652e73637373|]
+Mar  8 20:48:38 10.71.61.0 acc1094923309 open "/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/_close.scss" flags READ mode 0666
+Mar  8 20:48:38 10.71.61.0 acc1094923309 open "/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/_carousel.scss" flags READ mode 0666
+Mar  8 20:48:38 10.71.61.0 acc1094923309 close "/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/_close.scss" bytes read 815 written 0
+Mar  8 20:48:38 10.71.61.0 acc1094923309 [10.71.61.0|get|0|815|0|0|0|2f626f7765725f636f6d706f6e656e74732f626f6f7473747261702d736173732d6f6666696369616c2f6173736574732f7374796c657368656574732f626f6f7473747261702f5f636c6f73652e73637373|]
+Mar  8 20:48:38 10.71.61.0 acc1094923309 close "/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/_carousel.scss" bytes read 5725 written 0
+Mar  8 20:48:38 10.71.61.0 acc1094923309 [10.71.61.0|get|0|5725|0|0|0|2f626f7765725f636f6d706f6e656e74732f626f6f7473747261702d736173732d6f6666696369616c2f6173736574732f7374796c657368656574732f626f6f7473747261702f5f6361726f7573656c2e73637373|]
+Mar  8 20:48:38 10.71.61.0 acc1094923309 open "/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/_buttons.scss" flags READ mode 0666
+Mar  8 20:48:38 10.71.61.0 acc1094923309 open "/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/_button-groups.scss" flags READ mode 0666
+Mar  8 20:48:38 10.71.61.0 acc1094923309 close "/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/_buttons.scss" bytes read 3819 written 0
+Mar  8 20:48:38 10.71.61.0 acc1094923309 [10.71.61.0|get|0|3819|0|0|0|2f626f7765725f636f6d706f6e656e74732f626f6f7473747261702d736173732d6f6666696369616c2f6173736574732f7374796c657368656574732f626f6f7473747261702f5f627574746f6e732e73637373|]
+Mar  8 20:48:38 10.71.61.0 acc1094923309 close "/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/_button-groups.scss" bytes read 5758 written 0
+Mar  8 20:48:38 10.71.61.0 acc1094923309 [10.71.61.0|get|0|5758|0|0|0|2f626f7765725f636f6d706f6e656e74732f626f6f7473747261702d736173732d6f6666696369616c2f6173736574732f7374796c657368656574732f626f6f7473747261702f5f627574746f6e2d67726f7570732e73637373|]
+Mar  8 20:48:38 10.71.61.0 acc1094923309 open "/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/_breadcrumbs.scss" flags READ mode 0666
+Mar  8 20:48:39 10.71.61.0 acc1094923309 open "/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/_badges.scss" flags READ mode 0666
+Mar  8 20:48:39 10.71.61.0 acc1094923309 close "/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/_breadcrumbs.scss" bytes read 700 written 0
+Mar  8 20:48:39 10.71.61.0 acc1094923309 [10.71.61.0|get|1|700|0|0|0|2f626f7765725f636f6d706f6e656e74732f626f6f7473747261702d736173732d6f6666696369616c2f6173736574732f7374796c657368656574732f626f6f7473747261702f5f62726561646372756d62732e73637373|]
+Mar  8 20:48:39 10.71.61.0 acc1094923309 close "/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/_badges.scss" bytes read 1228 written 0
+Mar  8 20:48:39 10.71.61.0 acc1094923309 [10.71.61.0|get|0|1228|0|0|0|2f626f7765725f636f6d706f6e656e74732f626f6f7473747261702d736173732d6f6666696369616c2f6173736574732f7374796c657368656574732f626f6f7473747261702f5f6261646765732e73637373|]
+Mar  8 20:48:39 10.71.61.0 acc1094923309 open "/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/_alerts.scss" flags READ mode 0666
+Mar  8 20:48:39 10.71.61.0 acc1094923309 close "/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/_alerts.scss" bytes read 1550 written 0
+Mar  8 20:48:39 10.71.61.0 acc1094923309 [10.71.61.0|get|0|1550|0|0|0|2f626f7765725f636f6d706f6e656e74732f626f6f7473747261702d736173732d6f6666696369616c2f6173736574732f7374796c657368656574732f626f6f7473747261702f5f616c657274732e73637373|]
+Mar  8 20:48:39 10.71.61.0 acc1094923309 open "/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/mixins/_vendor-prefixes.scss" flags READ mode 0666
+Mar  8 20:48:39 10.71.61.0 acc1094923309 close "/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/mixins/_vendor-prefixes.scss" bytes read 6645 written 0
+Mar  8 20:48:39 10.71.61.0 acc1094923309 [10.71.61.0|get|0|6645|0|0|0|2f626f7765725f636f6d706f6e656e74732f626f6f7473747261702d736173732d6f6666696369616c2f6173736574732f7374796c657368656574732f626f6f7473747261702f6d6978696e732f5f76656e646f722d70726566697865732e73637373|]
+Mar  8 20:48:39 10.71.61.0 acc1094923309 open "/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/mixins/_text-overflow.scss" flags READ mode 0666
+Mar  8 20:48:39 10.71.61.0 acc1094923309 open "/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/mixins/_text-emphasis.scss" flags READ mode 0666
+Mar  8 20:48:39 10.71.61.0 acc1094923309 close "/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/mixins/_text-overflow.scss" bytes read 168 written 0
+Mar  8 20:48:39 10.71.61.0 acc1094923309 [10.71.61.0|get|0|168|0|0|0|2f626f7765725f636f6d706f6e656e74732f626f6f7473747261702d736173732d6f6666696369616c2f6173736574732f7374796c657368656574732f626f6f7473747261702f6d6978696e732f5f746578742d6f766572666c6f772e73637373|]
+Mar  8 20:48:39 10.71.61.0 acc1094923309 close "/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/mixins/_text-emphasis.scss" bytes read 210 written 0
+Mar  8 20:48:39 10.71.61.0 acc1094923309 [10.71.61.0|get|0|210|0|0|0|2f626f7765725f636f6d706f6e656e74732f626f6f7473747261702d736173732d6f6666696369616c2f6173736574732f7374796c657368656574732f626f6f7473747261702f6d6978696e732f5f746578742d656d7068617369732e73637373|]
+Mar  8 20:48:39 10.71.61.0 acc1094923309 open "/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/mixins/_table-row.scss" flags READ mode 0666
+Mar  8 20:48:39 10.71.61.0 acc1094923309 open "/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/mixins/_tab-focus.scss" flags READ mode 0666
+Mar  8 20:48:39 10.71.61.0 acc1094923309 close "/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/mixins/_table-row.scss" bytes read 715 written 0
+Mar  8 20:48:39 10.71.61.0 acc1094923309 [10.71.61.0|get|0|715|0|0|0|2f626f7765725f636f6d706f6e656e74732f626f6f7473747261702d736173732d6f6666696369616c2f6173736574732f7374796c657368656574732f626f6f7473747261702f6d6978696e732f5f7461626c652d726f772e73637373|]
+Mar  8 20:48:40 10.71.61.0 acc1094923309 open "/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/mixins/_size.scss" flags READ mode 0666
+Mar  8 20:48:40 10.71.61.0 acc1094923309 close "/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/mixins/_tab-focus.scss" bytes read 338 written 0
+Mar  8 20:48:40 10.71.61.0 acc1094923309 [10.71.61.0|get|1|338|0|0|0|2f626f7765725f636f6d706f6e656e74732f626f6f7473747261702d736173732d6f6666696369616c2f6173736574732f7374796c657368656574732f626f6f7473747261702f6d6978696e732f5f7461622d666f6375732e73637373|]
+Mar  8 20:48:40 10.71.61.0 acc1094923309 close "/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/mixins/_size.scss" bytes read 147 written 0
+Mar  8 20:48:40 10.71.61.0 acc1094923309 open "/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/mixins/_responsive-visibility.scss" flags READ mode 0666
+Mar  8 20:48:40 10.71.61.0 acc1094923309 [10.71.61.0|get|0|147|0|0|0|2f626f7765725f636f6d706f6e656e74732f626f6f7473747261702d736173732d6f6666696369616c2f6173736574732f7374796c657368656574732f626f6f7473747261702f6d6978696e732f5f73697a652e73637373|]
+Mar  8 20:48:40 10.71.61.0 acc1094923309 open "/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/mixins/_resize.scss" flags READ mode 0666
+Mar  8 20:48:40 10.71.61.0 acc1094923309 close "/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/mixins/_responsive-visibility.scss" bytes read 514 written 0
+Mar  8 20:48:40 10.71.61.0 acc1094923309 [10.71.61.0|get|0|514|0|0|0|2f626f7765725f636f6d706f6e656e74732f626f6f7473747261702d736173732d6f6666696369616c2f6173736574732f7374796c657368656574732f626f6f7473747261702f6d6978696e732f5f726573706f6e736976652d7669736962696c6974792e73637373|]
+Mar  8 20:48:40 10.71.61.0 acc1094923309 close "/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/mixins/_resize.scss" bytes read 202 written 0
+Mar  8 20:48:40 10.71.61.0 acc1094923309 [10.71.61.0|get|0|202|0|0|0|2f626f7765725f636f6d706f6e656e74732f626f6f7473747261702d736173732d6f6666696369616c2f6173736574732f7374796c657368656574732f626f6f7473747261702f6d6978696e732f5f726573697a652e73637373|]
+Mar  8 20:48:40 10.71.61.0 acc1094923309 open "/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/mixins/_reset-text.scss" flags READ mode 0666
+Mar  8 20:48:40 10.71.61.0 acc1094923309 open "/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/mixins/_reset-filter.scss" flags READ mode 0666
+Mar  8 20:48:40 10.71.61.0 acc1094923309 close "/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/mixins/_reset-text.scss" bytes read 476 written 0
+Mar  8 20:48:40 10.71.61.0 acc1094923309 [10.71.61.0|get|0|476|0|0|0|2f626f7765725f636f6d706f6e656e74732f626f6f7473747261702d736173732d6f6666696369616c2f6173736574732f7374796c657368656574732f626f6f7473747261702f6d6978696e732f5f72657365742d746578742e73637373|]
+Mar  8 20:48:40 10.71.61.0 acc1094923309 close "/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/mixins/_reset-filter.scss" bytes read 246 written 0
+Mar  8 20:48:40 10.71.61.0 acc1094923309 [10.71.61.0|get|0|246|0|0|0|2f626f7765725f636f6d706f6e656e74732f626f6f7473747261702d736173732d6f6666696369616c2f6173736574732f7374796c657368656574732f626f6f7473747261702f6d6978696e732f5f72657365742d66696c7465722e73637373|]
+Mar  8 20:48:40 10.71.61.0 acc1094923309 open "/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/mixins/_progress-bar.scss" flags READ mode 0666
+Mar  8 20:48:40 10.71.61.0 acc1094923309 open "/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/mixins/_panels.scss" flags READ mode 0666
+Mar  8 20:48:40 10.71.61.0 acc1094923309 close "/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/mixins/_progress-bar.scss" bytes read 200 written 0
+Mar  8 20:48:40 10.71.61.0 acc1094923309 [10.71.61.0|get|0|200|0|0|0|2f626f7765725f636f6d706f6e656e74732f626f6f7473747261702d736173732d6f6666696369616c2f6173736574732f7374796c657368656574732f626f6f7473747261702f6d6978696e732f5f70726f67726573732d6261722e73637373|]
+Mar  8 20:48:40 10.71.61.0 acc1094923309 close "/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/mixins/_panels.scss" bytes read 543 written 0
+Mar  8 20:48:40 10.71.61.0 acc1094923309 [10.71.61.0|get|0|543|0|0|0|2f626f7765725f636f6d706f6e656e74732f626f6f7473747261702d736173732d6f6666696369616c2f6173736574732f7374796c657368656574732f626f6f7473747261702f6d6978696e732f5f70616e656c732e73637373|]
+Mar  8 20:48:40 10.71.61.0 acc1094923309 open "/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/mixins/_pagination.scss" flags READ mode 0666
+Mar  8 20:48:41 10.71.61.0 acc1094923309 open "/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/mixins/_opacity.scss" flags READ mode 0666
+Mar  8 20:48:41 10.71.61.0 acc1094923309 close "/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/mixins/_pagination.scss" bytes read 507 written 0
+Mar  8 20:48:41 10.71.61.0 acc1094923309 [10.71.61.0|get|1|507|0|0|0|2f626f7765725f636f6d706f6e656e74732f626f6f7473747261702d736173732d6f6666696369616c2f6173736574732f7374796c657368656574732f626f6f7473747261702f6d6978696e732f5f706167696e6174696f6e2e73637373|]
+Mar  8 20:48:41 10.71.61.0 acc1094923309 close "/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/mixins/_opacity.scss" bytes read 149 written 0
+Mar  8 20:48:41 10.71.61.0 acc1094923309 [10.71.61.0|get|0|149|0|0|0|2f626f7765725f636f6d706f6e656e74732f626f6f7473747261702d736173732d6f6666696369616c2f6173736574732f7374796c657368656574732f626f6f7473747261702f6d6978696e732f5f6f7061636974792e73637373|]
+Mar  8 20:48:41 10.71.61.0 acc1094923309 open "/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/mixins/_nav-vertical-align.scss" flags READ mode 0666
+Mar  8 20:48:41 10.71.61.0 acc1094923309 open "/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/mixins/_nav-divider.scss" flags READ mode 0666
+Mar  8 20:48:41 10.71.61.0 acc1094923309 close "/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/mixins/_nav-vertical-align.scss" bytes read 370 written 0
+Mar  8 20:48:41 10.71.61.0 acc1094923309 [10.71.61.0|get|0|370|0|0|0|2f626f7765725f636f6d706f6e656e74732f626f6f7473747261702d736173732d6f6666696369616c2f6173736574732f7374796c657368656574732f626f6f7473747261702f6d6978696e732f5f6e61762d766572746963616c2d616c69676e2e73637373|]
+Mar  8 20:48:41 10.71.61.0 acc1094923309 close "/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/mixins/_nav-divider.scss" bytes read 238 written 0
+Mar  8 20:48:41 10.71.61.0 acc1094923309 [10.71.61.0|get|0|238|0|0|0|2f626f7765725f636f6d706f6e656e74732f626f6f7473747261702d736173732d6f6666696369616c2f6173736574732f7374796c657368656574732f626f6f7473747261702f6d6978696e732f5f6e61762d646976696465722e73637373|]
+Mar  8 20:48:41 10.71.61.0 acc1094923309 open "/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/mixins/_list-group.scss" flags READ mode 0666
+Mar  8 20:48:41 10.71.61.0 acc1094923309 open "/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/mixins/_labels.scss" flags READ mode 0666
+Mar  8 20:48:41 10.71.61.0 acc1094923309 close "/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/mixins/_list-group.scss" bytes read 672 written 0
+Mar  8 20:48:41 10.71.61.0 acc1094923309 [10.71.61.0|get|0|672|0|0|0|2f626f7765725f636f6d706f6e656e74732f626f6f7473747261702d736173732d6f6666696369616c2f6173736574732f7374796c657368656574732f626f6f7473747261702f6d6978696e732f5f6c6973742d67726f75702e73637373|]
+Mar  8 20:48:41 10.71.61.0 acc1094923309 close "/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/mixins/_labels.scss" bytes read 167 written 0
+Mar  8 20:48:41 10.71.61.0 acc1094923309 [10.71.61.0|get|0|167|0|0|0|2f626f7765725f636f6d706f6e656e74732f626f6f7473747261702d736173732d6f6666696369616c2f6173736574732f7374796c657368656574732f626f6f7473747261702f6d6978696e732f5f6c6162656c732e73637373|]
+Mar  8 20:48:41 10.71.61.0 acc1094923309 open "/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/mixins/_image.scss" flags READ mode 0666
+Mar  8 20:48:41 10.71.61.0 acc1094923309 open "/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/mixins/_hide-text.scss" flags READ mode 0666
+Mar  8 20:48:41 10.71.61.0 acc1094923309 close "/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/mixins/_image.scss" bytes read 1208 written 0
+Mar  8 20:48:41 10.71.61.0 acc1094923309 [10.71.61.0|get|0|1208|0|0|0|2f626f7765725f636f6d706f6e656e74732f626f6f7473747261702d736173732d6f6666696369616c2f6173736574732f7374796c657368656574732f626f6f7473747261702f6d6978696e732f5f696d6167652e73637373|]
+Mar  8 20:48:41 10.71.61.0 acc1094923309 open "/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/mixins/_grid.scss" flags READ mode 0666
+Mar  8 20:48:41 10.71.61.0 acc1094923309 close "/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/mixins/_hide-text.scss" bytes read 590 written 0
+Mar  8 20:48:41 10.71.61.0 acc1094923309 [10.71.61.0|get|0|590|0|0|0|2f626f7765725f636f6d706f6e656e74732f626f6f7473747261702d736173732d6f6666696369616c2f6173736574732f7374796c657368656574732f626f6f7473747261702f6d6978696e732f5f686964652d746578742e73637373|]
+Mar  8 20:48:41 10.71.61.0 acc1094923309 close "/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/mixins/_grid.scss" bytes read 3216 written 0
+Mar  8 20:48:41 10.71.61.0 acc1094923309 [10.71.61.0|get|0|3216|0|0|0|2f626f7765725f636f6d706f6e656e74732f626f6f7473747261702d736173732d6f6666696369616c2f6173736574732f7374796c657368656574732f626f6f7473747261702f6d6978696e732f5f677269642e73637373|]
+Mar  8 20:48:41 10.71.61.0 acc1094923309 open "/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/mixins/_grid-framework.scss" flags READ mode 0666
+Mar  8 20:48:42 10.71.61.0 acc1094923309 close "/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/mixins/_grid-framework.scss" bytes read 2360 written 0
+Mar  8 20:48:42 10.71.61.0 acc1094923309 [10.71.61.0|get|1|2360|0|0|0|2f626f7765725f636f6d706f6e656e74732f626f6f7473747261702d736173732d6f6666696369616c2f6173736574732f7374796c657368656574732f626f6f7473747261702f6d6978696e732f5f677269642d6672616d65776f726b2e73637373|]
+Mar  8 20:48:42 10.71.61.0 acc1094923309 open "/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/mixins/_gradients.scss" flags READ mode 0666
+Mar  8 20:48:42 10.71.61.0 acc1094923309 open "/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/mixins/_forms.scss" flags READ mode 0666
+Mar  8 20:48:42 10.71.61.0 acc1094923309 close "/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/mixins/_gradients.scss" bytes read 4392 written 0
+Mar  8 20:48:42 10.71.61.0 acc1094923309 [10.71.61.0|get|0|4392|0|0|0|2f626f7765725f636f6d706f6e656e74732f626f6f7473747261702d736173732d6f6666696369616c2f6173736574732f7374796c657368656574732f626f6f7473747261702f6d6978696e732f5f6772616469656e74732e73637373|]
+Mar  8 20:48:42 10.71.61.0 acc1094923309 open "/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/mixins/_clearfix.scss" flags READ mode 0666
+Mar  8 20:48:42 10.71.61.0 acc1094923309 close "/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/mixins/_forms.scss" bytes read 2771 written 0
+Mar  8 20:48:42 10.71.61.0 acc1094923309 [10.71.61.0|get|0|2771|0|0|0|2f626f7765725f636f6d706f6e656e74732f626f6f7473747261702d736173732d6f6666696369616c2f6173736574732f7374796c657368656574732f626f6f7473747261702f6d6978696e732f5f666f726d732e73637373|]
+Mar  8 20:48:42 10.71.61.0 acc1094923309 close "/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/mixins/_clearfix.scss" bytes read 611 written 0
+Mar  8 20:48:42 10.71.61.0 acc1094923309 [10.71.61.0|get|0|611|0|0|0|2f626f7765725f636f6d706f6e656e74732f626f6f7473747261702d736173732d6f6666696369616c2f6173736574732f7374796c657368656574732f626f6f7473747261702f6d6978696e732f5f636c6561726669782e73637373|]
+Mar  8 20:48:42 10.71.61.0 acc1094923309 open "/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/mixins/_center-block.scss" flags READ mode 0666
+Mar  8 20:48:42 10.71.61.0 acc1094923309 open "/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/mixins/_buttons.scss" flags READ mode 0666
+Mar  8 20:48:42 10.71.61.0 acc1094923309 close "/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/mixins/_center-block.scss" bytes read 126 written 0
+Mar  8 20:48:42 10.71.61.0 acc1094923309 [10.71.61.0|get|0|126|0|0|0|2f626f7765725f636f6d706f6e656e74732f626f6f7473747261702d736173732d6f6666696369616c2f6173736574732f7374796c657368656574732f626f6f7473747261702f6d6978696e732f5f63656e7465722d626c6f636b2e73637373|]
+Mar  8 20:48:42 10.71.61.0 acc1094923309 close "/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/mixins/_buttons.scss" bytes read 1453 written 0
+Mar  8 20:48:42 10.71.61.0 acc1094923309 [10.71.61.0|get|0|1453|0|0|0|2f626f7765725f636f6d706f6e656e74732f626f6f7473747261702d736173732d6f6666696369616c2f6173736574732f7374796c657368656574732f626f6f7473747261702f6d6978696e732f5f627574746f6e732e73637373|]
+Mar  8 20:48:42 10.71.61.0 acc1094923309 open "/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/mixins/_border-radius.scss" flags READ mode 0666
+Mar  8 20:48:42 10.71.61.0 acc1094923309 open "/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/mixins/_background-variant.scss" flags READ mode 0666
+Mar  8 20:48:42 10.71.61.0 acc1094923309 close "/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/mixins/_border-radius.scss" bytes read 492 written 0
+Mar  8 20:48:42 10.71.61.0 acc1094923309 [10.71.61.0|get|0|492|0|0|0|2f626f7765725f636f6d706f6e656e74732f626f6f7473747261702d736173732d6f6666696369616c2f6173736574732f7374796c657368656574732f626f6f7473747261702f6d6978696e732f5f626f726465722d7261646975732e73637373|]
+Mar  8 20:48:42 10.71.61.0 acc1094923309 close "/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/mixins/_background-variant.scss" bytes read 233 written 0
+Mar  8 20:48:42 10.71.61.0 acc1094923309 [10.71.61.0|get|0|233|0|0|0|2f626f7765725f636f6d706f6e656e74732f626f6f7473747261702d736173732d6f6666696369616c2f6173736574732f7374796c657368656574732f626f6f7473747261702f6d6978696e732f5f6261636b67726f756e642d76617269616e742e73637373|]
+Mar  8 20:48:42 10.71.61.0 acc1094923309 open "/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/mixins/_alerts.scss" flags READ mode 0666
+Mar  8 20:48:43 10.71.61.0 acc1094923309 close "/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/mixins/_alerts.scss" bytes read 263 written 0
+Mar  8 20:48:43 10.71.61.0 acc1094923309 [10.71.61.0|get|1|263|0|0|0|2f626f7765725f636f6d706f6e656e74732f626f6f7473747261702d736173732d6f6666696369616c2f6173736574732f7374796c657368656574732f626f6f7473747261702f6d6978696e732f5f616c657274732e73637373|]
+Mar  8 20:48:43 10.71.61.0 acc1094923309 open "/bower_components/jquery/bower.json" flags READ mode 0666
+Mar  8 20:48:43 10.71.61.0 acc1094923309 close "/bower_components/jquery/bower.json" bytes read 190 written 0
+Mar  8 20:48:43 10.71.61.0 acc1094923309 [10.71.61.0|get|0|190|0|0|0|2f626f7765725f636f6d706f6e656e74732f6a71756572792f626f7765722e6a736f6e|]
+Mar  8 20:48:43 10.71.61.0 acc1094923309 open "/bower_components/jquery/README.md" flags READ mode 0666
+Mar  8 20:48:43 10.71.61.0 acc1094923309 open "/bower_components/jquery/LICENSE.txt" flags READ mode 0666
+Mar  8 20:48:43 10.71.61.0 acc1094923309 close "/bower_components/jquery/README.md" bytes read 1794 written 0
+Mar  8 20:48:43 10.71.61.0 acc1094923309 [10.71.61.0|get|0|1794|0|0|0|2f626f7765725f636f6d706f6e656e74732f6a71756572792f524541444d452e6d64|]
+Mar  8 20:48:43 10.71.61.0 acc1094923309 close "/bower_components/jquery/LICENSE.txt" bytes read 1606 written 0
+Mar  8 20:48:43 10.71.61.0 acc1094923309 [10.71.61.0|get|0|1606|0|0|0|2f626f7765725f636f6d706f6e656e74732f6a71756572792f4c4943454e53452e747874|]
+Mar  8 20:48:43 10.71.61.0 acc1094923309 open "/bower_components/jquery/AUTHORS.txt" flags READ mode 0666
+Mar  8 20:48:43 10.71.61.0 acc1094923309 close "/bower_components/jquery/AUTHORS.txt" bytes read 11012 written 0
+Mar  8 20:48:43 10.71.61.0 acc1094923309 [10.71.61.0|get|0|11012|0|0|0|2f626f7765725f636f6d706f6e656e74732f6a71756572792f415554484f52532e747874|]
+Mar  8 20:48:43 10.71.61.0 acc1094923309 open "/bower_components/jquery/dist/jquery.slim.min.map" flags READ mode 0666
+Mar  8 20:48:43 10.71.61.0 acc1094923309 open "/bower_components/jquery/dist/jquery.slim.min.js" flags READ mode 0666
+Mar  8 20:48:43 10.71.61.0 acc1094923309 close "/bower_components/jquery/dist/jquery.slim.min.map" bytes read 103382 written 0
+Mar  8 20:48:43 10.71.61.0 acc1094923309 [10.71.61.0|get|0|103382|0|0|0|2f626f7765725f636f6d706f6e656e74732f6a71756572792f646973742f6a71756572792e736c696d2e6d696e2e6d6170|]
+Mar  8 20:48:44 10.71.61.0 acc1094923309 open "/bower_components/jquery/dist/jquery.slim.js" flags READ mode 0666
+Mar  8 20:48:44 10.71.61.0 acc1094923309 close "/bower_components/jquery/dist/jquery.slim.min.js" bytes read 68952 written 0
+Mar  8 20:48:44 10.71.61.0 acc1094923309 [10.71.61.0|get|1|68952|0|0|0|2f626f7765725f636f6d706f6e656e74732f6a71756572792f646973742f6a71756572792e736c696d2e6d696e2e6a73|]
+Mar  8 20:48:44 10.71.61.0 acc1094923309 open "/bower_components/jquery/dist/jquery.min.map" flags READ mode 0666
+Mar  8 20:48:44 10.71.61.0 acc1094923309 close "/bower_components/jquery/dist/jquery.slim.js" bytes read 210659 written 0
+Mar  8 20:48:44 10.71.61.0 acc1094923309 [10.71.61.0|get|0|210659|0|0|0|2f626f7765725f636f6d706f6e656e74732f6a71756572792f646973742f6a71756572792e736c696d2e6a73|]
+Mar  8 20:48:44 10.71.61.0 acc1094923309 open "/bower_components/jquery/dist/jquery.min.js" flags READ mode 0666
+Mar  8 20:48:44 10.71.61.0 acc1094923309 close "/bower_components/jquery/dist/jquery.min.map" bytes read 131041 written 0
+Mar  8 20:48:44 10.71.61.0 acc1094923309 [10.71.61.0|get|0|131041|0|0|0|2f626f7765725f636f6d706f6e656e74732f6a71756572792f646973742f6a71756572792e6d696e2e6d6170|]
+Mar  8 20:48:44 10.71.61.0 acc1094923309 open "/bower_components/jquery/dist/jquery.js" flags READ mode 0666
+Mar  8 20:48:44 10.71.61.0 acc1094923309 close "/bower_components/jquery/dist/jquery.min.js" bytes read 86351 written 0
+Mar  8 20:48:44 10.71.61.0 acc1094923309 [10.71.61.0|get|0|86351|0|0|0|2f626f7765725f636f6d706f6e656e74732f6a71756572792f646973742f6a71756572792e6d696e2e6a73|]
+Mar  8 20:48:44 10.71.61.0 acc1094923309 open "/bower_components/jquery/dist/core.js" flags READ mode 0666
+Mar  8 20:48:44 10.71.61.0 acc1094923309 close "/bower_components/jquery/dist/jquery.js" bytes read 263767 written 0
+Mar  8 20:48:44 10.71.61.0 acc1094923309 [10.71.61.0|get|0|263767|0|0|0|2f626f7765725f636f6d706f6e656e74732f6a71756572792f646973742f6a71756572792e6a73|]
+Mar  8 20:48:44 10.71.61.0 acc1094923309 close "/bower_components/jquery/dist/core.js" bytes read 11329 written 0
+Mar  8 20:48:44 10.71.61.0 acc1094923309 [10.71.61.0|get|0|11329|0|0|0|2f626f7765725f636f6d706f6e656e74732f6a71756572792f646973742f636f72652e6a73|]
+Mar  8 20:48:44 10.71.61.0 acc1094923309 open "/bower_components/jquery/external/sizzle/LICENSE.txt" flags READ mode 0666
+Mar  8 20:48:44 10.71.61.0 acc1094923309 open "/bower_components/jquery/external/sizzle/dist/sizzle.min.map" flags READ mode 0666
+Mar  8 20:48:45 10.71.61.0 acc1094923309 close "/bower_components/jquery/external/sizzle/LICENSE.txt" bytes read 1606 written 0
+Mar  8 20:48:45 10.71.61.0 acc1094923309 [10.71.61.0|get|1|1606|0|0|0|2f626f7765725f636f6d706f6e656e74732f6a71756572792f65787465726e616c2f73697a7a6c652f4c4943454e53452e747874|]
+Mar  8 20:48:45 10.71.61.0 acc1094923309 close "/bower_components/jquery/external/sizzle/dist/sizzle.min.map" bytes read 30397 written 0
+Mar  8 20:48:45 10.71.61.0 acc1094923309 [10.71.61.0|get|1|30397|0|0|0|2f626f7765725f636f6d706f6e656e74732f6a71756572792f65787465726e616c2f73697a7a6c652f646973742f73697a7a6c652e6d696e2e6d6170|]
+Mar  8 20:48:45 10.71.61.0 acc1094923309 open "/bower_components/jquery/external/sizzle/dist/sizzle.js" flags READ mode 0666
+Mar  8 20:48:45 10.71.61.0 acc1094923309 open "/bower_components/jquery/external/sizzle/dist/sizzle.min.js" flags READ mode 0666
+Mar  8 20:48:45 10.71.61.0 acc1094923309 close "/bower_components/jquery/external/sizzle/dist/sizzle.js" bytes read 63623 written 0
+Mar  8 20:48:45 10.71.61.0 acc1094923309 [10.71.61.0|get|0|63623|0|0|0|2f626f7765725f636f6d706f6e656e74732f6a71756572792f65787465726e616c2f73697a7a6c652f646973742f73697a7a6c652e6a73|]
+Mar  8 20:48:45 10.71.61.0 acc1094923309 close "/bower_components/jquery/external/sizzle/dist/sizzle.min.js" bytes read 19576 written 0
+Mar  8 20:48:45 10.71.61.0 acc1094923309 [10.71.61.0|get|0|19576|0|0|0|2f626f7765725f636f6d706f6e656e74732f6a71756572792f65787465726e616c2f73697a7a6c652f646973742f73697a7a6c652e6d696e2e6a73|]
+Mar  8 20:48:45 10.71.61.0 acc1094923309 open "/bower_components/jquery/src/wrap.js" flags READ mode 0666
+Mar  8 20:48:45 10.71.61.0 acc1094923309 open "/bower_components/jquery/src/traversing.js" flags READ mode 0666
+Mar  8 20:48:45 10.71.61.0 acc1094923309 close "/bower_components/jquery/src/wrap.js" bytes read 1457 written 0
+Mar  8 20:48:45 10.71.61.0 acc1094923309 [10.71.61.0|get|0|1457|0|0|0|2f626f7765725f636f6d706f6e656e74732f6a71756572792f7372632f777261702e6a73|]
+Mar  8 20:48:45 10.71.61.0 acc1094923309 close "/bower_components/jquery/src/traversing.js" bytes read 4166 written 0
+Mar  8 20:48:45 10.71.61.0 acc1094923309 [10.71.61.0|get|0|4166|0|0|0|2f626f7765725f636f6d706f6e656e74732f6a71756572792f7372632f74726176657273696e672e6a73|]
+Mar  8 20:48:45 10.71.61.0 acc1094923309 open "/bower_components/jquery/src/serialize.js" flags READ mode 0666
+Mar  8 20:48:45 10.71.61.0 acc1094923309 open "/bower_components/jquery/src/selector.js" flags READ mode 0666
+Mar  8 20:48:46 10.71.61.0 acc1094923309 close "/bower_components/jquery/src/serialize.js" bytes read 3141 written 0
+Mar  8 20:48:46 10.71.61.0 acc1094923309 [10.71.61.0|get|0|3141|0|0|0|2f626f7765725f636f6d706f6e656e74732f6a71756572792f7372632f73657269616c697a652e6a73|]
+Mar  8 20:48:46 10.71.61.0 acc1094923309 close "/bower_components/jquery/src/selector.js" bytes read 66 written 0
+Mar  8 20:48:46 10.71.61.0 acc1094923309 [10.71.61.0|get|1|66|0|0|0|2f626f7765725f636f6d706f6e656e74732f6a71756572792f7372632f73656c6563746f722e6a73|]
+Mar  8 20:48:46 10.71.61.0 acc1094923309 open "/bower_components/jquery/src/selector-sizzle.js" flags READ mode 0666
+Mar  8 20:48:46 10.71.61.0 acc1094923309 open "/bower_components/jquery/src/selector-native.js" flags READ mode 0666
+Mar  8 20:48:46 10.71.61.0 acc1094923309 close "/bower_components/jquery/src/selector-sizzle.js" bytes read 411 written 0
+Mar  8 20:48:46 10.71.61.0 acc1094923309 close "/bower_components/jquery/src/selector-native.js" bytes read 6394 written 0
+Mar  8 20:48:46 10.71.61.0 acc1094923309 [10.71.61.0|get|0|411|0|0|0|2f626f7765725f636f6d706f6e656e74732f6a71756572792f7372632f73656c6563746f722d73697a7a6c652e6a73|]
+Mar  8 20:48:46 10.71.61.0 acc1094923309 [10.71.61.0|get|0|6394|0|0|0|2f626f7765725f636f6d706f6e656e74732f6a71756572792f7372632f73656c6563746f722d6e61746976652e6a73|]
+Mar  8 20:48:46 10.71.61.0 acc1094923309 open "/bower_components/jquery/src/queue.js" flags READ mode 0666
+Mar  8 20:48:46 10.71.61.0 acc1094923309 open "/bower_components/jquery/src/offset.js" flags READ mode 0666
+Mar  8 20:48:46 10.71.61.0 acc1094923309 close "/bower_components/jquery/src/queue.js" bytes read 3092 written 0
+Mar  8 20:48:46 10.71.61.0 acc1094923309 [10.71.61.0|get|0|3092|0|0|0|2f626f7765725f636f6d706f6e656e74732f6a71756572792f7372632f71756575652e6a73|]
+Mar  8 20:48:46 10.71.61.0 acc1094923309 close "/bower_components/jquery/src/offset.js" bytes read 6345 written 0
+Mar  8 20:48:46 10.71.61.0 acc1094923309 [10.71.61.0|get|0|6345|0|0|0|2f626f7765725f636f6d706f6e656e74732f6a71756572792f7372632f6f66667365742e6a73|]
+Mar  8 20:48:46 10.71.61.0 acc1094923309 open "/bower_components/jquery/src/manipulation.js" flags READ mode 0666
+Mar  8 20:48:46 10.71.61.0 acc1094923309 open "/bower_components/jquery/src/jquery.js" flags READ mode 0666
+Mar  8 20:48:46 10.71.61.0 acc1094923309 close "/bower_components/jquery/src/manipulation.js" bytes read 12438 written 0
+Mar  8 20:48:46 10.71.61.0 acc1094923309 [10.71.61.0|get|0|12438|0|0|0|2f626f7765725f636f6d706f6e656e74732f6a71756572792f7372632f6d616e6970756c6174696f6e2e6a73|]
+Mar  8 20:48:46 10.71.61.0 acc1094923309 close "/bower_components/jquery/src/jquery.js" bytes read 650 written 0
+Mar  8 20:48:46 10.71.61.0 acc1094923309 [10.71.61.0|get|0|650|0|0|0|2f626f7765725f636f6d706f6e656e74732f6a71756572792f7372632f6a71756572792e6a73|]
+Mar  8 20:48:46 10.71.61.0 acc1094923309 open "/bower_components/jquery/src/event.js" flags READ mode 0666
+Mar  8 20:48:46 10.71.61.0 acc1094923309 open "/bower_components/jquery/src/effects.js" flags READ mode 0666
+Mar  8 20:48:47 10.71.61.0 acc1094923309 close "/bower_components/jquery/src/event.js" bytes read 19017 written 0
+Mar  8 20:48:47 10.71.61.0 acc1094923309 close "/bower_components/jquery/src/effects.js" bytes read 17234 written 0
+Mar  8 20:48:47 10.71.61.0 acc1094923309 [10.71.61.0|get|1|19017|0|0|0|2f626f7765725f636f6d706f6e656e74732f6a71756572792f7372632f6576656e742e6a73|]
+Mar  8 20:48:47 10.71.61.0 acc1094923309 [10.71.61.0|get|1|17234|0|0|0|2f626f7765725f636f6d706f6e656e74732f6a71756572792f7372632f656666656374732e6a73|]
+Mar  8 20:48:47 10.71.61.0 acc1094923309 open "/bower_components/jquery/src/dimensions.js" flags READ mode 0666
+Mar  8 20:48:47 10.71.61.0 acc1094923309 open "/bower_components/jquery/src/deprecated.js" flags READ mode 0666
+Mar  8 20:48:47 10.71.61.0 acc1094923309 close "/bower_components/jquery/src/dimensions.js" bytes read 1729 written 0
+Mar  8 20:48:47 10.71.61.0 acc1094923309 [10.71.61.0|get|0|1729|0|0|0|2f626f7765725f636f6d706f6e656e74732f6a71756572792f7372632f64696d656e73696f6e732e6a73|]
+Mar  8 20:48:47 10.71.61.0 acc1094923309 close "/bower_components/jquery/src/deprecated.js" bytes read 596 written 0
+Mar  8 20:48:47 10.71.61.0 acc1094923309 [10.71.61.0|get|0|596|0|0|0|2f626f7765725f636f6d706f6e656e74732f6a71756572792f7372632f646570726563617465642e6a73|]
+Mar  8 20:48:47 10.71.61.0 acc1094923309 open "/bower_components/jquery/src/deferred.js" flags READ mode 0666
+Mar  8 20:48:47 10.71.61.0 acc1094923309 open "/bower_components/jquery/src/data.js" flags READ mode 0666
+Mar  8 20:48:47 10.71.61.0 acc1094923309 close "/bower_components/jquery/src/deferred.js" bytes read 10729 written 0
+Mar  8 20:48:47 10.71.61.0 acc1094923309 [10.71.61.0|get|0|10729|0|0|0|2f626f7765725f636f6d706f6e656e74732f6a71756572792f7372632f64656665727265642e6a73|]
+Mar  8 20:48:47 10.71.61.0 acc1094923309 close "/bower_components/jquery/src/data.js" bytes read 4171 written 0
+Mar  8 20:48:47 10.71.61.0 acc1094923309 [10.71.61.0|get|0|4171|0|0|0|2f626f7765725f636f6d706f6e656e74732f6a71756572792f7372632f646174612e6a73|]
+Mar  8 20:48:47 10.71.61.0 acc1094923309 open "/bower_components/jquery/src/css.js" flags READ mode 0666
+Mar  8 20:48:47 10.71.61.0 acc1094923309 open "/bower_components/jquery/src/core.js" flags READ mode 0666
+Mar  8 20:48:47 10.71.61.0 acc1094923309 close "/bower_components/jquery/src/css.js" bytes read 11457 written 0
+Mar  8 20:48:47 10.71.61.0 acc1094923309 [10.71.61.0|get|0|11457|0|0|0|2f626f7765725f636f6d706f6e656e74732f6a71756572792f7372632f6373732e6a73|]
+Mar  8 20:48:47 10.71.61.0 acc1094923309 close "/bower_components/jquery/src/core.js" bytes read 11329 written 0
+Mar  8 20:48:47 10.71.61.0 acc1094923309 [10.71.61.0|get|0|11329|0|0|0|2f626f7765725f636f6d706f6e656e74732f6a71756572792f7372632f636f72652e6a73|]
+Mar  8 20:48:47 10.71.61.0 acc1094923309 open "/bower_components/jquery/src/callbacks.js" flags READ mode 0666
+Mar  8 20:48:47 10.71.61.0 acc1094923309 open "/bower_components/jquery/src/attributes.js" flags READ mode 0666
+Mar  8 20:48:47 10.71.61.0 acc1094923309 close "/bower_components/jquery/src/callbacks.js" bytes read 5483 written 0
+Mar  8 20:48:47 10.71.61.0 acc1094923309 [10.71.61.0|get|0|5483|0|0|0|2f626f7765725f636f6d706f6e656e74732f6a71756572792f7372632f63616c6c6261636b732e6a73|]
+Mar  8 20:48:48 10.71.61.0 acc1094923309 close "/bower_components/jquery/src/attributes.js" bytes read 217 written 0
+Mar  8 20:48:48 10.71.61.0 acc1094923309 [10.71.61.0|get|0|217|0|0|0|2f626f7765725f636f6d706f6e656e74732f6a71756572792f7372632f617474726962757465732e6a73|]
+Mar  8 20:48:48 10.71.61.0 acc1094923309 open "/bower_components/jquery/src/ajax.js" flags READ mode 0666
+Mar  8 20:48:48 10.71.61.0 acc1094923309 open "/bower_components/jquery/src/ajax/xhr.js" flags READ mode 0666
+Mar  8 20:48:48 10.71.61.0 acc1094923309 close "/bower_components/jquery/src/ajax.js" bytes read 22222 written 0
+Mar  8 20:48:48 10.71.61.0 acc1094923309 [10.71.61.0|get|0|22222|0|0|0|2f626f7765725f636f6d706f6e656e74732f6a71756572792f7372632f616a61782e6a73|]
+Mar  8 20:48:48 10.71.61.0 acc1094923309 close "/bower_components/jquery/src/ajax/xhr.js" bytes read 4298 written 0
+Mar  8 20:48:48 10.71.61.0 acc1094923309 [10.71.61.0|get|0|4298|0|0|0|2f626f7765725f636f6d706f6e656e74732f6a71756572792f7372632f616a61782f7868722e6a73|]
+Mar  8 20:48:48 10.71.61.0 acc1094923309 open "/bower_components/jquery/src/ajax/parseXML.js" flags READ mode 0666
+Mar  8 20:48:48 10.71.61.0 acc1094923309 open "/bower_components/jquery/src/ajax/script.js" flags READ mode 0666
+Mar  8 20:48:48 10.71.61.0 acc1094923309 close "/bower_components/jquery/src/ajax/script.js" bytes read 1583 written 0
+Mar  8 20:48:48 10.71.61.0 acc1094923309 [10.71.61.0|get|0|1583|0|0|0|2f626f7765725f636f6d706f6e656e74732f6a71756572792f7372632f616a61782f7363726970742e6a73|]
+Mar  8 20:48:48 10.71.61.0 acc1094923309 close "/bower_components/jquery/src/ajax/parseXML.js" bytes read 559 written 0
+Mar  8 20:48:48 10.71.61.0 acc1094923309 [10.71.61.0|get|0|559|0|0|0|2f626f7765725f636f6d706f6e656e74732f6a71756572792f7372632f616a61782f7061727365584d4c2e6a73|]
+Mar  8 20:48:48 10.71.61.0 acc1094923309 open "/bower_components/jquery/src/ajax/load.js" flags READ mode 0666
+Mar  8 20:48:48 10.71.61.0 acc1094923309 open "/bower_components/jquery/src/ajax/jsonp.js" flags READ mode 0666
+Mar  8 20:48:48 10.71.61.0 acc1094923309 close "/bower_components/jquery/src/ajax/load.js" bytes read 1825 written 0
+Mar  8 20:48:48 10.71.61.0 acc1094923309 [10.71.61.0|get|0|1825|0|0|0|2f626f7765725f636f6d706f6e656e74732f6a71756572792f7372632f616a61782f6c6f61642e6a73|]
+Mar  8 20:48:48 10.71.61.0 acc1094923309 close "/bower_components/jquery/src/ajax/jsonp.js" bytes read 2728 written 0
+Mar  8 20:48:48 10.71.61.0 acc1094923309 [10.71.61.0|get|0|2728|0|0|0|2f626f7765725f636f6d706f6e656e74732f6a71756572792f7372632f616a61782f6a736f6e702e6a73|]
+Mar  8 20:48:49 10.71.61.0 acc1094923309 open "/bower_components/jquery/src/ajax/var/rquery.js" flags READ mode 0666
+Mar  8 20:48:49 10.71.61.0 acc1094923309 open "/bower_components/jquery/src/ajax/var/nonce.js" flags READ mode 0666
+Mar  8 20:48:49 10.71.61.0 acc1094923309 close "/bower_components/jquery/src/ajax/var/rquery.js" bytes read 60 written 0
+Mar  8 20:48:49 10.71.61.0 acc1094923309 [10.71.61.0|get|0|60|0|0|0|2f626f7765725f636f6d706f6e656e74732f6a71756572792f7372632f616a61782f7661722f7271756572792e6a73|]
+Mar  8 20:48:49 10.71.61.0 acc1094923309 close "/bower_components/jquery/src/ajax/var/nonce.js" bytes read 91 written 0
+Mar  8 20:48:49 10.71.61.0 acc1094923309 [10.71.61.0|get|0|91|0|0|0|2f626f7765725f636f6d706f6e656e74732f6a71756572792f7372632f616a61782f7661722f6e6f6e63652e6a73|]
+Mar  8 20:48:49 10.71.61.0 acc1094923309 open "/bower_components/jquery/src/ajax/var/location.js" flags READ mode 0666
+Mar  8 20:48:49 10.71.61.0 acc1094923309 close "/bower_components/jquery/src/ajax/var/location.js" bytes read 67 written 0
+Mar  8 20:48:49 10.71.61.0 acc1094923309 [10.71.61.0|get|0|67|0|0|0|2f626f7765725f636f6d706f6e656e74732f6a71756572792f7372632f616a61782f7661722f6c6f636174696f6e2e6a73|]
+Mar  8 20:48:49 10.71.61.0 acc1094923309 open "/bower_components/jquery/src/attributes/val.js" flags READ mode 0666
+Mar  8 20:48:49 10.71.61.0 acc1094923309 close "/bower_components/jquery/src/attributes/val.js" bytes read 4141 written 0
+Mar  8 20:48:49 10.71.61.0 acc1094923309 [10.71.61.0|get|0|4141|0|0|0|2f626f7765725f636f6d706f6e656e74732f6a71756572792f7372632f617474726962757465732f76616c2e6a73|]
+Mar  8 20:48:49 10.71.61.0 acc1094923309 open "/bower_components/jquery/src/attributes/support.js" flags READ mode 0666
+Mar  8 20:48:49 10.71.61.0 acc1094923309 open "/bower_components/jquery/src/attributes/prop.js" flags READ mode 0666
+Mar  8 20:48:49 10.71.61.0 acc1094923309 close "/bower_components/jquery/src/attributes/support.js" bytes read 786 written 0
+Mar  8 20:48:49 10.71.61.0 acc1094923309 [10.71.61.0|get|0|786|0|0|0|2f626f7765725f636f6d706f6e656e74732f6a71756572792f7372632f617474726962757465732f737570706f72742e6a73|]
+Mar  8 20:48:49 10.71.61.0 acc1094923309 close "/bower_components/jquery/src/attributes/prop.js" bytes read 2755 written 0
+Mar  8 20:48:49 10.71.61.0 acc1094923309 [10.71.61.0|get|0|2755|0|0|0|2f626f7765725f636f6d706f6e656e74732f6a71756572792f7372632f617474726962757465732f70726f702e6a73|]
+Mar  8 20:48:49 10.71.61.0 acc1094923309 open "/bower_components/jquery/src/attributes/classes.js" flags READ mode 0666
+Mar  8 20:48:49 10.71.61.0 acc1094923309 open "/bower_components/jquery/src/attributes/attr.js" flags READ mode 0666
+Mar  8 20:48:50 10.71.61.0 acc1094923309 close "/bower_components/jquery/src/attributes/classes.js" bytes read 4249 written 0
+Mar  8 20:48:50 10.71.61.0 acc1094923309 [10.71.61.0|get|1|4249|0|0|0|2f626f7765725f636f6d706f6e656e74732f6a71756572792f7372632f617474726962757465732f636c61737365732e6a73|]
+Mar  8 20:48:50 10.71.61.0 acc1094923309 close "/bower_components/jquery/src/attributes/attr.js" bytes read 3099 written 0
+Mar  8 20:48:50 10.71.61.0 acc1094923309 [10.71.61.0|get|1|3099|0|0|0|2f626f7765725f636f6d706f6e656e74732f6a71756572792f7372632f617474726962757465732f617474722e6a73|]
+Mar  8 20:48:50 10.71.61.0 acc1094923309 open "/bower_components/jquery/src/core/support.js" flags READ mode 0666
+Mar  8 20:48:50 10.71.61.0 acc1094923309 open "/bower_components/jquery/src/core/readyException.js" flags READ mode 0666
+Mar  8 20:48:50 10.71.61.0 acc1094923309 close "/bower_components/jquery/src/core/support.js" bytes read 631 written 0
+Mar  8 20:48:50 10.71.61.0 acc1094923309 [10.71.61.0|get|0|631|0|0|0|2f626f7765725f636f6d706f6e656e74732f6a71756572792f7372632f636f72652f737570706f72742e6a73|]
+Mar  8 20:48:50 10.71.61.0 acc1094923309 close "/bower_components/jquery/src/core/readyException.js" bytes read 168 written 0
+Mar  8 20:48:50 10.71.61.0 acc1094923309 [10.71.61.0|get|0|168|0|0|0|2f626f7765725f636f6d706f6e656e74732f6a71756572792f7372632f636f72652f7265616479457863657074696f6e2e6a73|]
+Mar  8 20:48:50 10.71.61.0 acc1094923309 open "/bower_components/jquery/src/core/ready-no-deferred.js" flags READ mode 0666
+Mar  8 20:48:50 10.71.61.0 acc1094923309 open "/bower_components/jquery/src/core/ready.js" flags READ mode 0666
+Mar  8 20:48:50 10.71.61.0 acc1094923309 close "/bower_components/jquery/src/core/ready-no-deferred.js" bytes read 2498 written 0
+Mar  8 20:48:50 10.71.61.0 acc1094923309 close "/bower_components/jquery/src/core/ready.js" bytes read 2250 written 0
+Mar  8 20:48:50 10.71.61.0 acc1094923309 [10.71.61.0|get|0|2498|0|0|0|2f626f7765725f636f6d706f6e656e74732f6a71756572792f7372632f636f72652f72656164792d6e6f2d64656665727265642e6a73|]
+Mar  8 20:48:50 10.71.61.0 acc1094923309 [10.71.61.0|get|0|2250|0|0|0|2f626f7765725f636f6d706f6e656e74732f6a71756572792f7372632f636f72652f72656164792e6a73|]
+Mar  8 20:48:50 10.71.61.0 acc1094923309 open "/bower_components/jquery/src/core/parseHTML.js" flags READ mode 0666
+Mar  8 20:48:50 10.71.61.0 acc1094923309 open "/bower_components/jquery/src/core/init.js" flags READ mode 0666
+Mar  8 20:48:50 10.71.61.0 acc1094923309 close "/bower_components/jquery/src/core/parseHTML.js" bytes read 1604 written 0
+Mar  8 20:48:50 10.71.61.0 acc1094923309 [10.71.61.0|get|0|1604|0|0|0|2f626f7765725f636f6d706f6e656e74732f6a71756572792f7372632f636f72652f706172736548544d4c2e6a73|]
+Mar  8 20:48:50 10.71.61.0 acc1094923309 close "/bower_components/jquery/src/core/init.js" bytes read 3316 written 0
+Mar  8 20:48:50 10.71.61.0 acc1094923309 [10.71.61.0|get|0|3316|0|0|0|2f626f7765725f636f6d706f6e656e74732f6a71756572792f7372632f636f72652f696e69742e6a73|]
+Mar  8 20:48:51 10.71.61.0 acc1094923309 open "/bower_components/jquery/src/core/access.js" flags READ mode 0666
+Mar  8 20:48:51 10.71.61.0 acc1094923309 open "/bower_components/jquery/src/core/DOMEval.js" flags READ mode 0666
+Mar  8 20:48:51 10.71.61.0 acc1094923309 close "/bower_components/jquery/src/core/access.js" bytes read 1234 written 0
+Mar  8 20:48:51 10.71.61.0 acc1094923309 [10.71.61.0|get|0|1234|0|0|0|2f626f7765725f636f6d706f6e656e74732f6a71756572792f7372632f636f72652f6163636573732e6a73|]
+Mar  8 20:48:51 10.71.61.0 acc1094923309 close "/bower_components/jquery/src/core/DOMEval.js" bytes read 292 written 0
+Mar  8 20:48:51 10.71.61.0 acc1094923309 [10.71.61.0|get|0|292|0|0|0|2f626f7765725f636f6d706f6e656e74732f6a71756572792f7372632f636f72652f444f4d4576616c2e6a73|]
+Mar  8 20:48:51 10.71.61.0 acc1094923309 open "/bower_components/jquery/src/core/var/rsingleTag.js" flags READ mode 0666
+Mar  8 20:48:51 10.71.61.0 acc1094923309 open "/bower_components/jquery/src/css/support.js" flags READ mode 0666
+Mar  8 20:48:51 10.71.61.0 acc1094923309 close "/bower_components/jquery/src/core/var/rsingleTag.js" bytes read 148 written 0
+Mar  8 20:48:51 10.71.61.0 acc1094923309 [10.71.61.0|get|0|148|0|0|0|2f626f7765725f636f6d706f6e656e74732f6a71756572792f7372632f636f72652f7661722f7273696e676c655461672e6a73|]
+Mar  8 20:48:51 10.71.61.0 acc1094923309 close "/bower_components/jquery/src/css/support.js" bytes read 2453 written 0
+Mar  8 20:48:51 10.71.61.0 acc1094923309 [10.71.61.0|get|0|2453|0|0|0|2f626f7765725f636f6d706f6e656e74732f6a71756572792f7372632f6373732f737570706f72742e6a73|]
+Mar  8 20:48:51 10.71.61.0 acc1094923309 open "/bower_components/jquery/src/css/hiddenVisibleSelectors.js" flags READ mode 0666
+Mar  8 20:48:51 10.71.61.0 acc1094923309 open "/bower_components/jquery/src/css/showHide.js" flags READ mode 0666
+Mar  8 20:48:51 10.71.61.0 acc1094923309 close "/bower_components/jquery/src/css/hiddenVisibleSelectors.js" bytes read 317 written 0
+Mar  8 20:48:51 10.71.61.0 acc1094923309 [10.71.61.0|get|0|317|0|0|0|2f626f7765725f636f6d706f6e656e74732f6a71756572792f7372632f6373732f68696464656e56697369626c6553656c6563746f72732e6a73|]
+Mar  8 20:48:51 10.71.61.0 acc1094923309 close "/bower_components/jquery/src/css/showHide.js" bytes read 2304 written 0
+Mar  8 20:48:51 10.71.61.0 acc1094923309 [10.71.61.0|get|0|2304|0|0|0|2f626f7765725f636f6d706f6e656e74732f6a71756572792f7372632f6373732f73686f77486964652e6a73|]
+Mar  8 20:48:52 10.71.61.0 acc1094923309 open "/bower_components/jquery/src/css/curCSS.js" flags READ mode 0666
+Mar  8 20:48:52 10.71.61.0 acc1094923309 open "/bower_components/jquery/src/css/adjustCSS.js" flags READ mode 0666
+Mar  8 20:48:52 10.71.61.0 acc1094923309 close "/bower_components/jquery/src/css/curCSS.js" bytes read 1510 written 0
+Mar  8 20:48:52 10.71.61.0 acc1094923309 [10.71.61.0|get|0|1510|0|0|0|2f626f7765725f636f6d706f6e656e74732f6a71756572792f7372632f6373732f6375724353532e6a73|]
+Mar  8 20:48:52 10.71.61.0 acc1094923309 close "/bower_components/jquery/src/css/adjustCSS.js" bytes read 1897 written 0
+Mar  8 20:48:52 10.71.61.0 acc1094923309 [10.71.61.0|get|0|1897|0|0|0|2f626f7765725f636f6d706f6e656e74732f6a71756572792f7372632f6373732f61646a7573744353532e6a73|]
+Mar  8 20:48:52 10.71.61.0 acc1094923309 open "/bower_components/jquery/src/css/addGetHookIf.js" flags READ mode 0666
+Mar  8 20:48:52 10.71.61.0 acc1094923309 close "/bower_components/jquery/src/css/addGetHookIf.js" bytes read 530 written 0
+Mar  8 20:48:52 10.71.61.0 acc1094923309 [10.71.61.0|get|0|530|0|0|0|2f626f7765725f636f6d706f6e656e74732f6a71756572792f7372632f6373732f616464476574486f6f6b49662e6a73|]
+Mar  8 20:48:52 10.71.61.0 acc1094923309 open "/bower_components/jquery/src/css/var/swap.js" flags READ mode 0666
+Mar  8 20:48:52 10.71.61.0 acc1094923309 close "/bower_components/jquery/src/css/var/swap.js" bytes read 520 written 0
+Mar  8 20:48:52 10.71.61.0 acc1094923309 [10.71.61.0|get|0|520|0|0|0|2f626f7765725f636f6d706f6e656e74732f6a71756572792f7372632f6373732f7661722f737761702e6a73|]
+Mar  8 20:48:52 10.71.61.0 acc1094923309 open "/bower_components/jquery/src/css/var/rnumnonpx.js" flags READ mode 0666
+Mar  8 20:48:52 10.71.61.0 acc1094923309 open "/bower_components/jquery/src/css/var/rmargin.js" flags READ mode 0666
+Mar  8 20:48:52 10.71.61.0 acc1094923309 close "/bower_components/jquery/src/css/var/rnumnonpx.js" bytes read 131 written 0
+Mar  8 20:48:52 10.71.61.0 acc1094923309 [10.71.61.0|get|0|131|0|0|0|2f626f7765725f636f6d706f6e656e74732f6a71756572792f7372632f6373732f7661722f726e756d6e6f6e70782e6a73|]
+Mar  8 20:48:53 10.71.61.0 acc1094923309 open "/bower_components/jquery/src/css/var/isHiddenWithinTree.js" flags READ mode 0666
+Mar  8 20:48:53 10.71.61.0 acc1094923309 close "/bower_components/jquery/src/css/var/rmargin.js" bytes read 65 written 0
+Mar  8 20:48:53 10.71.61.0 acc1094923309 [10.71.61.0|get|1|65|0|0|0|2f626f7765725f636f6d706f6e656e74732f6a71756572792f7372632f6373732f7661722f726d617267696e2e6a73|]
+Mar  8 20:48:53 10.71.61.0 acc1094923309 close "/bower_components/jquery/src/css/var/isHiddenWithinTree.js" bytes read 1290 written 0
+Mar  8 20:48:53 10.71.61.0 acc1094923309 [10.71.61.0|get|0|1290|0|0|0|2f626f7765725f636f6d706f6e656e74732f6a71756572792f7372632f6373732f7661722f697348696464656e57697468696e547265652e6a73|]
+Mar  8 20:48:53 10.71.61.0 acc1094923309 open "/bower_components/jquery/src/css/var/getStyles.js" flags READ mode 0666
+Mar  8 20:48:53 10.71.61.0 acc1094923309 open "/bower_components/jquery/src/css/var/cssExpand.js" flags READ mode 0666
+Mar  8 20:48:53 10.71.61.0 acc1094923309 close "/bower_components/jquery/src/css/var/getStyles.js" bytes read 401 written 0
+Mar  8 20:48:53 10.71.61.0 acc1094923309 [10.71.61.0|get|0|401|0|0|0|2f626f7765725f636f6d706f6e656e74732f6a71756572792f7372632f6373732f7661722f6765745374796c65732e6a73|]
+Mar  8 20:48:53 10.71.61.0 acc1094923309 close "/bower_components/jquery/src/css/var/cssExpand.js" bytes read 88 written 0
+Mar  8 20:48:53 10.71.61.0 acc1094923309 [10.71.61.0|get|0|88|0|0|0|2f626f7765725f636f6d706f6e656e74732f6a71756572792f7372632f6373732f7661722f637373457870616e642e6a73|]
+Mar  8 20:48:53 10.71.61.0 acc1094923309 open "/bower_components/jquery/src/data/Data.js" flags READ mode 0666
+Mar  8 20:48:54 10.71.61.0 acc1094923309 sent status No such file
+Mar  8 20:48:54 10.71.61.0 acc1094923309 open "/bower_components/jquery/src/data/var/dataUser.js" flags READ mode 0666
+Mar  8 20:48:54 10.71.61.0 acc1094923309 close "/bower_components/jquery/src/data/Data.js" bytes read 3943 written 0
+Mar  8 20:48:54 10.71.61.0 acc1094923309 [10.71.61.0|get|1|3943|0|0|0|2f626f7765725f636f6d706f6e656e74732f6a71756572792f7372632f646174612f446174612e6a73|]
+Mar  8 20:48:54 10.71.61.0 acc1094923309 close "/bower_components/jquery/src/data/var/dataUser.js" bytes read 84 written 0
+Mar  8 20:48:54 10.71.61.0 acc1094923309 [10.71.61.0|get|0|84|0|0|0|2f626f7765725f636f6d706f6e656e74732f6a71756572792f7372632f646174612f7661722f64617461557365722e6a73|]
+Mar  8 20:48:54 10.71.61.0 acc1094923309 open "/bower_components/jquery/src/data/var/dataPriv.js" flags READ mode 0666
+Mar  8 20:48:54 10.71.61.0 acc1094923309 open "/bower_components/jquery/src/data/var/acceptData.js" flags READ mode 0666
+Mar  8 20:48:54 10.71.61.0 acc1094923309 close "/bower_components/jquery/src/data/var/dataPriv.js" bytes read 84 written 0
+Mar  8 20:48:54 10.71.61.0 acc1094923309 [10.71.61.0|get|0|84|0|0|0|2f626f7765725f636f6d706f6e656e74732f6a71756572792f7372632f646174612f7661722f64617461507269762e6a73|]
+Mar  8 20:48:54 10.71.61.0 acc1094923309 close "/bower_components/jquery/src/data/var/acceptData.js" bytes read 318 written 0
+Mar  8 20:48:54 10.71.61.0 acc1094923309 [10.71.61.0|get|0|318|0|0|0|2f626f7765725f636f6d706f6e656e74732f6a71756572792f7372632f646174612f7661722f616363657074446174612e6a73|]
+Mar  8 20:48:54 10.71.61.0 acc1094923309 open "/bower_components/jquery/src/deferred/exceptionHook.js" flags READ mode 0666
+Mar  8 20:48:54 10.71.61.0 acc1094923309 open "/bower_components/jquery/src/effects/animatedSelector.js" flags READ mode 0666
+Mar  8 20:48:54 10.71.61.0 acc1094923309 close "/bower_components/jquery/src/deferred/exceptionHook.js" bytes read 640 written 0
+Mar  8 20:48:54 10.71.61.0 acc1094923309 [10.71.61.0|get|0|640|0|0|0|2f626f7765725f636f6d706f6e656e74732f6a71756572792f7372632f64656665727265642f657863657074696f6e486f6f6b2e6a73|]
+Mar  8 20:48:54 10.71.61.0 acc1094923309 close "/bower_components/jquery/src/effects/animatedSelector.js" bytes read 244 written 0
+Mar  8 20:48:54 10.71.61.0 acc1094923309 [10.71.61.0|get|0|244|0|0|0|2f626f7765725f636f6d706f6e656e74732f6a71756572792f7372632f656666656374732f616e696d6174656453656c6563746f722e6a73|]
+Mar  8 20:48:55 10.71.61.0 acc1094923309 open "/bower_components/jquery/src/effects/Tween.js" flags READ mode 0666
+Mar  8 20:48:55 10.71.61.0 acc1094923309 open "/bower_components/jquery/src/event/trigger.js" flags READ mode 0666
+Mar  8 20:48:55 10.71.61.0 acc1094923309 close "/bower_components/jquery/src/effects/Tween.js" bytes read 3252 written 0
+Mar  8 20:48:55 10.71.61.0 acc1094923309 [10.71.61.0|get|0|3252|0|0|0|2f626f7765725f636f6d706f6e656e74732f6a71756572792f7372632f656666656374732f547765656e2e6a73|]
+Mar  8 20:48:55 10.71.61.0 acc1094923309 close "/bower_components/jquery/src/event/trigger.js" bytes read 5002 written 0
+Mar  8 20:48:55 10.71.61.0 acc1094923309 [10.71.61.0|get|0|5002|0|0|0|2f626f7765725f636f6d706f6e656e74732f6a71756572792f7372632f6576656e742f747269676765722e6a73|]
+Mar  8 20:48:55 10.71.61.0 acc1094923309 open "/bower_components/jquery/src/event/focusin.js" flags READ mode 0666
+Mar  8 20:48:55 10.71.61.0 acc1094923309 open "/bower_components/jquery/src/event/support.js" flags READ mode 0666
+Mar  8 20:48:55 10.71.61.0 acc1094923309 close "/bower_components/jquery/src/event/focusin.js" bytes read 1512 written 0
+Mar  8 20:48:55 10.71.61.0 acc1094923309 [10.71.61.0|get|0|1512|0|0|0|2f626f7765725f636f6d706f6e656e74732f6a71756572792f7372632f6576656e742f666f637573696e2e6a73|]
+Mar  8 20:48:55 10.71.61.0 acc1094923309 close "/bower_components/jquery/src/event/support.js" bytes read 133 written 0
+Mar  8 20:48:55 10.71.61.0 acc1094923309 [10.71.61.0|get|0|133|0|0|0|2f626f7765725f636f6d706f6e656e74732f6a71756572792f7372632f6576656e742f737570706f72742e6a73|]
+Mar  8 20:48:55 10.71.61.0 acc1094923309 open "/bower_components/jquery/src/event/alias.js" flags READ mode 0666
+Mar  8 20:48:55 10.71.61.0 acc1094923309 open "/bower_components/jquery/src/event/ajax.js" flags READ mode 0666
+Mar  8 20:48:55 10.71.61.0 acc1094923309 close "/bower_components/jquery/src/event/alias.js" bytes read 649 written 0
+Mar  8 20:48:55 10.71.61.0 acc1094923309 [10.71.61.0|get|0|649|0|0|0|2f626f7765725f636f6d706f6e656e74732f6a71756572792f7372632f6576656e742f616c6961732e6a73|]
+Mar  8 20:48:55 10.71.61.0 acc1094923309 close "/bower_components/jquery/src/event/ajax.js" bytes read 346 written 0
+Mar  8 20:48:55 10.71.61.0 acc1094923309 [10.71.61.0|get|0|346|0|0|0|2f626f7765725f636f6d706f6e656e74732f6a71756572792f7372632f6576656e742f616a61782e6a73|]
+Mar  8 20:48:55 10.71.61.0 acc1094923309 open "/bower_components/jquery/src/exports/global.js" flags READ mode 0666
+Mar  8 20:48:55 10.71.61.0 acc1094923309 open "/bower_components/jquery/src/exports/amd.js" flags READ mode 0666
+Mar  8 20:48:56 10.71.61.0 acc1094923309 close "/bower_components/jquery/src/exports/global.js" bytes read 706 written 0
+Mar  8 20:48:56 10.71.61.0 acc1094923309 [10.71.61.0|get|1|706|0|0|0|2f626f7765725f636f6d706f6e656e74732f6a71756572792f7372632f6578706f7274732f676c6f62616c2e6a73|]
+Mar  8 20:48:56 10.71.61.0 acc1094923309 close "/bower_components/jquery/src/exports/amd.js" bytes read 1024 written 0
+Mar  8 20:48:56 10.71.61.0 acc1094923309 [10.71.61.0|get|1|1024|0|0|0|2f626f7765725f636f6d706f6e656e74732f6a71756572792f7372632f6578706f7274732f616d642e6a73|]
+Mar  8 20:48:56 10.71.61.0 acc1094923309 open "/bower_components/jquery/src/manipulation/wrapMap.js" flags READ mode 0666
+Mar  8 20:48:56 10.71.61.0 acc1094923309 open "/bower_components/jquery/src/manipulation/support.js" flags READ mode 0666
+Mar  8 20:48:56 10.71.61.0 acc1094923309 close "/bower_components/jquery/src/manipulation/wrapMap.js" bytes read 798 written 0
+Mar  8 20:48:56 10.71.61.0 acc1094923309 [10.71.61.0|get|0|798|0|0|0|2f626f7765725f636f6d706f6e656e74732f6a71756572792f7372632f6d616e6970756c6174696f6e2f777261704d61702e6a73|]
+Mar  8 20:48:56 10.71.61.0 acc1094923309 close "/bower_components/jquery/src/manipulation/support.js" bytes read 1034 written 0
+Mar  8 20:48:56 10.71.61.0 acc1094923309 [10.71.61.0|get|0|1034|0|0|0|2f626f7765725f636f6d706f6e656e74732f6a71756572792f7372632f6d616e6970756c6174696f6e2f737570706f72742e6a73|]
+Mar  8 20:48:56 10.71.61.0 acc1094923309 open "/bower_components/jquery/src/manipulation/setGlobalEval.js" flags READ mode 0666
+Mar  8 20:48:56 10.71.61.0 acc1094923309 open "/bower_components/jquery/src/manipulation/getAll.js" flags READ mode 0666
+Mar  8 20:48:56 10.71.61.0 acc1094923309 close "/bower_components/jquery/src/manipulation/setGlobalEval.js" bytes read 381 written 0
+Mar  8 20:48:56 10.71.61.0 acc1094923309 [10.71.61.0|get|0|381|0|0|0|2f626f7765725f636f6d706f6e656e74732f6a71756572792f7372632f6d616e6970756c6174696f6e2f736574476c6f62616c4576616c2e6a73|]
+Mar  8 20:48:56 10.71.61.0 acc1094923309 close "/bower_components/jquery/src/manipulation/getAll.js" bytes read 563 written 0
+Mar  8 20:48:56 10.71.61.0 acc1094923309 [10.71.61.0|get|0|563|0|0|0|2f626f7765725f636f6d706f6e656e74732f6a71756572792f7372632f6d616e6970756c6174696f6e2f676574416c6c2e6a73|]
+Mar  8 20:48:56 10.71.61.0 acc1094923309 open "/bower_components/jquery/src/manipulation/buildFragment.js" flags READ mode 0666
+Mar  8 20:48:56 10.71.61.0 acc1094923309 open "/bower_components/jquery/src/manipulation/_evalUrl.js" flags READ mode 0666
+Mar  8 20:48:56 10.71.61.0 acc1094923309 close "/bower_components/jquery/src/manipulation/buildFragment.js" bytes read 2454 written 0
+Mar  8 20:48:56 10.71.61.0 acc1094923309 [10.71.61.0|get|0|2454|0|0|0|2f626f7765725f636f6d706f6e656e74732f6a71756572792f7372632f6d616e6970756c6174696f6e2f6275696c64467261676d656e742e6a73|]
+Mar  8 20:48:56 10.71.61.0 acc1094923309 close "/bower_components/jquery/src/manipulation/_evalUrl.js" bytes read 356 written 0
+Mar  8 20:48:56 10.71.61.0 acc1094923309 [10.71.61.0|get|0|356|0|0|0|2f626f7765725f636f6d706f6e656e74732f6a71756572792f7372632f6d616e6970756c6174696f6e2f5f6576616c55726c2e6a73|]
+Mar  8 20:48:57 10.71.61.0 acc1094923309 open "/bower_components/jquery/src/manipulation/var/rtagName.js" flags READ mode 0666
+Mar  8 20:48:57 10.71.61.0 acc1094923309 open "/bower_components/jquery/src/manipulation/var/rscriptType.js" flags READ mode 0666
+Mar  8 20:48:57 10.71.61.0 acc1094923309 close "/bower_components/jquery/src/manipulation/var/rtagName.js" bytes read 88 written 0
+Mar  8 20:48:57 10.71.61.0 acc1094923309 [10.71.61.0|get|0|88|0|0|0|2f626f7765725f636f6d706f6e656e74732f6a71756572792f7372632f6d616e6970756c6174696f6e2f7661722f727461674e616d652e6a73|]
+Mar  8 20:48:57 10.71.61.0 acc1094923309 close "/bower_components/jquery/src/manipulation/var/rscriptType.js" bytes read 83 written 0
+Mar  8 20:48:57 10.71.61.0 acc1094923309 [10.71.61.0|get|0|83|0|0|0|2f626f7765725f636f6d706f6e656e74732f6a71756572792f7372632f6d616e6970756c6174696f6e2f7661722f72736372697074547970652e6a73|]
+Mar  8 20:48:57 10.71.61.0 acc1094923309 open "/bower_components/jquery/src/manipulation/var/rcheckableType.js" flags READ mode 0666
+Mar  8 20:48:57 10.71.61.0 acc1094923309 close "/bower_components/jquery/src/manipulation/var/rcheckableType.js" bytes read 79 written 0
+Mar  8 20:48:57 10.71.61.0 acc1094923309 [10.71.61.0|get|0|79|0|0|0|2f626f7765725f636f6d706f6e656e74732f6a71756572792f7372632f6d616e6970756c6174696f6e2f7661722f72636865636b61626c65547970652e6a73|]
+Mar  8 20:48:57 10.71.61.0 acc1094923309 open "/bower_components/jquery/src/queue/delay.js" flags READ mode 0666
+Mar  8 20:48:57 10.71.61.0 acc1094923309 close "/bower_components/jquery/src/queue/delay.js" bytes read 636 written 0
+Mar  8 20:48:57 10.71.61.0 acc1094923309 [10.71.61.0|get|0|636|0|0|0|2f626f7765725f636f6d706f6e656e74732f6a71756572792f7372632f71756575652f64656c61792e6a73|]
+Mar  8 20:48:57 10.71.61.0 acc1094923309 open "/bower_components/jquery/src/traversing/findFilter.js" flags READ mode 0666
+Mar  8 20:48:57 10.71.61.0 acc1094923309 open "/bower_components/jquery/src/traversing/var/siblings.js" flags READ mode 0666
+Mar  8 20:48:57 10.71.61.0 acc1094923309 close "/bower_components/jquery/src/traversing/findFilter.js" bytes read 2334 written 0
+Mar  8 20:48:57 10.71.61.0 acc1094923309 [10.71.61.0|get|0|2334|0|0|0|2f626f7765725f636f6d706f6e656e74732f6a71756572792f7372632f74726176657273696e672f66696e6446696c7465722e6a73|]
+Mar  8 20:48:58 10.71.61.0 acc1094923309 close "/bower_components/jquery/src/traversing/var/siblings.js" bytes read 218 written 0
+Mar  8 20:48:58 10.71.61.0 acc1094923309 [10.71.61.0|get|1|218|0|0|0|2f626f7765725f636f6d706f6e656e74732f6a71756572792f7372632f74726176657273696e672f7661722f7369626c696e67732e6a73|]
+Mar  8 20:48:58 10.71.61.0 acc1094923309 open "/bower_components/jquery/src/traversing/var/rneedsContext.js" flags READ mode 0666
+Mar  8 20:48:58 10.71.61.0 acc1094923309 open "/bower_components/jquery/src/traversing/var/dir.js" flags READ mode 0666
+Mar  8 20:48:58 10.71.61.0 acc1094923309 close "/bower_components/jquery/src/traversing/var/dir.js" bytes read 371 written 0
+Mar  8 20:48:58 10.71.61.0 acc1094923309 [10.71.61.0|get|0|371|0|0|0|2f626f7765725f636f6d706f6e656e74732f6a71756572792f7372632f74726176657273696e672f7661722f6469722e6a73|]
+Mar  8 20:48:58 10.71.61.0 acc1094923309 close "/bower_components/jquery/src/traversing/var/rneedsContext.js" bytes read 128 written 0
+Mar  8 20:48:58 10.71.61.0 acc1094923309 [10.71.61.0|get|0|128|0|0|0|2f626f7765725f636f6d706f6e656e74732f6a71756572792f7372632f74726176657273696e672f7661722f726e65656473436f6e746578742e6a73|]
+Mar  8 20:48:58 10.71.61.0 acc1094923309 open "/bower_components/jquery/src/var/toString.js" flags READ mode 0666
+Mar  8 20:48:58 10.71.61.0 acc1094923309 open "/bower_components/jquery/src/var/support.js" flags READ mode 0666
+Mar  8 20:48:58 10.71.61.0 acc1094923309 close "/bower_components/jquery/src/var/toString.js" bytes read 104 written 0
+Mar  8 20:48:58 10.71.61.0 acc1094923309 [10.71.61.0|get|0|104|0|0|0|2f626f7765725f636f6d706f6e656e74732f6a71756572792f7372632f7661722f746f537472696e672e6a73|]
+Mar  8 20:48:58 10.71.61.0 acc1094923309 close "/bower_components/jquery/src/var/support.js" bytes read 117 written 0
+Mar  8 20:48:58 10.71.61.0 acc1094923309 [10.71.61.0|get|0|117|0|0|0|2f626f7765725f636f6d706f6e656e74732f6a71756572792f7372632f7661722f737570706f72742e6a73|]
+Mar  8 20:48:58 10.71.61.0 acc1094923309 open "/bower_components/jquery/src/var/rnotwhite.js" flags READ mode 0666
+Mar  8 20:48:58 10.71.61.0 acc1094923309 open "/bower_components/jquery/src/var/slice.js" flags READ mode 0666
+Mar  8 20:48:58 10.71.61.0 acc1094923309 close "/bower_components/jquery/src/var/rnotwhite.js" bytes read 62 written 0
+Mar  8 20:48:58 10.71.61.0 acc1094923309 [10.71.61.0|get|0|62|0|0|0|2f626f7765725f636f6d706f6e656e74732f6a71756572792f7372632f7661722f726e6f7477686974652e6a73|]
+Mar  8 20:48:58 10.71.61.0 acc1094923309 close "/bower_components/jquery/src/var/slice.js" bytes read 80 written 0
+Mar  8 20:48:58 10.71.61.0 acc1094923309 [10.71.61.0|get|0|80|0|0|0|2f626f7765725f636f6d706f6e656e74732f6a71756572792f7372632f7661722f736c6963652e6a73|]
+Mar  8 20:48:58 10.71.61.0 acc1094923309 open "/bower_components/jquery/src/var/rcssNum.js" flags READ mode 0666
+Mar  8 20:48:58 10.71.61.0 acc1094923309 open "/bower_components/jquery/src/var/push.js" flags READ mode 0666
+Mar  8 20:48:59 10.71.61.0 acc1094923309 close "/bower_components/jquery/src/var/rcssNum.js" bytes read 136 written 0
+Mar  8 20:48:59 10.71.61.0 acc1094923309 [10.71.61.0|get|1|136|0|0|0|2f626f7765725f636f6d706f6e656e74732f6a71756572792f7372632f7661722f726373734e756d2e6a73|]
+Mar  8 20:48:59 10.71.61.0 acc1094923309 close "/bower_components/jquery/src/var/push.js" bytes read 79 written 0
+Mar  8 20:48:59 10.71.61.0 acc1094923309 [10.71.61.0|get|1|79|0|0|0|2f626f7765725f636f6d706f6e656e74732f6a71756572792f7372632f7661722f707573682e6a73|]
+Mar  8 20:48:59 10.71.61.0 acc1094923309 open "/bower_components/jquery/src/var/pnum.js" flags READ mode 0666
+Mar  8 20:48:59 10.71.61.0 acc1094923309 open "/bower_components/jquery/src/var/indexOf.js" flags READ mode 0666
+Mar  8 20:48:59 10.71.61.0 acc1094923309 close "/bower_components/jquery/src/var/pnum.js" bytes read 100 written 0
+Mar  8 20:48:59 10.71.61.0 acc1094923309 [10.71.61.0|get|0|100|0|0|0|2f626f7765725f636f6d706f6e656e74732f6a71756572792f7372632f7661722f706e756d2e6a73|]
+Mar  8 20:48:59 10.71.61.0 acc1094923309 close "/bower_components/jquery/src/var/indexOf.js" bytes read 82 written 0
+Mar  8 20:48:59 10.71.61.0 acc1094923309 [10.71.61.0|get|0|82|0|0|0|2f626f7765725f636f6d706f6e656e74732f6a71756572792f7372632f7661722f696e6465784f662e6a73|]
+Mar  8 20:48:59 10.71.61.0 acc1094923309 open "/bower_components/jquery/src/var/hasOwn.js" flags READ mode 0666
+Mar  8 20:48:59 10.71.61.0 acc1094923309 open "/bower_components/jquery/src/var/getProto.js" flags READ mode 0666
+Mar  8 20:48:59 10.71.61.0 acc1094923309 close "/bower_components/jquery/src/var/getProto.js" bytes read 73 written 0
+Mar  8 20:48:59 10.71.61.0 acc1094923309 [10.71.61.0|get|0|73|0|0|0|2f626f7765725f636f6d706f6e656e74732f6a71756572792f7372632f7661722f67657450726f746f2e6a73|]
+Mar  8 20:48:59 10.71.61.0 acc1094923309 close "/bower_components/jquery/src/var/hasOwn.js" bytes read 110 written 0
+Mar  8 20:48:59 10.71.61.0 acc1094923309 [10.71.61.0|get|0|110|0|0|0|2f626f7765725f636f6d706f6e656e74732f6a71756572792f7372632f7661722f6861734f776e2e6a73|]
+Mar  8 20:48:59 10.71.61.0 acc1094923309 open "/bower_components/jquery/src/var/fnToString.js" flags READ mode 0666
+Mar  8 20:48:59 10.71.61.0 acc1094923309 open "/bower_components/jquery/src/var/documentElement.js" flags READ mode 0666
+Mar  8 20:48:59 10.71.61.0 acc1094923309 close "/bower_components/jquery/src/var/fnToString.js" bytes read 92 written 0
+Mar  8 20:48:59 10.71.61.0 acc1094923309 [10.71.61.0|get|0|92|0|0|0|2f626f7765725f636f6d706f6e656e74732f6a71756572792f7372632f7661722f666e546f537472696e672e6a73|]
+Mar  8 20:48:59 10.71.61.0 acc1094923309 close "/bower_components/jquery/src/var/documentElement.js" bytes read 105 written 0
+Mar  8 20:48:59 10.71.61.0 acc1094923309 [10.71.61.0|get|0|105|0|0|0|2f626f7765725f636f6d706f6e656e74732f6a71756572792f7372632f7661722f646f63756d656e74456c656d656e742e6a73|]
+Mar  8 20:49:00 10.71.61.0 acc1094923309 open "/bower_components/jquery/src/var/document.js" flags READ mode 0666
+Mar  8 20:49:00 10.71.61.0 acc1094923309 open "/bower_components/jquery/src/var/concat.js" flags READ mode 0666
+Mar  8 20:49:00 10.71.61.0 acc1094923309 close "/bower_components/jquery/src/var/concat.js" bytes read 81 written 0
+Mar  8 20:49:00 10.71.61.0 acc1094923309 close "/bower_components/jquery/src/var/document.js" bytes read 67 written 0
+Mar  8 20:49:00 10.71.61.0 acc1094923309 [10.71.61.0|get|0|81|0|0|0|2f626f7765725f636f6d706f6e656e74732f6a71756572792f7372632f7661722f636f6e6361742e6a73|]
+Mar  8 20:49:00 10.71.61.0 acc1094923309 [10.71.61.0|get|0|67|0|0|0|2f626f7765725f636f6d706f6e656e74732f6a71756572792f7372632f7661722f646f63756d656e742e6a73|]
+Mar  8 20:49:00 10.71.61.0 acc1094923309 open "/bower_components/jquery/src/var/class2type.js" flags READ mode 0666
+Mar  8 20:49:00 10.71.61.0 acc1094923309 open "/bower_components/jquery/src/var/arr.js" flags READ mode 0666
+Mar  8 20:49:00 10.71.61.0 acc1094923309 close "/bower_components/jquery/src/var/class2type.js" bytes read 82 written 0
+Mar  8 20:49:00 10.71.61.0 acc1094923309 [10.71.61.0|get|0|82|0|0|0|2f626f7765725f636f6d706f6e656e74732f6a71756572792f7372632f7661722f636c61737332747970652e6a73|]
+Mar  8 20:49:00 10.71.61.0 acc1094923309 close "/bower_components/jquery/src/var/arr.js" bytes read 54 written 0
+Mar  8 20:49:00 10.71.61.0 acc1094923309 [10.71.61.0|get|0|54|0|0|0|2f626f7765725f636f6d706f6e656e74732f6a71756572792f7372632f7661722f6172722e6a73|]
+Mar  8 20:49:00 10.71.61.0 acc1094923309 open "/bower_components/jquery/src/var/ObjectFunctionString.js" flags READ mode 0666
+Mar  8 20:49:00 10.71.61.0 acc1094923309 open "/bower_components/jquery.cycle2.min/index.js" flags READ mode 0666
+Mar  8 20:49:00 10.71.61.0 acc1094923309 close "/bower_components/jquery/src/var/ObjectFunctionString.js" bytes read 110 written 0
+Mar  8 20:49:00 10.71.61.0 acc1094923309 [10.71.61.0|get|0|110|0|0|0|2f626f7765725f636f6d706f6e656e74732f6a71756572792f7372632f7661722f4f626a65637446756e6374696f6e537472696e672e6a73|]
+Mar  8 20:49:00 10.71.61.0 acc1094923309 close "/bower_components/jquery.cycle2.min/index.js" bytes read 22940 written 0
+Mar  8 20:49:00 10.71.61.0 acc1094923309 [10.71.61.0|get|0|22940|0|0|0|2f626f7765725f636f6d706f6e656e74732f6a71756572792e6379636c65322e6d696e2f696e6465782e6a73|]
+Mar  8 20:49:00 10.71.61.0 acc1094923309 open "/css/styles.min.css" flags READ mode 0666
+Mar  8 20:49:01 10.71.61.0 acc1094923309 open "/css/styles.css" flags READ mode 0666
+Mar  8 20:49:01 10.71.61.0 acc1094923309 close "/css/styles.min.css" bytes read 116145 written 0
+Mar  8 20:49:01 10.71.61.0 acc1094923309 [10.71.61.0|get|1|116145|0|0|0|2f6373732f7374796c65732e6d696e2e637373|]
+Mar  8 20:49:01 10.71.61.0 acc1094923309 close "/css/styles.css" bytes read 120625 written 0
+Mar  8 20:49:01 10.71.61.0 acc1094923309 [10.71.61.0|get|0|120625|0|0|0|2f6373732f7374796c65732e637373|]
+Mar  8 20:49:01 10.71.61.0 acc1094923309 open "/img/rommelcabanal-button-right.png" flags READ mode 0666
+Mar  8 20:49:01 10.71.61.0 acc1094923309 close "/img/rommelcabanal-button-right.png" bytes read 428 written 0
+Mar  8 20:49:01 10.71.61.0 acc1094923309 [10.71.61.0|get|0|428|0|0|0|2f696d672f726f6d6d656c636162616e616c2d627574746f6e2d72696768742e706e67|]
+Mar  8 20:49:01 10.71.61.0 acc1094923309 open "/img/rommelcabanal-button-left.png" flags READ mode 0666
+Mar  8 20:49:01 10.71.61.0 acc1094923309 open "/img/rommelcabanal-button-close.png" flags READ mode 0666
+Mar  8 20:49:01 10.71.61.0 acc1094923309 close "/img/rommelcabanal-button-left.png" bytes read 409 written 0
+Mar  8 20:49:01 10.71.61.0 acc1094923309 [10.71.61.0|get|0|409|0|0|0|2f696d672f726f6d6d656c636162616e616c2d627574746f6e2d6c6566742e706e67|]
+Mar  8 20:49:01 10.71.61.0 acc1094923309 close "/img/rommelcabanal-button-close.png" bytes read 604 written 0
+Mar  8 20:49:01 10.71.61.0 acc1094923309 [10.71.61.0|get|0|604|0|0|0|2f696d672f726f6d6d656c636162616e616c2d627574746f6e2d636c6f73652e706e67|]
+Mar  8 20:49:01 10.71.61.0 acc1094923309 open "/img/596/rommel_cabanal_596_3.jpg" flags READ mode 0666
+Mar  8 20:49:01 10.71.61.0 acc1094923309 open "/img/596/rommel_cabanal_596_2.jpg" flags READ mode 0666
+Mar  8 20:49:01 10.71.61.0 acc1094923309 close "/img/596/rommel_cabanal_596_3.jpg" bytes read 197823 written 0
+Mar  8 20:49:01 10.71.61.0 acc1094923309 [10.71.61.0|get|0|197823|0|0|0|2f696d672f3539362f726f6d6d656c5f636162616e616c5f3539365f332e6a7067|]
+Mar  8 20:49:02 10.71.61.0 acc1094923309 close "/img/596/rommel_cabanal_596_2.jpg" bytes read 346474 written 0
+Mar  8 20:49:02 10.71.61.0 acc1094923309 [10.71.61.0|get|1|346474|0|0|0|2f696d672f3539362f726f6d6d656c5f636162616e616c5f3539365f322e6a7067|]
+Mar  8 20:49:02 10.71.61.0 acc1094923309 open "/img/596/rommel_cabanal_596_1.jpg" flags READ mode 0666
+Mar  8 20:49:02 10.71.61.0 acc1094923309 open "/img/adrienne/rommel_cabanal_am_pattern.jpg" flags READ mode 0666
+Mar  8 20:49:02 10.71.61.0 acc1094923309 close "/img/596/rommel_cabanal_596_1.jpg" bytes read 861501 written 0
+Mar  8 20:49:02 10.71.61.0 acc1094923309 [10.71.61.0|get|0|861501|0|0|0|2f696d672f3539362f726f6d6d656c5f636162616e616c5f3539365f312e6a7067|]
+Mar  8 20:49:02 10.71.61.0 acc1094923309 close "/img/adrienne/rommel_cabanal_am_pattern.jpg" bytes read 677029 written 0
+Mar  8 20:49:02 10.71.61.0 acc1094923309 [10.71.61.0|get|0|677029|0|0|0|2f696d672f61647269656e6e652f726f6d6d656c5f636162616e616c5f616d5f7061747465726e2e6a7067|]
+Mar  8 20:49:02 10.71.61.0 acc1094923309 open "/img/adrienne/rommel_cabanal_am_logo.jpg" flags READ mode 0666
+Mar  8 20:49:02 10.71.61.0 acc1094923309 open "/img/adrienne/rommel_cabanal_am_grid.jpg" flags READ mode 0666
+Mar  8 20:49:02 10.71.61.0 acc1094923309 close "/img/adrienne/rommel_cabanal_am_logo.jpg" bytes read 273754 written 0
+Mar  8 20:49:02 10.71.61.0 acc1094923309 [10.71.61.0|get|0|273754|0|0|0|2f696d672f61647269656e6e652f726f6d6d656c5f636162616e616c5f616d5f6c6f676f2e6a7067|]
+Mar  8 20:49:02 10.71.61.0 acc1094923309 close "/img/adrienne/rommel_cabanal_am_grid.jpg" bytes read 414419 written 0
+Mar  8 20:49:02 10.71.61.0 acc1094923309 [10.71.61.0|get|0|414419|0|0|0|2f696d672f61647269656e6e652f726f6d6d656c5f636162616e616c5f616d5f677269642e6a7067|]
+Mar  8 20:49:02 10.71.61.0 acc1094923309 open "/img/adrienne/rommel_cabanal_am_BCs.jpg" flags READ mode 0666
+Mar  8 20:49:02 10.71.61.0 acc1094923309 open "/img/adrienne/rommel_cabanal_am_1.jpg" flags READ mode 0666
+Mar  8 20:49:02 10.71.61.0 acc1094923309 close "/img/adrienne/rommel_cabanal_am_BCs.jpg" bytes read 938664 written 0
+Mar  8 20:49:02 10.71.61.0 acc1094923309 [10.71.61.0|get|0|938664|0|0|0|2f696d672f61647269656e6e652f726f6d6d656c5f636162616e616c5f616d5f4243732e6a7067|]
+Mar  8 20:49:02 10.71.61.0 acc1094923309 close "/img/adrienne/rommel_cabanal_am_1.jpg" bytes read 63652 written 0
+Mar  8 20:49:02 10.71.61.0 acc1094923309 [10.71.61.0|get|0|63652|0|0|0|2f696d672f61647269656e6e652f726f6d6d656c5f636162616e616c5f616d5f312e6a7067|]
+Mar  8 20:49:03 10.71.61.0 acc1094923309 open "/img/bonify/rommel_cabanal_Bonify_Web.jpg" flags READ mode 0666
+Mar  8 20:49:03 10.71.61.0 acc1094923309 open "/img/bonify/rommel_cabanal_Bonify_Web-size.jpg" flags READ mode 0666
+Mar  8 20:49:03 10.71.61.0 acc1094923309 close "/img/bonify/rommel_cabanal_Bonify_Web.jpg" bytes read 541433 written 0
+Mar  8 20:49:03 10.71.61.0 acc1094923309 [10.71.61.0|get|0|541433|0|0|0|2f696d672f626f6e6966792f726f6d6d656c5f636162616e616c5f426f6e6966795f5765622e6a7067|]
+Mar  8 20:49:03 10.71.61.0 acc1094923309 close "/img/bonify/rommel_cabanal_Bonify_Web-size.jpg" bytes read 318511 written 0
+Mar  8 20:49:03 10.71.61.0 acc1094923309 [10.71.61.0|get|0|318511|0|0|0|2f696d672f626f6e6966792f726f6d6d656c5f636162616e616c5f426f6e6966795f5765622d73697a652e6a7067|]
+Mar  8 20:49:03 10.71.61.0 acc1094923309 open "/img/bonify/rommel_cabanal_Bonify_Terpenes-1.jpg" flags READ mode 0666
+Mar  8 20:49:03 10.71.61.0 acc1094923309 open "/img/bonify/rommel_cabanal_Bonify_Tees.jpg" flags READ mode 0666
+Mar  8 20:49:03 10.71.61.0 acc1094923309 close "/img/bonify/rommel_cabanal_Bonify_Terpenes-1.jpg" bytes read 385147 written 0
+Mar  8 20:49:03 10.71.61.0 acc1094923309 [10.71.61.0|get|0|385147|0|0|0|2f696d672f626f6e6966792f726f6d6d656c5f636162616e616c5f426f6e6966795f54657270656e65732d312e6a7067|]
+Mar  8 20:49:03 10.71.61.0 acc1094923309 close "/img/bonify/rommel_cabanal_Bonify_Tees.jpg" bytes read 799384 written 0
+Mar  8 20:49:03 10.71.61.0 acc1094923309 [10.71.61.0|get|0|799384|0|0|0|2f696d672f626f6e6966792f726f6d6d656c5f636162616e616c5f426f6e6966795f546565732e6a7067|]
+Mar  8 20:49:03 10.71.61.0 acc1094923309 open "/img/bonify/rommel_cabanal_Bonify_StrainCards-2.jpg" flags READ mode 0666
+Mar  8 20:49:03 10.71.61.0 acc1094923309 open "/img/bonify/rommel_cabanal_Bonify_StrainCards-1.jpg" flags READ mode 0666
+Mar  8 20:49:03 10.71.61.0 acc1094923309 close "/img/bonify/rommel_cabanal_Bonify_StrainCards-2.jpg" bytes read 979215 written 0
+Mar  8 20:49:03 10.71.61.0 acc1094923309 [10.71.61.0|get|0|979215|0|0|0|2f696d672f626f6e6966792f726f6d6d656c5f636162616e616c5f426f6e6966795f53747261696e43617264732d322e6a7067|]
+Mar  8 20:49:03 10.71.61.0 acc1094923309 close "/img/bonify/rommel_cabanal_Bonify_StrainCards-1.jpg" bytes read 1146211 written 0
+Mar  8 20:49:03 10.71.61.0 acc1094923309 [10.71.61.0|get|0|1146211|0|0|0|2f696d672f626f6e6966792f726f6d6d656c5f636162616e616c5f426f6e6966795f53747261696e43617264732d312e6a7067|]
+Mar  8 20:49:03 10.71.61.0 acc1094923309 open "/img/bonify/rommel_cabanal_Bonify_Strain.jpg" flags READ mode 0666
+Mar  8 20:49:03 10.71.61.0 acc1094923309 open "/img/bonify/rommel_cabanal_Bonify_Stationary.jpg" flags READ mode 0666
+Mar  8 20:49:04 10.71.61.0 acc1094923309 close "/img/bonify/rommel_cabanal_Bonify_Strain.jpg" bytes read 1133075 written 0
+Mar  8 20:49:04 10.71.61.0 acc1094923309 [10.71.61.0|get|1|1133075|0|0|0|2f696d672f626f6e6966792f726f6d6d656c5f636162616e616c5f426f6e6966795f53747261696e2e6a7067|]
+Mar  8 20:49:04 10.71.61.0 acc1094923309 close "/img/bonify/rommel_cabanal_Bonify_Stationary.jpg" bytes read 797387 written 0
+Mar  8 20:49:04 10.71.61.0 acc1094923309 [10.71.61.0|get|1|797387|0|0|0|2f696d672f626f6e6966792f726f6d6d656c5f636162616e616c5f426f6e6966795f53746174696f6e6172792e6a7067|]
+Mar  8 20:49:04 10.71.61.0 acc1094923309 open "/img/bonify/rommel_cabanal_Bonify_Pattern.jpg" flags READ mode 0666
+Mar  8 20:49:04 10.71.61.0 acc1094923309 open "/img/bonify/rommel_cabanal_Bonify_Logo.jpg" flags READ mode 0666
+Mar  8 20:49:04 10.71.61.0 acc1094923309 close "/img/bonify/rommel_cabanal_Bonify_Pattern.jpg" bytes read 1619479 written 0
+Mar  8 20:49:04 10.71.61.0 acc1094923309 [10.71.61.0|get|0|1619479|0|0|0|2f696d672f626f6e6966792f726f6d6d656c5f636162616e616c5f426f6e6966795f5061747465726e2e6a7067|]
+Mar  8 20:49:04 10.71.61.0 acc1094923309 close "/img/bonify/rommel_cabanal_Bonify_Logo.jpg" bytes read 447463 written 0
+Mar  8 20:49:04 10.71.61.0 acc1094923309 [10.71.61.0|get|0|447463|0|0|0|2f696d672f626f6e6966792f726f6d6d656c5f636162616e616c5f426f6e6966795f4c6f676f2e6a7067|]
+Mar  8 20:49:04 10.71.61.0 acc1094923309 open "/img/bonify/rommel_cabanal_Bonify_Folder.jpg" flags READ mode 0666
+Mar  8 20:49:04 10.71.61.0 acc1094923309 open "/img/bonify/.DS_Store" flags READ mode 0666
+Mar  8 20:49:04 10.71.61.0 acc1094923309 close "/img/bonify/.DS_Store" bytes read 6148 written 0
+Mar  8 20:49:04 10.71.61.0 acc1094923309 [10.71.61.0|get|0|6148|0|0|0|2f696d672f626f6e6966792f2e44535f53746f7265|]
+Mar  8 20:49:04 10.71.61.0 acc1094923309 close "/img/bonify/rommel_cabanal_Bonify_Folder.jpg" bytes read 885387 written 0
+Mar  8 20:49:04 10.71.61.0 acc1094923309 [10.71.61.0|get|0|885387|0|0|0|2f696d672f626f6e6966792f726f6d6d656c5f636162616e616c5f426f6e6966795f466f6c6465722e6a7067|]
+Mar  8 20:49:04 10.71.61.0 acc1094923309 open "/img/bosa_properties/rommel_cabanal_maps_2.jpg" flags READ mode 0666
+Mar  8 20:49:04 10.71.61.0 acc1094923309 open "/img/bosa_properties/rommel_cabanal_maps_1.jpg" flags READ mode 0666
+Mar  8 20:49:04 10.71.61.0 acc1094923309 close "/img/bosa_properties/rommel_cabanal_maps_2.jpg" bytes read 404553 written 0
+Mar  8 20:49:04 10.71.61.0 acc1094923309 [10.71.61.0|get|0|404553|0|0|0|2f696d672f626f73615f70726f706572746965732f726f6d6d656c5f636162616e616c5f6d6170735f322e6a7067|]
+Mar  8 20:49:05 10.71.61.0 acc1094923309 close "/img/bosa_properties/rommel_cabanal_maps_1.jpg" bytes read 380730 written 0
+Mar  8 20:49:05 10.71.61.0 acc1094923309 [10.71.61.0|get|1|380730|0|0|0|2f696d672f626f73615f70726f706572746965732f726f6d6d656c5f636162616e616c5f6d6170735f312e6a7067|]
+Mar  8 20:49:05 10.71.61.0 acc1094923309 open "/img/bosa_properties/rommel_cabanal_Bosa_RS_Web2.jpg" flags READ mode 0666
+Mar  8 20:49:05 10.71.61.0 acc1094923309 open "/img/bosa_properties/rommel_cabanal_Bosa_RS_Web1.jpg" flags READ mode 0666
+Mar  8 20:49:05 10.71.61.0 acc1094923309 close "/img/bosa_properties/rommel_cabanal_Bosa_RS_Web2.jpg" bytes read 235834 written 0
+Mar  8 20:49:05 10.71.61.0 acc1094923309 [10.71.61.0|get|0|235834|0|0|0|2f696d672f626f73615f70726f706572746965732f726f6d6d656c5f636162616e616c5f426f73615f52535f576562322e6a7067|]
+Mar  8 20:49:05 10.71.61.0 acc1094923309 close "/img/bosa_properties/rommel_cabanal_Bosa_RS_Web1.jpg" bytes read 248264 written 0
+Mar  8 20:49:05 10.71.61.0 acc1094923309 [10.71.61.0|get|0|248264|0|0|0|2f696d672f626f73615f70726f706572746965732f726f6d6d656c5f636162616e616c5f426f73615f52535f576562312e6a7067|]
+Mar  8 20:49:05 10.71.61.0 acc1094923309 open "/img/bosa_properties/rommel_cabanal_Bosa_RS_2.jpg" flags READ mode 0666
+Mar  8 20:49:05 10.71.61.0 acc1094923309 open "/img/bosa_properties/rommel_cabanal_Bosa_RS_1.jpg" flags READ mode 0666
+Mar  8 20:49:05 10.71.61.0 acc1094923309 close "/img/bosa_properties/rommel_cabanal_Bosa_RS_2.jpg" bytes read 474369 written 0
+Mar  8 20:49:05 10.71.61.0 acc1094923309 [10.71.61.0|get|0|474369|0|0|0|2f696d672f626f73615f70726f706572746965732f726f6d6d656c5f636162616e616c5f426f73615f52535f322e6a7067|]
+Mar  8 20:49:05 10.71.61.0 acc1094923309 close "/img/bosa_properties/rommel_cabanal_Bosa_RS_1.jpg" bytes read 416354 written 0
+Mar  8 20:49:05 10.71.61.0 acc1094923309 [10.71.61.0|get|0|416354|0|0|0|2f696d672f626f73615f70726f706572746965732f726f6d6d656c5f636162616e616c5f426f73615f52535f312e6a7067|]
+Mar  8 20:49:05 10.71.61.0 acc1094923309 open "/img/bosa_properties/rommel_cabanal_Bosa_CAR-5.jpg" flags READ mode 0666
+Mar  8 20:49:05 10.71.61.0 acc1094923309 open "/img/bosa_properties/rommel_cabanal_Bosa_CAR-4.jpg" flags READ mode 0666
+Mar  8 20:49:05 10.71.61.0 acc1094923309 close "/img/bosa_properties/rommel_cabanal_Bosa_CAR-5.jpg" bytes read 1050056 written 0
+Mar  8 20:49:05 10.71.61.0 acc1094923309 [10.71.61.0|get|0|1050056|0|0|0|2f696d672f626f73615f70726f706572746965732f726f6d6d656c5f636162616e616c5f426f73615f4341522d352e6a7067|]
+Mar  8 20:49:05 10.71.61.0 acc1094923309 close "/img/bosa_properties/rommel_cabanal_Bosa_CAR-4.jpg" bytes read 1080707 written 0
+Mar  8 20:49:05 10.71.61.0 acc1094923309 [10.71.61.0|get|0|1080707|0|0|0|2f696d672f626f73615f70726f706572746965732f726f6d6d656c5f636162616e616c5f426f73615f4341522d342e6a7067|]
+Mar  8 20:49:05 10.71.61.0 acc1094923309 open "/img/bosa_properties/rommel_cabanal_Bosa_CAR-3.jpg" flags READ mode 0666
+Mar  8 20:49:05 10.71.61.0 acc1094923309 open "/img/bosa_properties/rommel_cabanal_Bosa_CAR-2.jpg" flags READ mode 0666
+Mar  8 20:49:05 10.71.61.0 acc1094923309 close "/img/bosa_properties/rommel_cabanal_Bosa_CAR-3.jpg" bytes read 919269 written 0
+Mar  8 20:49:05 10.71.61.0 acc1094923309 [10.71.61.0|get|0|919269|0|0|0|2f696d672f626f73615f70726f706572746965732f726f6d6d656c5f636162616e616c5f426f73615f4341522d332e6a7067|]
+Mar  8 20:49:05 10.71.61.0 acc1094923309 close "/img/bosa_properties/rommel_cabanal_Bosa_CAR-2.jpg" bytes read 1007897 written 0
+Mar  8 20:49:05 10.71.61.0 acc1094923309 [10.71.61.0|get|0|1007897|0|0|0|2f696d672f626f73615f70726f706572746965732f726f6d6d656c5f636162616e616c5f426f73615f4341522d322e6a7067|]
+Mar  8 20:49:06 10.71.61.0 acc1094923309 open "/img/bosa_properties/rommel_cabanal_Bosa_CAR-1.jpg" flags READ mode 0666
+Mar  8 20:49:06 10.71.61.0 acc1094923309 open "/img/business_cards/rommel_cabanal_BC_3.jpg" flags READ mode 0666
+Mar  8 20:49:06 10.71.61.0 acc1094923309 close "/img/bosa_properties/rommel_cabanal_Bosa_CAR-1.jpg" bytes read 1025677 written 0
+Mar  8 20:49:06 10.71.61.0 acc1094923309 [10.71.61.0|get|0|1025677|0|0|0|2f696d672f626f73615f70726f706572746965732f726f6d6d656c5f636162616e616c5f426f73615f4341522d312e6a7067|]
+Mar  8 20:49:06 10.71.61.0 acc1094923309 close "/img/business_cards/rommel_cabanal_BC_3.jpg" bytes read 303874 written 0
+Mar  8 20:49:06 10.71.61.0 acc1094923309 [10.71.61.0|get|0|303874|0|0|0|2f696d672f627573696e6573735f63617264732f726f6d6d656c5f636162616e616c5f42435f332e6a7067|]
+Mar  8 20:49:06 10.71.61.0 acc1094923309 open "/img/business_cards/rommel_cabanal_BC_2.jpg" flags READ mode 0666
+Mar  8 20:49:06 10.71.61.0 acc1094923309 open "/img/business_cards/rommel_cabanal_BC_1.jpg" flags READ mode 0666
+Mar  8 20:49:06 10.71.61.0 acc1094923309 close "/img/business_cards/rommel_cabanal_BC_2.jpg" bytes read 388619 written 0
+Mar  8 20:49:06 10.71.61.0 acc1094923309 [10.71.61.0|get|0|388619|0|0|0|2f696d672f627573696e6573735f63617264732f726f6d6d656c5f636162616e616c5f42435f322e6a7067|]
+Mar  8 20:49:06 10.71.61.0 acc1094923309 close "/img/business_cards/rommel_cabanal_BC_1.jpg" bytes read 388332 written 0
+Mar  8 20:49:06 10.71.61.0 acc1094923309 [10.71.61.0|get|0|388332|0|0|0|2f696d672f627573696e6573735f63617264732f726f6d6d656c5f636162616e616c5f42435f312e6a7067|]
+Mar  8 20:49:06 10.71.61.0 acc1094923309 open "/img/corporate source/rommel_cabanal_Corp_Stationary-3.jpg" flags READ mode 0666
+Mar  8 20:49:06 10.71.61.0 acc1094923309 open "/img/corporate source/rommel_cabanal_Corp_Stationary-2.jpg" flags READ mode 0666
+Mar  8 20:49:07 10.71.61.0 acc1094923309 close "/img/corporate source/rommel_cabanal_Corp_Stationary-3.jpg" bytes read 575038 written 0
+Mar  8 20:49:07 10.71.61.0 acc1094923309 [10.71.61.0|get|1|575038|0|0|0|2f696d672f636f72706f7261746520736f757263652f726f6d6d656c5f636162616e616c5f436f72705f53746174696f6e6172792d332e6a7067|]
+Mar  8 20:49:07 10.71.61.0 acc1094923309 close "/img/corporate source/rommel_cabanal_Corp_Stationary-2.jpg" bytes read 1407158 written 0
+Mar  8 20:49:07 10.71.61.0 acc1094923309 [10.71.61.0|get|1|1407158|0|0|0|2f696d672f636f72706f7261746520736f757263652f726f6d6d656c5f636162616e616c5f436f72705f53746174696f6e6172792d322e6a7067|]
+Mar  8 20:49:07 10.71.61.0 acc1094923309 open "/img/corporate source/rommel_cabanal_Corp_Stationary-1.jpg" flags READ mode 0666
+Mar  8 20:49:07 10.71.61.0 acc1094923309 open "/img/corporate source/rommel_cabanal_Corp_Logo-2.jpg" flags READ mode 0666
+Mar  8 20:49:07 10.71.61.0 acc1094923309 close "/img/corporate source/rommel_cabanal_Corp_Stationary-1.jpg" bytes read 995411 written 0
+Mar  8 20:49:07 10.71.61.0 acc1094923309 [10.71.61.0|get|0|995411|0|0|0|2f696d672f636f72706f7261746520736f757263652f726f6d6d656c5f636162616e616c5f436f72705f53746174696f6e6172792d312e6a7067|]
+Mar  8 20:49:07 10.71.61.0 acc1094923309 close "/img/corporate source/rommel_cabanal_Corp_Logo-2.jpg" bytes read 727993 written 0
+Mar  8 20:49:07 10.71.61.0 acc1094923309 [10.71.61.0|get|0|727993|0|0|0|2f696d672f636f72706f7261746520736f757263652f726f6d6d656c5f636162616e616c5f436f72705f4c6f676f2d322e6a7067|]
+Mar  8 20:49:07 10.71.61.0 acc1094923309 open "/img/frontiers/rommel_cabanal_FNA-9.jpg" flags READ mode 0666
+Mar  8 20:49:07 10.71.61.0 acc1094923309 open "/img/frontiers/rommel_cabanal_FNA-8.jpg" flags READ mode 0666
+Mar  8 20:49:07 10.71.61.0 acc1094923309 close "/img/frontiers/rommel_cabanal_FNA-9.jpg" bytes read 1054242 written 0
+Mar  8 20:49:07 10.71.61.0 acc1094923309 [10.71.61.0|get|0|1054242|0|0|0|2f696d672f66726f6e74696572732f726f6d6d656c5f636162616e616c5f464e412d392e6a7067|]
+Mar  8 20:49:07 10.71.61.0 acc1094923309 close "/img/frontiers/rommel_cabanal_FNA-8.jpg" bytes read 1162422 written 0
+Mar  8 20:49:07 10.71.61.0 acc1094923309 [10.71.61.0|get|0|1162422|0|0|0|2f696d672f66726f6e74696572732f726f6d6d656c5f636162616e616c5f464e412d382e6a7067|]
+Mar  8 20:49:07 10.71.61.0 acc1094923309 open "/img/frontiers/rommel_cabanal_FNA-7.jpg" flags READ mode 0666
+Mar  8 20:49:07 10.71.61.0 acc1094923309 open "/img/frontiers/rommel_cabanal_FNA-6.jpg" flags READ mode 0666
+Mar  8 20:49:07 10.71.61.0 acc1094923309 close "/img/frontiers/rommel_cabanal_FNA-7.jpg" bytes read 1016967 written 0
+Mar  8 20:49:07 10.71.61.0 acc1094923309 [10.71.61.0|get|0|1016967|0|0|0|2f696d672f66726f6e74696572732f726f6d6d656c5f636162616e616c5f464e412d372e6a7067|]
+Mar  8 20:49:07 10.71.61.0 acc1094923309 close "/img/frontiers/rommel_cabanal_FNA-6.jpg" bytes read 733234 written 0
+Mar  8 20:49:07 10.71.61.0 acc1094923309 [10.71.61.0|get|0|733234|0|0|0|2f696d672f66726f6e74696572732f726f6d6d656c5f636162616e616c5f464e412d362e6a7067|]
+Mar  8 20:49:07 10.71.61.0 acc1094923309 open "/img/frontiers/rommel_cabanal_FNA-5.jpg" flags READ mode 0666
+Mar  8 20:49:08 10.71.61.0 acc1094923309 open "/img/frontiers/rommel_cabanal_FNA-4.jpg" flags READ mode 0666
+Mar  8 20:49:08 10.71.61.0 acc1094923309 close "/img/frontiers/rommel_cabanal_FNA-5.jpg" bytes read 1042248 written 0
+Mar  8 20:49:08 10.71.61.0 acc1094923309 [10.71.61.0|get|1|1042248|0|0|0|2f696d672f66726f6e74696572732f726f6d6d656c5f636162616e616c5f464e412d352e6a7067|]
+Mar  8 20:49:08 10.71.61.0 acc1094923309 close "/img/frontiers/rommel_cabanal_FNA-4.jpg" bytes read 1515673 written 0
+Mar  8 20:49:08 10.71.61.0 acc1094923309 [10.71.61.0|get|0|1515673|0|0|0|2f696d672f66726f6e74696572732f726f6d6d656c5f636162616e616c5f464e412d342e6a7067|]
+Mar  8 20:49:08 10.71.61.0 acc1094923309 open "/img/frontiers/rommel_cabanal_FNA-3.jpg" flags READ mode 0666
+Mar  8 20:49:08 10.71.61.0 acc1094923309 open "/img/frontiers/rommel_cabanal_FNA-2.jpg" flags READ mode 0666
+Mar  8 20:49:08 10.71.61.0 acc1094923309 close "/img/frontiers/rommel_cabanal_FNA-3.jpg" bytes read 1157556 written 0
+Mar  8 20:49:08 10.71.61.0 acc1094923309 [10.71.61.0|get|0|1157556|0|0|0|2f696d672f66726f6e74696572732f726f6d6d656c5f636162616e616c5f464e412d332e6a7067|]
+Mar  8 20:49:08 10.71.61.0 acc1094923309 close "/img/frontiers/rommel_cabanal_FNA-2.jpg" bytes read 923088 written 0
+Mar  8 20:49:08 10.71.61.0 acc1094923309 [10.71.61.0|get|0|923088|0|0|0|2f696d672f66726f6e74696572732f726f6d6d656c5f636162616e616c5f464e412d322e6a7067|]
+Mar  8 20:49:08 10.71.61.0 acc1094923309 open "/img/frontiers/rommel_cabanal_FNA-11.jpg" flags READ mode 0666
+Mar  8 20:49:08 10.71.61.0 acc1094923309 open "/img/frontiers/rommel_cabanal_FNA-10.jpg" flags READ mode 0666
+Mar  8 20:49:08 10.71.61.0 acc1094923309 close "/img/frontiers/rommel_cabanal_FNA-11.jpg" bytes read 1024545 written 0
+Mar  8 20:49:08 10.71.61.0 acc1094923309 [10.71.61.0|get|0|1024545|0|0|0|2f696d672f66726f6e74696572732f726f6d6d656c5f636162616e616c5f464e412d31312e6a7067|]
+Mar  8 20:49:08 10.71.61.0 acc1094923309 close "/img/frontiers/rommel_cabanal_FNA-10.jpg" bytes read 1036635 written 0
+Mar  8 20:49:08 10.71.61.0 acc1094923309 [10.71.61.0|get|0|1036635|0|0|0|2f696d672f66726f6e74696572732f726f6d6d656c5f636162616e616c5f464e412d31302e6a7067|]
+Mar  8 20:49:08 10.71.61.0 acc1094923309 open "/img/frontiers/rommel_cabanal_FNA-1.jpg" flags READ mode 0666
+Mar  8 20:49:08 10.71.61.0 acc1094923309 open "/img/frontiers /rommel_cabanal_FNA-3.jpg" flags READ mode 0666
+Mar  8 20:49:08 10.71.61.0 acc1094923309 close "/img/frontiers/rommel_cabanal_FNA-1.jpg" bytes read 1917344 written 0
+Mar  8 20:49:08 10.71.61.0 acc1094923309 [10.71.61.0|get|0|1917344|0|0|0|2f696d672f66726f6e74696572732f726f6d6d656c5f636162616e616c5f464e412d312e6a7067|]
+Mar  8 20:49:08 10.71.61.0 acc1094923309 close "/img/frontiers /rommel_cabanal_FNA-3.jpg" bytes read 0 written 0
+Mar  8 20:49:08 10.71.61.0 acc1094923309 [10.71.61.0|get|0|0|0|0|0|2f696d672f66726f6e7469657273202f726f6d6d656c5f636162616e616c5f464e412d332e6a7067|]
+Mar  8 20:49:09 10.71.61.0 acc1094923309 open "/img/frontiers /rommel_cabanal_FNA-1.jpg" flags READ mode 0666
+Mar  8 20:49:09 10.71.61.0 acc1094923309 close "/img/frontiers /rommel_cabanal_FNA-1.jpg" bytes read 0 written 0
+Mar  8 20:49:09 10.71.61.0 acc1094923309 [10.71.61.0|get|0|0|0|0|0|2f696d672f66726f6e7469657273202f726f6d6d656c5f636162616e616c5f464e412d312e6a7067|]
+Mar  8 20:49:09 10.71.61.0 acc1094923309 open "/img/frontiers /rommel_cabanal_FNA-2.jpg" flags READ mode 0666
+Mar  8 20:49:09 10.71.61.0 acc1094923309 close "/img/frontiers /rommel_cabanal_FNA-2.jpg" bytes read 0 written 0
+Mar  8 20:49:09 10.71.61.0 acc1094923309 [10.71.61.0|get|0|0|0|0|0|2f696d672f66726f6e7469657273202f726f6d6d656c5f636162616e616c5f464e412d322e6a7067|]
+Mar  8 20:49:09 10.71.61.0 acc1094923309 open "/img/iconics/rommel_cabanal_iconics_3.jpg" flags READ mode 0666
+Mar  8 20:49:09 10.71.61.0 acc1094923309 open "/img/iconics/rommel_cabanal_iconics_2.jpg" flags READ mode 0666
+Mar  8 20:49:09 10.71.61.0 acc1094923309 close "/img/iconics/rommel_cabanal_iconics_3.jpg" bytes read 1464079 written 0
+Mar  8 20:49:09 10.71.61.0 acc1094923309 [10.71.61.0|get|0|1464079|0|0|0|2f696d672f69636f6e6963732f726f6d6d656c5f636162616e616c5f69636f6e6963735f332e6a7067|]
+Mar  8 20:49:09 10.71.61.0 acc1094923309 close "/img/iconics/rommel_cabanal_iconics_2.jpg" bytes read 1528994 written 0
+Mar  8 20:49:09 10.71.61.0 acc1094923309 [10.71.61.0|get|0|1528994|0|0|0|2f696d672f69636f6e6963732f726f6d6d656c5f636162616e616c5f69636f6e6963735f322e6a7067|]
+Mar  8 20:49:09 10.71.61.0 acc1094923309 open "/img/iconics/rommel_cabanal_iconics_1.jpg" flags READ mode 0666
+Mar  8 20:49:09 10.71.61.0 acc1094923309 close "/img/iconics/rommel_cabanal_iconics_1.jpg" bytes read 1527454 written 0
+Mar  8 20:49:09 10.71.61.0 acc1094923309 [10.71.61.0|get|0|1527454|0|0|0|2f696d672f69636f6e6963732f726f6d6d656c5f636162616e616c5f69636f6e6963735f312e6a7067|]
+Mar  8 20:49:09 10.71.61.0 acc1094923309 open "/img/jersey/rommel_cabanal_player_3.jpg" flags READ mode 0666
+Mar  8 20:49:09 10.71.61.0 acc1094923309 close "/img/jersey/rommel_cabanal_player_3.jpg" bytes read 1137385 written 0
+Mar  8 20:49:09 10.71.61.0 acc1094923309 [10.71.61.0|get|0|1137385|0|0|0|2f696d672f6a65727365792f726f6d6d656c5f636162616e616c5f706c617965725f332e6a7067|]
+Mar  8 20:49:09 10.71.61.0 acc1094923309 open "/img/jersey/rommel_cabanal_player_2.jpg" flags READ mode 0666
+Mar  8 20:49:10 10.71.61.0 acc1094923309 open "/img/jersey/rommel_cabanal_player_1.jpg" flags READ mode 0666
+Mar  8 20:49:10 10.71.61.0 acc1094923309 close "/img/jersey/rommel_cabanal_player_2.jpg" bytes read 1193298 written 0
+Mar  8 20:49:10 10.71.61.0 acc1094923309 [10.71.61.0|get|1|1193298|0|0|0|2f696d672f6a65727365792f726f6d6d656c5f636162616e616c5f706c617965725f322e6a7067|]
+Mar  8 20:49:10 10.71.61.0 acc1094923309 open "/img/jersey/rommel_cabanal_jersey_3.jpg" flags READ mode 0666
+Mar  8 20:49:10 10.71.61.0 acc1094923309 close "/img/jersey/rommel_cabanal_player_1.jpg" bytes read 1255093 written 0
+Mar  8 20:49:10 10.71.61.0 acc1094923309 [10.71.61.0|get|0|1255093|0|0|0|2f696d672f6a65727365792f726f6d6d656c5f636162616e616c5f706c617965725f312e6a7067|]
+Mar  8 20:49:10 10.71.61.0 acc1094923309 open "/img/jersey/rommel_cabanal_jersey_2.jpg" flags READ mode 0666
+Mar  8 20:49:10 10.71.61.0 acc1094923309 close "/img/jersey/rommel_cabanal_jersey_3.jpg" bytes read 251880 written 0
+Mar  8 20:49:10 10.71.61.0 acc1094923309 [10.71.61.0|get|0|251880|0|0|0|2f696d672f6a65727365792f726f6d6d656c5f636162616e616c5f6a65727365795f332e6a7067|]
+Mar  8 20:49:10 10.71.61.0 acc1094923309 open "/img/jersey/rommel_cabanal_jersey_1.jpg" flags READ mode 0666
+Mar  8 20:49:10 10.71.61.0 acc1094923309 close "/img/jersey/rommel_cabanal_jersey_2.jpg" bytes read 186604 written 0
+Mar  8 20:49:10 10.71.61.0 acc1094923309 [10.71.61.0|get|0|186604|0|0|0|2f696d672f6a65727365792f726f6d6d656c5f636162616e616c5f6a65727365795f322e6a7067|]
+Mar  8 20:49:10 10.71.61.0 acc1094923309 close "/img/jersey/rommel_cabanal_jersey_1.jpg" bytes read 268640 written 0
+Mar  8 20:49:10 10.71.61.0 acc1094923309 [10.71.61.0|get|0|268640|0|0|0|2f696d672f6a65727365792f726f6d6d656c5f636162616e616c5f6a65727365795f312e6a7067|]
+Mar  8 20:49:10 10.71.61.0 acc1094923309 open "/img/jordan/rommel_cabanal_jordan_3.jpg" flags READ mode 0666
+Mar  8 20:49:10 10.71.61.0 acc1094923309 open "/img/jordan/rommel_cabanal_jordan_2.jpg" flags READ mode 0666
+Mar  8 20:49:10 10.71.61.0 acc1094923309 close "/img/jordan/rommel_cabanal_jordan_3.jpg" bytes read 1661604 written 0
+Mar  8 20:49:10 10.71.61.0 acc1094923309 [10.71.61.0|get|0|1661604|0|0|0|2f696d672f6a6f7264616e2f726f6d6d656c5f636162616e616c5f6a6f7264616e5f332e6a7067|]
+Mar  8 20:49:11 10.71.61.0 acc1094923309 close "/img/jordan/rommel_cabanal_jordan_2.jpg" bytes read 1290341 written 0
+Mar  8 20:49:11 10.71.61.0 acc1094923309 [10.71.61.0|get|1|1290341|0|0|0|2f696d672f6a6f7264616e2f726f6d6d656c5f636162616e616c5f6a6f7264616e5f322e6a7067|]
+Mar  8 20:49:11 10.71.61.0 acc1094923309 open "/img/jordan/rommel_cabanal_jordan_1.jpg" flags READ mode 0666
+Mar  8 20:49:11 10.71.61.0 acc1094923309 close "/img/jordan/rommel_cabanal_jordan_1.jpg" bytes read 1369375 written 0
+Mar  8 20:49:11 10.71.61.0 acc1094923309 [10.71.61.0|get|0|1369375|0|0|0|2f696d672f6a6f7264616e2f726f6d6d656c5f636162616e616c5f6a6f7264616e5f312e6a7067|]
+Mar  8 20:49:11 10.71.61.0 acc1094923309 open "/img/k_study/rommel_cabanal_Ks_3_Alpha.jpg" flags READ mode 0666
+Mar  8 20:49:11 10.71.61.0 acc1094923309 close "/img/k_study/rommel_cabanal_Ks_3_Alpha.jpg" bytes read 125339 written 0
+Mar  8 20:49:11 10.71.61.0 acc1094923309 [10.71.61.0|get|0|125339|0|0|0|2f696d672f6b5f73747564792f726f6d6d656c5f636162616e616c5f4b735f335f416c7068612e6a7067|]
+Mar  8 20:49:11 10.71.61.0 acc1094923309 open "/img/k_study/rommel_cabanal_Ks_3.jpg" flags READ mode 0666
+Mar  8 20:49:11 10.71.61.0 acc1094923309 open "/img/k_study/rommel_cabanal_Ks_2_Alpha.jpg" flags READ mode 0666
+Mar  8 20:49:11 10.71.61.0 acc1094923309 close "/img/k_study/rommel_cabanal_Ks_3.jpg" bytes read 696397 written 0
+Mar  8 20:49:11 10.71.61.0 acc1094923309 [10.71.61.0|get|0|696397|0|0|0|2f696d672f6b5f73747564792f726f6d6d656c5f636162616e616c5f4b735f332e6a7067|]
+Mar  8 20:49:11 10.71.61.0 acc1094923309 close "/img/k_study/rommel_cabanal_Ks_2_Alpha.jpg" bytes read 133851 written 0
+Mar  8 20:49:11 10.71.61.0 acc1094923309 [10.71.61.0|get|0|133851|0|0|0|2f696d672f6b5f73747564792f726f6d6d656c5f636162616e616c5f4b735f325f416c7068612e6a7067|]
+Mar  8 20:49:11 10.71.61.0 acc1094923309 open "/img/k_study/rommel_cabanal_Ks_2.jpg" flags READ mode 0666
+Mar  8 20:49:11 10.71.61.0 acc1094923309 open "/img/k_study/rommel_cabanal_Ks_1.jpg" flags READ mode 0666
+Mar  8 20:49:12 10.71.61.0 acc1094923309 close "/img/k_study/rommel_cabanal_Ks_2.jpg" bytes read 793591 written 0
+Mar  8 20:49:12 10.71.61.0 acc1094923309 [10.71.61.0|get|1|793591|0|0|0|2f696d672f6b5f73747564792f726f6d6d656c5f636162616e616c5f4b735f322e6a7067|]
+Mar  8 20:49:12 10.71.61.0 acc1094923309 close "/img/k_study/rommel_cabanal_Ks_1.jpg" bytes read 723411 written 0
+Mar  8 20:49:12 10.71.61.0 acc1094923309 [10.71.61.0|get|1|723411|0|0|0|2f696d672f6b5f73747564792f726f6d6d656c5f636162616e616c5f4b735f312e6a7067|]
+Mar  8 20:49:12 10.71.61.0 acc1094923309 open "/img/librestream/rommel_cabanal_Librestream-7.jpg" flags READ mode 0666
+Mar  8 20:49:12 10.71.61.0 acc1094923309 open "/img/librestream/rommel_cabanal_Librestream-6.jpg" flags READ mode 0666
+Mar  8 20:49:12 10.71.61.0 acc1094923309 close "/img/librestream/rommel_cabanal_Librestream-7.jpg" bytes read 1235977 written 0
+Mar  8 20:49:12 10.71.61.0 acc1094923309 [10.71.61.0|get|0|1235977|0|0|0|2f696d672f6c6962726573747265616d2f726f6d6d656c5f636162616e616c5f4c6962726573747265616d2d372e6a7067|]
+Mar  8 20:49:12 10.71.61.0 acc1094923309 close "/img/librestream/rommel_cabanal_Librestream-6.jpg" bytes read 1530074 written 0
+Mar  8 20:49:12 10.71.61.0 acc1094923309 [10.71.61.0|get|0|1530074|0|0|0|2f696d672f6c6962726573747265616d2f726f6d6d656c5f636162616e616c5f4c6962726573747265616d2d362e6a7067|]
+Mar  8 20:49:12 10.71.61.0 acc1094923309 open "/img/librestream/rommel_cabanal_Librestream-5.jpg" flags READ mode 0666
+Mar  8 20:49:12 10.71.61.0 acc1094923309 open "/img/librestream/rommel_cabanal_Librestream-4.jpg" flags READ mode 0666
+Mar  8 20:49:12 10.71.61.0 acc1094923309 close "/img/librestream/rommel_cabanal_Librestream-5.jpg" bytes read 888464 written 0
+Mar  8 20:49:12 10.71.61.0 acc1094923309 [10.71.61.0|get|0|888464|0|0|0|2f696d672f6c6962726573747265616d2f726f6d6d656c5f636162616e616c5f4c6962726573747265616d2d352e6a7067|]
+Mar  8 20:49:12 10.71.61.0 acc1094923309 close "/img/librestream/rommel_cabanal_Librestream-4.jpg" bytes read 888393 written 0
+Mar  8 20:49:12 10.71.61.0 acc1094923309 [10.71.61.0|get|0|888393|0|0|0|2f696d672f6c6962726573747265616d2f726f6d6d656c5f636162616e616c5f4c6962726573747265616d2d342e6a7067|]
+Mar  8 20:49:12 10.71.61.0 acc1094923309 open "/img/librestream/rommel_cabanal_Librestream-2.jpg" flags READ mode 0666
+Mar  8 20:49:12 10.71.61.0 acc1094923309 open "/img/librestream/rommel_cabanal_Librestream-3.jpg" flags READ mode 0666
+Mar  8 20:49:12 10.71.61.0 acc1094923309 close "/img/librestream/rommel_cabanal_Librestream-3.jpg" bytes read 483164 written 0
+Mar  8 20:49:12 10.71.61.0 acc1094923309 [10.71.61.0|get|0|483164|0|0|0|2f696d672f6c6962726573747265616d2f726f6d6d656c5f636162616e616c5f4c6962726573747265616d2d332e6a7067|]
+Mar  8 20:49:12 10.71.61.0 acc1094923309 close "/img/librestream/rommel_cabanal_Librestream-2.jpg" bytes read 1427927 written 0
+Mar  8 20:49:12 10.71.61.0 acc1094923309 [10.71.61.0|get|0|1427927|0|0|0|2f696d672f6c6962726573747265616d2f726f6d6d656c5f636162616e616c5f4c6962726573747265616d2d322e6a7067|]
+Mar  8 20:49:13 10.71.61.0 acc1094923309 open "/img/librestream/rommel_cabanal_Librestream-1.jpg" flags READ mode 0666
+Mar  8 20:49:13 10.71.61.0 acc1094923309 close "/img/librestream/rommel_cabanal_Librestream-1.jpg" bytes read 658344 written 0
+Mar  8 20:49:13 10.71.61.0 acc1094923309 open "/img/maps/rommel_cabanal_maps_3.jpg" flags READ mode 0666
+Mar  8 20:49:13 10.71.61.0 acc1094923309 [10.71.61.0|get|0|658344|0|0|0|2f696d672f6c6962726573747265616d2f726f6d6d656c5f636162616e616c5f4c6962726573747265616d2d312e6a7067|]
+Mar  8 20:49:13 10.71.61.0 acc1094923309 close "/img/maps/rommel_cabanal_maps_3.jpg" bytes read 556293 written 0
+Mar  8 20:49:13 10.71.61.0 acc1094923309 [10.71.61.0|get|0|556293|0|0|0|2f696d672f6d6170732f726f6d6d656c5f636162616e616c5f6d6170735f332e6a7067|]
+Mar  8 20:49:13 10.71.61.0 acc1094923309 open "/img/maps/rommel_cabanal_maps_2.jpg" flags READ mode 0666
+Mar  8 20:49:13 10.71.61.0 acc1094923309 open "/img/maps/rommel_cabanal_maps_1.jpg" flags READ mode 0666
+Mar  8 20:49:13 10.71.61.0 acc1094923309 close "/img/maps/rommel_cabanal_maps_2.jpg" bytes read 404553 written 0
+Mar  8 20:49:13 10.71.61.0 acc1094923309 [10.71.61.0|get|0|404553|0|0|0|2f696d672f6d6170732f726f6d6d656c5f636162616e616c5f6d6170735f322e6a7067|]
+Mar  8 20:49:13 10.71.61.0 acc1094923309 close "/img/maps/rommel_cabanal_maps_1.jpg" bytes read 380730 written 0
+Mar  8 20:49:13 10.71.61.0 acc1094923309 [10.71.61.0|get|0|380730|0|0|0|2f696d672f6d6170732f726f6d6d656c5f636162616e616c5f6d6170735f312e6a7067|]
+Mar  8 20:49:13 10.71.61.0 acc1094923309 open "/img/mosaic/rommel_cabanal_MOS_MAP-1.jpg" flags READ mode 0666
+Mar  8 20:49:13 10.71.61.0 acc1094923309 open "/img/mosaic/rommel_cabanal_MOS_HIL-4.jpg" flags READ mode 0666
+Mar  8 20:49:13 10.71.61.0 acc1094923309 close "/img/mosaic/rommel_cabanal_MOS_MAP-1.jpg" bytes read 556293 written 0
+Mar  8 20:49:13 10.71.61.0 acc1094923309 [10.71.61.0|get|0|556293|0|0|0|2f696d672f6d6f736169632f726f6d6d656c5f636162616e616c5f4d4f535f4d41502d312e6a7067|]
+Mar  8 20:49:13 10.71.61.0 acc1094923309 close "/img/mosaic/rommel_cabanal_MOS_HIL-4.jpg" bytes read 922914 written 0
+Mar  8 20:49:13 10.71.61.0 acc1094923309 [10.71.61.0|get|0|922914|0|0|0|2f696d672f6d6f736169632f726f6d6d656c5f636162616e616c5f4d4f535f48494c2d342e6a7067|]
+Mar  8 20:49:14 10.71.61.0 acc1094923309 open "/img/mosaic/rommel_cabanal_MOS_HIL-3.jpg" flags READ mode 0666
+Mar  8 20:49:14 10.71.61.0 acc1094923309 open "/img/mosaic/rommel_cabanal_MOS_HIL-2.jpg" flags READ mode 0666
+Mar  8 20:49:14 10.71.61.0 acc1094923309 close "/img/mosaic/rommel_cabanal_MOS_HIL-3.jpg" bytes read 1377577 written 0
+Mar  8 20:49:14 10.71.61.0 acc1094923309 [10.71.61.0|get|0|1377577|0|0|0|2f696d672f6d6f736169632f726f6d6d656c5f636162616e616c5f4d4f535f48494c2d332e6a7067|]
+Mar  8 20:49:14 10.71.61.0 acc1094923309 close "/img/mosaic/rommel_cabanal_MOS_HIL-2.jpg" bytes read 903056 written 0
+Mar  8 20:49:14 10.71.61.0 acc1094923309 [10.71.61.0|get|0|903056|0|0|0|2f696d672f6d6f736169632f726f6d6d656c5f636162616e616c5f4d4f535f48494c2d322e6a7067|]
+Mar  8 20:49:14 10.71.61.0 acc1094923309 open "/img/mosaic/rommel_cabanal_MOS_HIL-1.jpg" flags READ mode 0666
+Mar  8 20:49:14 10.71.61.0 acc1094923309 open "/img/mosaic/rommel_cabanal_MOS_DOM-4.jpg" flags READ mode 0666
+Mar  8 20:49:14 10.71.61.0 acc1094923309 close "/img/mosaic/rommel_cabanal_MOS_HIL-1.jpg" bytes read 831647 written 0
+Mar  8 20:49:14 10.71.61.0 acc1094923309 [10.71.61.0|get|0|831647|0|0|0|2f696d672f6d6f736169632f726f6d6d656c5f636162616e616c5f4d4f535f48494c2d312e6a7067|]
+Mar  8 20:49:14 10.71.61.0 acc1094923309 close "/img/mosaic/rommel_cabanal_MOS_DOM-4.jpg" bytes read 1020744 written 0
+Mar  8 20:49:14 10.71.61.0 acc1094923309 [10.71.61.0|get|0|1020744|0|0|0|2f696d672f6d6f736169632f726f6d6d656c5f636162616e616c5f4d4f535f444f4d2d342e6a7067|]
+Mar  8 20:49:14 10.71.61.0 acc1094923309 open "/img/mosaic/rommel_cabanal_MOS_DOM-3.jpg" flags READ mode 0666
+Mar  8 20:49:14 10.71.61.0 acc1094923309 open "/img/mosaic/rommel_cabanal_MOS_DOM-2.jpg" flags READ mode 0666
+Mar  8 20:49:14 10.71.61.0 acc1094923309 close "/img/mosaic/rommel_cabanal_MOS_DOM-2.jpg" bytes read 407203 written 0
+Mar  8 20:49:14 10.71.61.0 acc1094923309 close "/img/mosaic/rommel_cabanal_MOS_DOM-3.jpg" bytes read 1061293 written 0
+Mar  8 20:49:14 10.71.61.0 acc1094923309 [10.71.61.0|get|0|407203|0|0|0|2f696d672f6d6f736169632f726f6d6d656c5f636162616e616c5f4d4f535f444f4d2d322e6a7067|]
+Mar  8 20:49:14 10.71.61.0 acc1094923309 [10.71.61.0|get|0|1061293|0|0|0|2f696d672f6d6f736169632f726f6d6d656c5f636162616e616c5f4d4f535f444f4d2d332e6a7067|]
+Mar  8 20:49:14 10.71.61.0 acc1094923309 open "/img/mosaic/rommel_cabanal_MOS_DOM-1.jpg" flags READ mode 0666
+Mar  8 20:49:14 10.71.61.0 acc1094923309 open "/img/mosaic/rommel_cabanal_MOS_BRO-1.jpg" flags READ mode 0666
+Mar  8 20:49:15 10.71.61.0 acc1094923309 close "/img/mosaic/rommel_cabanal_MOS_DOM-1.jpg" bytes read 218060 written 0
+Mar  8 20:49:15 10.71.61.0 acc1094923309 [10.71.61.0|get|1|218060|0|0|0|2f696d672f6d6f736169632f726f6d6d656c5f636162616e616c5f4d4f535f444f4d2d312e6a7067|]
+Mar  8 20:49:15 10.71.61.0 acc1094923309 close "/img/mosaic/rommel_cabanal_MOS_BRO-1.jpg" bytes read 501702 written 0
+Mar  8 20:49:15 10.71.61.0 acc1094923309 [10.71.61.0|get|1|501702|0|0|0|2f696d672f6d6f736169632f726f6d6d656c5f636162616e616c5f4d4f535f42524f2d312e6a7067|]
+Mar  8 20:49:15 10.71.61.0 acc1094923309 open "/img/overarch/rommel_cabanal_OVR_3.jpg" flags READ mode 0666
+Mar  8 20:49:15 10.71.61.0 acc1094923309 open "/img/overarch/rommel_cabanal_OVR_2.jpg" flags READ mode 0666
+Mar  8 20:49:15 10.71.61.0 acc1094923309 close "/img/overarch/rommel_cabanal_OVR_3.jpg" bytes read 1186465 written 0
+Mar  8 20:49:15 10.71.61.0 acc1094923309 [10.71.61.0|get|0|1186465|0|0|0|2f696d672f6f766572617263682f726f6d6d656c5f636162616e616c5f4f56525f332e6a7067|]
+Mar  8 20:49:15 10.71.61.0 acc1094923309 close "/img/overarch/rommel_cabanal_OVR_2.jpg" bytes read 815307 written 0
+Mar  8 20:49:15 10.71.61.0 acc1094923309 [10.71.61.0|get|0|815307|0|0|0|2f696d672f6f766572617263682f726f6d6d656c5f636162616e616c5f4f56525f322e6a7067|]
+Mar  8 20:49:15 10.71.61.0 acc1094923309 open "/img/overarch/rommel_cabanal_OVR_1.jpg" flags READ mode 0666
+Mar  8 20:49:15 10.71.61.0 acc1094923309 open "/img/overarch/.DS_Store" flags READ mode 0666
+Mar  8 20:49:15 10.71.61.0 acc1094923309 close "/img/overarch/rommel_cabanal_OVR_1.jpg" bytes read 552524 written 0
+Mar  8 20:49:15 10.71.61.0 acc1094923309 [10.71.61.0|get|0|552524|0|0|0|2f696d672f6f766572617263682f726f6d6d656c5f636162616e616c5f4f56525f312e6a7067|]
+Mar  8 20:49:15 10.71.61.0 acc1094923309 close "/img/overarch/.DS_Store" bytes read 6148 written 0
+Mar  8 20:49:15 10.71.61.0 acc1094923309 [10.71.61.0|get|0|6148|0|0|0|2f696d672f6f766572617263682f2e44535f53746f7265|]
+Mar  8 20:49:15 10.71.61.0 acc1094923309 open "/img/same/rommel_cabanal_SAME_Combo_1.jpg" flags READ mode 0666
+Mar  8 20:49:15 10.71.61.0 acc1094923309 open "/img/sonship/rommel_cabanal_Sonship_2.jpg" flags READ mode 0666
+Mar  8 20:49:16 10.71.61.0 acc1094923309 close "/img/same/rommel_cabanal_SAME_Combo_1.jpg" bytes read 150007 written 0
+Mar  8 20:49:16 10.71.61.0 acc1094923309 [10.71.61.0|get|1|150007|0|0|0|2f696d672f73616d652f726f6d6d656c5f636162616e616c5f53414d455f436f6d626f5f312e6a7067|]
+Mar  8 20:49:16 10.71.61.0 acc1094923309 close "/img/sonship/rommel_cabanal_Sonship_2.jpg" bytes read 448036 written 0
+Mar  8 20:49:16 10.71.61.0 acc1094923309 [10.71.61.0|get|1|448036|0|0|0|2f696d672f736f6e736869702f726f6d6d656c5f636162616e616c5f536f6e736869705f322e6a7067|]
+Mar  8 20:49:16 10.71.61.0 acc1094923309 open "/img/sonship/rommel_cabanal_Sonship_1.jpg" flags READ mode 0666
+Mar  8 20:49:16 10.71.61.0 acc1094923309 open "/img/spark/rommel_cabanal_Spark_3.jpg" flags READ mode 0666
+Mar  8 20:49:16 10.71.61.0 acc1094923309 close "/img/sonship/rommel_cabanal_Sonship_1.jpg" bytes read 440011 written 0
+Mar  8 20:49:16 10.71.61.0 acc1094923309 [10.71.61.0|get|0|440011|0|0|0|2f696d672f736f6e736869702f726f6d6d656c5f636162616e616c5f536f6e736869705f312e6a7067|]
+Mar  8 20:49:16 10.71.61.0 acc1094923309 close "/img/spark/rommel_cabanal_Spark_3.jpg" bytes read 114767 written 0
+Mar  8 20:49:16 10.71.61.0 acc1094923309 [10.71.61.0|get|0|114767|0|0|0|2f696d672f737061726b2f726f6d6d656c5f636162616e616c5f537061726b5f332e6a7067|]
+Mar  8 20:49:16 10.71.61.0 acc1094923309 open "/img/spark/rommel_cabanal_Spark_1.jpg" flags READ mode 0666
+Mar  8 20:49:16 10.71.61.0 acc1094923309 open "/img/spark/rommel_cabanal_Spark_2.jpg" flags READ mode 0666
+Mar  8 20:49:16 10.71.61.0 acc1094923309 close "/img/spark/rommel_cabanal_Spark_1.jpg" bytes read 502896 written 0
+Mar  8 20:49:16 10.71.61.0 acc1094923309 [10.71.61.0|get|0|502896|0|0|0|2f696d672f737061726b2f726f6d6d656c5f636162616e616c5f537061726b5f312e6a7067|]
+Mar  8 20:49:16 10.71.61.0 acc1094923309 close "/img/spark/rommel_cabanal_Spark_2.jpg" bytes read 223047 written 0
+Mar  8 20:49:16 10.71.61.0 acc1094923309 [10.71.61.0|get|0|223047|0|0|0|2f696d672f737061726b2f726f6d6d656c5f636162616e616c5f537061726b5f322e6a7067|]
+Mar  8 20:49:16 10.71.61.0 acc1094923309 open "/img/storydriven/rommel_cabanal_SD_2.jpg" flags READ mode 0666
+Mar  8 20:49:17 10.71.61.0 acc1094923309 open "/img/storydriven/rommel_cabanal_SD_1.jpg" flags READ mode 0666
+Mar  8 20:49:17 10.71.61.0 acc1094923309 close "/img/storydriven/rommel_cabanal_SD_2.jpg" bytes read 373898 written 0
+Mar  8 20:49:17 10.71.61.0 acc1094923309 [10.71.61.0|get|1|373898|0|0|0|2f696d672f73746f727964726976656e2f726f6d6d656c5f636162616e616c5f53445f322e6a7067|]
+Mar  8 20:49:17 10.71.61.0 acc1094923309 close "/img/storydriven/rommel_cabanal_SD_1.jpg" bytes read 452677 written 0
+Mar  8 20:49:17 10.71.61.0 acc1094923309 [10.71.61.0|get|0|452677|0|0|0|2f696d672f73746f727964726976656e2f726f6d6d656c5f636162616e616c5f53445f312e6a7067|]
+Mar  8 20:49:17 10.71.61.0 acc1094923309 open "/img/storydriven/rommel_cabanal_BC_3.jpg" flags READ mode 0666
+Mar  8 20:49:17 10.71.61.0 acc1094923309 open "/img/storydriven/rommel_cabanal_BC_2.jpg" flags READ mode 0666
+Mar  8 20:49:17 10.71.61.0 acc1094923309 close "/img/storydriven/rommel_cabanal_BC_3.jpg" bytes read 303874 written 0
+Mar  8 20:49:17 10.71.61.0 acc1094923309 [10.71.61.0|get|0|303874|0|0|0|2f696d672f73746f727964726976656e2f726f6d6d656c5f636162616e616c5f42435f332e6a7067|]
+Mar  8 20:49:17 10.71.61.0 acc1094923309 close "/img/storydriven/rommel_cabanal_BC_2.jpg" bytes read 388619 written 0
+Mar  8 20:49:17 10.71.61.0 acc1094923309 [10.71.61.0|get|0|388619|0|0|0|2f696d672f73746f727964726976656e2f726f6d6d656c5f636162616e616c5f42435f322e6a7067|]
+Mar  8 20:49:17 10.71.61.0 acc1094923309 open "/img/storydriven/rommel_cabanal_BC_1.jpg" flags READ mode 0666
+Mar  8 20:49:17 10.71.61.0 acc1094923309 close "/img/storydriven/rommel_cabanal_BC_1.jpg" bytes read 388332 written 0
+Mar  8 20:49:17 10.71.61.0 acc1094923309 [10.71.61.0|get|0|388332|0|0|0|2f696d672f73746f727964726976656e2f726f6d6d656c5f636162616e616c5f42435f312e6a7067|]
+Mar  8 20:49:17 10.71.61.0 acc1094923309 open "/img/strixnb/rommel_cabanal_StrixNB_5.jpg" flags READ mode 0666
+Mar  8 20:49:17 10.71.61.0 acc1094923309 close "/img/strixnb/rommel_cabanal_StrixNB_5.jpg" bytes read 219496 written 0
+Mar  8 20:49:17 10.71.61.0 acc1094923309 [10.71.61.0|get|0|219496|0|0|0|2f696d672f73747269786e622f726f6d6d656c5f636162616e616c5f53747269784e425f352e6a7067|]
+Mar  8 20:49:17 10.71.61.0 acc1094923309 open "/img/strixnb/rommel_cabanal_StrixNB_4.jpg" flags READ mode 0666
+Mar  8 20:49:17 10.71.61.0 acc1094923309 open "/img/strixnb/rommel_cabanal_StrixNB_3.jpg" flags READ mode 0666
+Mar  8 20:49:17 10.71.61.0 acc1094923309 close "/img/strixnb/rommel_cabanal_StrixNB_4.jpg" bytes read 392797 written 0
+Mar  8 20:49:17 10.71.61.0 acc1094923309 [10.71.61.0|get|0|392797|0|0|0|2f696d672f73747269786e622f726f6d6d656c5f636162616e616c5f53747269784e425f342e6a7067|]
+Mar  8 20:49:18 10.71.61.0 acc1094923309 close "/img/strixnb/rommel_cabanal_StrixNB_3.jpg" bytes read 1399577 written 0
+Mar  8 20:49:18 10.71.61.0 acc1094923309 [10.71.61.0|get|1|1399577|0|0|0|2f696d672f73747269786e622f726f6d6d656c5f636162616e616c5f53747269784e425f332e6a7067|]
+Mar  8 20:49:18 10.71.61.0 acc1094923309 open "/img/strixnb/rommel_cabanal_StrixNB_2.jpg" flags READ mode 0666
+Mar  8 20:49:18 10.71.61.0 acc1094923309 open "/img/strixnb/rommel_cabanal_StrixNB_1.jpg" flags READ mode 0666
+Mar  8 20:49:18 10.71.61.0 acc1094923309 close "/img/strixnb/rommel_cabanal_StrixNB_2.jpg" bytes read 549215 written 0
+Mar  8 20:49:18 10.71.61.0 acc1094923309 [10.71.61.0|get|0|549215|0|0|0|2f696d672f73747269786e622f726f6d6d656c5f636162616e616c5f53747269784e425f322e6a7067|]
+Mar  8 20:49:18 10.71.61.0 acc1094923309 close "/img/strixnb/rommel_cabanal_StrixNB_1.jpg" bytes read 1152386 written 0
+Mar  8 20:49:18 10.71.61.0 acc1094923309 [10.71.61.0|get|0|1152386|0|0|0|2f696d672f73747269786e622f726f6d6d656c5f636162616e616c5f53747269784e425f312e6a7067|]
+Mar  8 20:49:18 10.71.61.0 acc1094923309 open "/img/switzer/rommel_cabanal_WS-logo.jpg" flags READ mode 0666
+Mar  8 20:49:18 10.71.61.0 acc1094923309 open "/img/switzer/rommel_cabanal_WS-compare.jpg" flags READ mode 0666
+Mar  8 20:49:18 10.71.61.0 acc1094923309 close "/img/switzer/rommel_cabanal_WS-logo.jpg" bytes read 324371 written 0
+Mar  8 20:49:18 10.71.61.0 acc1094923309 [10.71.61.0|get|0|324371|0|0|0|2f696d672f737769747a65722f726f6d6d656c5f636162616e616c5f57532d6c6f676f2e6a7067|]
+Mar  8 20:49:18 10.71.61.0 acc1094923309 close "/img/switzer/rommel_cabanal_WS-compare.jpg" bytes read 626782 written 0
+Mar  8 20:49:18 10.71.61.0 acc1094923309 [10.71.61.0|get|0|626782|0|0|0|2f696d672f737769747a65722f726f6d6d656c5f636162616e616c5f57532d636f6d706172652e6a7067|]
+Mar  8 20:49:18 10.71.61.0 acc1094923309 open "/img/switzer/rommel_cabanal_WS-combo.jpg" flags READ mode 0666
+Mar  8 20:49:18 10.71.61.0 acc1094923309 open "/img/switzer/rommel_cabanal_WS-8.jpg" flags READ mode 0666
+Mar  8 20:49:18 10.71.61.0 acc1094923309 close "/img/switzer/rommel_cabanal_WS-8.jpg" bytes read 100508 written 0
+Mar  8 20:49:18 10.71.61.0 acc1094923309 [10.71.61.0|get|0|100508|0|0|0|2f696d672f737769747a65722f726f6d6d656c5f636162616e616c5f57532d382e6a7067|]
+Mar  8 20:49:18 10.71.61.0 acc1094923309 close "/img/switzer/rommel_cabanal_WS-combo.jpg" bytes read 1044713 written 0
+Mar  8 20:49:18 10.71.61.0 acc1094923309 [10.71.61.0|get|0|1044713|0|0|0|2f696d672f737769747a65722f726f6d6d656c5f636162616e616c5f57532d636f6d626f2e6a7067|]
+Mar  8 20:49:19 10.71.61.0 acc1094923309 open "/img/switzer/rommel_cabanal_WS-7.jpg" flags READ mode 0666
+Mar  8 20:49:19 10.71.61.0 acc1094923309 open "/img/switzer/rommel_cabanal_WS-6.jpg" flags READ mode 0666
+Mar  8 20:49:19 10.71.61.0 acc1094923309 close "/img/switzer/rommel_cabanal_WS-7.jpg" bytes read 219042 written 0
+Mar  8 20:49:19 10.71.61.0 acc1094923309 [10.71.61.0|get|0|219042|0|0|0|2f696d672f737769747a65722f726f6d6d656c5f636162616e616c5f57532d372e6a7067|]
+Mar  8 20:49:19 10.71.61.0 acc1094923309 close "/img/switzer/rommel_cabanal_WS-6.jpg" bytes read 296254 written 0
+Mar  8 20:49:19 10.71.61.0 acc1094923309 [10.71.61.0|get|0|296254|0|0|0|2f696d672f737769747a65722f726f6d6d656c5f636162616e616c5f57532d362e6a7067|]
+Mar  8 20:49:19 10.71.61.0 acc1094923309 open "/img/switzer/rommel_cabanal_WS-5.jpg" flags READ mode 0666
+Mar  8 20:49:19 10.71.61.0 acc1094923309 open "/img/switzer/rommel_cabanal_WS-4.jpg" flags READ mode 0666
+Mar  8 20:49:19 10.71.61.0 acc1094923309 close "/img/switzer/rommel_cabanal_WS-5.jpg" bytes read 202411 written 0
+Mar  8 20:49:19 10.71.61.0 acc1094923309 [10.71.61.0|get|0|202411|0|0|0|2f696d672f737769747a65722f726f6d6d656c5f636162616e616c5f57532d352e6a7067|]
+Mar  8 20:49:19 10.71.61.0 acc1094923309 close "/img/switzer/rommel_cabanal_WS-4.jpg" bytes read 282627 written 0
+Mar  8 20:49:19 10.71.61.0 acc1094923309 [10.71.61.0|get|0|282627|0|0|0|2f696d672f737769747a65722f726f6d6d656c5f636162616e616c5f57532d342e6a7067|]
+Mar  8 20:49:19 10.71.61.0 acc1094923309 open "/img/switzer/rommel_cabanal_WS-3.jpg" flags READ mode 0666
+Mar  8 20:49:19 10.71.61.0 acc1094923309 open "/img/switzer/rommel_cabanal_WS-2.jpg" flags READ mode 0666
+Mar  8 20:49:19 10.71.61.0 acc1094923309 close "/img/switzer/rommel_cabanal_WS-3.jpg" bytes read 870627 written 0
+Mar  8 20:49:19 10.71.61.0 acc1094923309 [10.71.61.0|get|0|870627|0|0|0|2f696d672f737769747a65722f726f6d6d656c5f636162616e616c5f57532d332e6a7067|]
+Mar  8 20:49:19 10.71.61.0 acc1094923309 close "/img/switzer/rommel_cabanal_WS-2.jpg" bytes read 779238 written 0
+Mar  8 20:49:19 10.71.61.0 acc1094923309 [10.71.61.0|get|0|779238|0|0|0|2f696d672f737769747a65722f726f6d6d656c5f636162616e616c5f57532d322e6a7067|]
+Mar  8 20:49:19 10.71.61.0 acc1094923309 open "/img/switzer/rommel_cabanal_WS-1.jpg" flags READ mode 0666
+Mar  8 20:49:19 10.71.61.0 acc1094923309 close "/img/switzer/rommel_cabanal_WS-1.jpg" bytes read 230494 written 0
+Mar  8 20:49:19 10.71.61.0 acc1094923309 [10.71.61.0|get|0|230494|0|0|0|2f696d672f737769747a65722f726f6d6d656c5f636162616e616c5f57532d312e6a7067|]
+Mar  8 20:49:19 10.71.61.0 acc1094923309 open "/img/typography/rommel_cabanal_Typography_1.jpg" flags READ mode 0666
+Mar  8 20:49:20 10.71.61.0 acc1094923309 close "/img/typography/rommel_cabanal_Typography_1.jpg" bytes read 277387 written 0
+Mar  8 20:49:20 10.71.61.0 acc1094923309 [10.71.61.0|get|1|277387|0|0|0|2f696d672f7479706f6772617068792f726f6d6d656c5f636162616e616c5f5479706f6772617068795f312e6a7067|]
+Mar  8 20:49:20 10.71.61.0 acc1094923309 open "/img/victorium/rommel_cabanal_victorium-vball.jpg" flags READ mode 0666
+Mar  8 20:49:20 10.71.61.0 acc1094923309 close "/img/victorium/rommel_cabanal_victorium-vball.jpg" bytes read 1393197 written 0
+Mar  8 20:49:20 10.71.61.0 acc1094923309 [10.71.61.0|get|0|1393197|0|0|0|2f696d672f766963746f7269756d2f726f6d6d656c5f636162616e616c5f766963746f7269756d2d7662616c6c2e6a7067|]
+Mar  8 20:49:20 10.71.61.0 acc1094923309 open "/img/victorium/rommel_cabanal_victorium-soccer.jpg" flags READ mode 0666
+Mar  8 20:49:20 10.71.61.0 acc1094923309 open "/img/victorium/rommel_cabanal_victorium-gym.jpg" flags READ mode 0666
+Mar  8 20:49:20 10.71.61.0 acc1094923309 close "/img/victorium/rommel_cabanal_victorium-soccer.jpg" bytes read 1202714 written 0
+Mar  8 20:49:20 10.71.61.0 acc1094923309 [10.71.61.0|get|0|1202714|0|0|0|2f696d672f766963746f7269756d2f726f6d6d656c5f636162616e616c5f766963746f7269756d2d736f636365722e6a7067|]
+Mar  8 20:49:20 10.71.61.0 acc1094923309 close "/img/victorium/rommel_cabanal_victorium-gym.jpg" bytes read 1260444 written 0
+Mar  8 20:49:20 10.71.61.0 acc1094923309 open "/img/victorium/rommel_cabanal_victorium-bball.jpg" flags READ mode 0666
+Mar  8 20:49:20 10.71.61.0 acc1094923309 [10.71.61.0|get|0|1260444|0|0|0|2f696d672f766963746f7269756d2f726f6d6d656c5f636162616e616c5f766963746f7269756d2d67796d2e6a7067|]
+Mar  8 20:49:20 10.71.61.0 acc1094923309 close "/img/victorium/rommel_cabanal_victorium-bball.jpg" bytes read 1388563 written 0
+Mar  8 20:49:20 10.71.61.0 acc1094923309 [10.71.61.0|get|0|1388563|0|0|0|2f696d672f766963746f7269756d2f726f6d6d656c5f636162616e616c5f766963746f7269756d2d6262616c6c2e6a7067|]
+Mar  8 20:49:20 10.71.61.0 acc1094923309 open "/img/capu/rommel_cabanal_capu-convo-5.jpg" flags READ mode 0666
+Mar  8 20:49:20 10.71.61.0 acc1094923309 close "/img/capu/rommel_cabanal_capu-convo-5.jpg" bytes read 434627 written 0
+Mar  8 20:49:20 10.71.61.0 acc1094923309 [10.71.61.0|get|0|434627|0|0|0|2f696d672f636170752f726f6d6d656c5f636162616e616c5f636170752d636f6e766f2d352e6a7067|]
+Mar  8 20:49:20 10.71.61.0 acc1094923309 open "/img/capu/rommel_cabanal_capu-viewguide-4.jpg" flags READ mode 0666
+Mar  8 20:49:20 10.71.61.0 acc1094923309 open "/img/capu/rommel_cabanal_capu-convo-1.jpg" flags READ mode 0666
+Mar  8 20:49:20 10.71.61.0 acc1094923309 close "/img/capu/rommel_cabanal_capu-viewguide-4.jpg" bytes read 365514 written 0
+Mar  8 20:49:20 10.71.61.0 acc1094923309 [10.71.61.0|get|0|365514|0|0|0|2f696d672f636170752f726f6d6d656c5f636162616e616c5f636170752d7669657767756964652d342e6a7067|]
+Mar  8 20:49:21 10.71.61.0 acc1094923309 close "/img/capu/rommel_cabanal_capu-convo-1.jpg" bytes read 576241 written 0
+Mar  8 20:49:21 10.71.61.0 acc1094923309 open "/img/capu/rommel_cabanal_capu-convo-2.jpg" flags READ mode 0666
+Mar  8 20:49:21 10.71.61.0 acc1094923309 [10.71.61.0|get|1|576241|0|0|0|2f696d672f636170752f726f6d6d656c5f636162616e616c5f636170752d636f6e766f2d312e6a7067|]
+Mar  8 20:49:21 10.71.61.0 acc1094923309 open "/img/capu/rommel_cabanal_capu-viewguide-1.jpg" flags READ mode 0666
+Mar  8 20:49:21 10.71.61.0 acc1094923309 close "/img/capu/rommel_cabanal_capu-convo-2.jpg" bytes read 268349 written 0
+Mar  8 20:49:21 10.71.61.0 acc1094923309 [10.71.61.0|get|0|268349|0|0|0|2f696d672f636170752f726f6d6d656c5f636162616e616c5f636170752d636f6e766f2d322e6a7067|]
+Mar  8 20:49:21 10.71.61.0 acc1094923309 open "/img/capu/rommel_cabanal_capu-convo-3.jpg" flags READ mode 0666
+Mar  8 20:49:21 10.71.61.0 acc1094923309 close "/img/capu/rommel_cabanal_capu-viewguide-1.jpg" bytes read 195560 written 0
+Mar  8 20:49:21 10.71.61.0 acc1094923309 [10.71.61.0|get|0|195560|0|0|0|2f696d672f636170752f726f6d6d656c5f636162616e616c5f636170752d7669657767756964652d312e6a7067|]
+Mar  8 20:49:21 10.71.61.0 acc1094923309 close "/img/capu/rommel_cabanal_capu-convo-3.jpg" bytes read 198884 written 0
+Mar  8 20:49:21 10.71.61.0 acc1094923309 [10.71.61.0|get|0|198884|0|0|0|2f696d672f636170752f726f6d6d656c5f636162616e616c5f636170752d636f6e766f2d332e6a7067|]
+Mar  8 20:49:21 10.71.61.0 acc1094923309 open "/img/capu/rommel_cabanal_capu-viewguide-2.jpg" flags READ mode 0666
+Mar  8 20:49:21 10.71.61.0 acc1094923309 open "/img/capu/rommel_cabanal_capu-convo-4.jpg" flags READ mode 0666
+Mar  8 20:49:21 10.71.61.0 acc1094923309 close "/img/capu/rommel_cabanal_capu-viewguide-2.jpg" bytes read 280579 written 0
+Mar  8 20:49:21 10.71.61.0 acc1094923309 [10.71.61.0|get|0|280579|0|0|0|2f696d672f636170752f726f6d6d656c5f636162616e616c5f636170752d7669657767756964652d322e6a7067|]
+Mar  8 20:49:21 10.71.61.0 acc1094923309 close "/img/capu/rommel_cabanal_capu-convo-4.jpg" bytes read 260756 written 0
+Mar  8 20:49:21 10.71.61.0 acc1094923309 [10.71.61.0|get|0|260756|0|0|0|2f696d672f636170752f726f6d6d656c5f636162616e616c5f636170752d636f6e766f2d342e6a7067|]
+Mar  8 20:49:21 10.71.61.0 acc1094923309 open "/img/capu/rommel_cabanal_capu-viewguide-3.jpg" flags READ mode 0666
+Mar  8 20:49:21 10.71.61.0 acc1094923309 open "/img/capu/rommel_cabanal_capu-Capsule-7.jpg" flags READ mode 0666
+Mar  8 20:49:21 10.71.61.0 acc1094923309 close "/img/capu/rommel_cabanal_capu-viewguide-3.jpg" bytes read 397348 written 0
+Mar  8 20:49:21 10.71.61.0 acc1094923309 [10.71.61.0|get|0|397348|0|0|0|2f696d672f636170752f726f6d6d656c5f636162616e616c5f636170752d7669657767756964652d332e6a7067|]
+Mar  8 20:49:21 10.71.61.0 acc1094923309 close "/img/capu/rommel_cabanal_capu-Capsule-7.jpg" bytes read 707974 written 0
+Mar  8 20:49:21 10.71.61.0 acc1094923309 [10.71.61.0|get|0|707974|0|0|0|2f696d672f636170752f726f6d6d656c5f636162616e616c5f636170752d43617073756c652d372e6a7067|]
+Mar  8 20:49:21 10.71.61.0 acc1094923309 open "/img/capu/rommel_cabanal_capu-Capsule-5.jpg" flags READ mode 0666
+Mar  8 20:49:22 10.71.61.0 acc1094923309 open "/img/capu/rommel_cabanal_capu-Capsule-6.jpg" flags READ mode 0666
+Mar  8 20:49:22 10.71.61.0 acc1094923309 close "/img/capu/rommel_cabanal_capu-Capsule-5.jpg" bytes read 91612 written 0
+Mar  8 20:49:22 10.71.61.0 acc1094923309 [10.71.61.0|get|1|91612|0|0|0|2f696d672f636170752f726f6d6d656c5f636162616e616c5f636170752d43617073756c652d352e6a7067|]
+Mar  8 20:49:22 10.71.61.0 acc1094923309 open "/img/capu/rommel_cabanal_capu-Capsule-4.jpg" flags READ mode 0666
+Mar  8 20:49:22 10.71.61.0 acc1094923309 close "/img/capu/rommel_cabanal_capu-Capsule-6.jpg" bytes read 327968 written 0
+Mar  8 20:49:22 10.71.61.0 acc1094923309 [10.71.61.0|get|0|327968|0|0|0|2f696d672f636170752f726f6d6d656c5f636162616e616c5f636170752d43617073756c652d362e6a7067|]
+Mar  8 20:49:22 10.71.61.0 acc1094923309 close "/img/capu/rommel_cabanal_capu-Capsule-4.jpg" bytes read 125923 written 0
+Mar  8 20:49:22 10.71.61.0 acc1094923309 [10.71.61.0|get|0|125923|0|0|0|2f696d672f636170752f726f6d6d656c5f636162616e616c5f636170752d43617073756c652d342e6a7067|]
+Mar  8 20:49:22 10.71.61.0 acc1094923309 open "/img/capu/rommel_cabanal_capu-Capsule-3.jpg" flags READ mode 0666
+Mar  8 20:49:22 10.71.61.0 acc1094923309 open "/img/capu/rommel_cabanal_capu-Capsule-2.jpg" flags READ mode 0666
+Mar  8 20:49:22 10.71.61.0 acc1094923309 close "/img/capu/rommel_cabanal_capu-Capsule-3.jpg" bytes read 108794 written 0
+Mar  8 20:49:22 10.71.61.0 acc1094923309 [10.71.61.0|get|0|108794|0|0|0|2f696d672f636170752f726f6d6d656c5f636162616e616c5f636170752d43617073756c652d332e6a7067|]
+Mar  8 20:49:22 10.71.61.0 acc1094923309 close "/img/capu/rommel_cabanal_capu-Capsule-2.jpg" bytes read 489799 written 0
+Mar  8 20:49:22 10.71.61.0 acc1094923309 [10.71.61.0|get|0|489799|0|0|0|2f696d672f636170752f726f6d6d656c5f636162616e616c5f636170752d43617073756c652d322e6a7067|]
+Mar  8 20:49:22 10.71.61.0 acc1094923309 open "/img/capu/rommel_cabanal_capu-AP-6.jpg" flags READ mode 0666
+Mar  8 20:49:22 10.71.61.0 acc1094923309 open "/img/capu/rommel_cabanal_capu-AP-5.jpg" flags READ mode 0666
+Mar  8 20:49:22 10.71.61.0 acc1094923309 close "/img/capu/rommel_cabanal_capu-AP-6.jpg" bytes read 265696 written 0
+Mar  8 20:49:22 10.71.61.0 acc1094923309 [10.71.61.0|get|0|265696|0|0|0|2f696d672f636170752f726f6d6d656c5f636162616e616c5f636170752d41502d362e6a7067|]
+Mar  8 20:49:22 10.71.61.0 acc1094923309 close "/img/capu/rommel_cabanal_capu-AP-5.jpg" bytes read 252719 written 0
+Mar  8 20:49:22 10.71.61.0 acc1094923309 [10.71.61.0|get|0|252719|0|0|0|2f696d672f636170752f726f6d6d656c5f636162616e616c5f636170752d41502d352e6a7067|]
+Mar  8 20:49:22 10.71.61.0 acc1094923309 open "/img/capu/rommel_cabanal_capu-AP-4.jpg" flags READ mode 0666
+Mar  8 20:49:22 10.71.61.0 acc1094923309 open "/img/capu/rommel_cabanal_capu-AP-3.jpg" flags READ mode 0666
+Mar  8 20:49:22 10.71.61.0 acc1094923309 close "/img/capu/rommel_cabanal_capu-AP-4.jpg" bytes read 329843 written 0
+Mar  8 20:49:22 10.71.61.0 acc1094923309 [10.71.61.0|get|0|329843|0|0|0|2f696d672f636170752f726f6d6d656c5f636162616e616c5f636170752d41502d342e6a7067|]
+Mar  8 20:49:23 10.71.61.0 acc1094923309 close "/img/capu/rommel_cabanal_capu-AP-3.jpg" bytes read 149750 written 0
+Mar  8 20:49:23 10.71.61.0 acc1094923309 [10.71.61.0|get|1|149750|0|0|0|2f696d672f636170752f726f6d6d656c5f636162616e616c5f636170752d41502d332e6a7067|]
+Mar  8 20:49:23 10.71.61.0 acc1094923309 open "/img/capu/rommel_cabanal_capu-AP-2.jpg" flags READ mode 0666
+Mar  8 20:49:23 10.71.61.0 acc1094923309 open "/img/capu/rommel_cabanal_capu-AP-1.jpg" flags READ mode 0666
+Mar  8 20:49:23 10.71.61.0 acc1094923309 close "/img/capu/rommel_cabanal_capu-AP-2.jpg" bytes read 348097 written 0
+Mar  8 20:49:23 10.71.61.0 acc1094923309 [10.71.61.0|get|0|348097|0|0|0|2f696d672f636170752f726f6d6d656c5f636162616e616c5f636170752d41502d322e6a7067|]
+Mar  8 20:49:23 10.71.61.0 acc1094923309 close "/img/capu/rommel_cabanal_capu-AP-1.jpg" bytes read 333627 written 0
+Mar  8 20:49:23 10.71.61.0 acc1094923309 [10.71.61.0|get|0|333627|0|0|0|2f696d672f636170752f726f6d6d656c5f636162616e616c5f636170752d41502d312e6a7067|]
+Mar  8 20:49:23 10.71.61.0 acc1094923309 open "/img/capu/rommel_cabanal_capu-OREC-0.jpg" flags READ mode 0666
+Mar  8 20:49:23 10.71.61.0 acc1094923309 open "/img/capu/rommel_cabanal_capu-Capsule-1.jpg" flags READ mode 0666
+Mar  8 20:49:23 10.71.61.0 acc1094923309 close "/img/capu/rommel_cabanal_capu-OREC-0.jpg" bytes read 114151 written 0
+Mar  8 20:49:23 10.71.61.0 acc1094923309 [10.71.61.0|get|0|114151|0|0|0|2f696d672f636170752f726f6d6d656c5f636162616e616c5f636170752d4f5245432d302e6a7067|]
+Mar  8 20:49:23 10.71.61.0 acc1094923309 close "/img/capu/rommel_cabanal_capu-Capsule-1.jpg" bytes read 63837 written 0
+Mar  8 20:49:23 10.71.61.0 acc1094923309 [10.71.61.0|get|0|63837|0|0|0|2f696d672f636170752f726f6d6d656c5f636162616e616c5f636170752d43617073756c652d312e6a7067|]
+Mar  8 20:49:23 10.71.61.0 acc1094923309 open "/img/capu/rommel_cabanal_capu-OREC-1.jpg" flags READ mode 0666
+Mar  8 20:49:23 10.71.61.0 acc1094923309 open "/img/capu/rommel_cabanal_capu-OREC-2.jpg" flags READ mode 0666
+Mar  8 20:49:23 10.71.61.0 acc1094923309 close "/img/capu/rommel_cabanal_capu-OREC-1.jpg" bytes read 71019 written 0
+Mar  8 20:49:23 10.71.61.0 acc1094923309 [10.71.61.0|get|0|71019|0|0|0|2f696d672f636170752f726f6d6d656c5f636162616e616c5f636170752d4f5245432d312e6a7067|]
+Mar  8 20:49:23 10.71.61.0 acc1094923309 close "/img/capu/rommel_cabanal_capu-OREC-2.jpg" bytes read 80672 written 0
+Mar  8 20:49:23 10.71.61.0 acc1094923309 [10.71.61.0|get|0|80672|0|0|0|2f696d672f636170752f726f6d6d656c5f636162616e616c5f636170752d4f5245432d322e6a7067|]
+Mar  8 20:49:23 10.71.61.0 acc1094923309 open "/img/capu/rommel_cabanal_capu-OREC-3.jpg" flags READ mode 0666
+Mar  8 20:49:23 10.71.61.0 acc1094923309 open "/img/capu/rommel_cabanal_capu-OREC-5.jpg" flags READ mode 0666
+Mar  8 20:49:24 10.71.61.0 acc1094923309 close "/img/capu/rommel_cabanal_capu-OREC-3.jpg" bytes read 98210 written 0
+Mar  8 20:49:24 10.71.61.0 acc1094923309 [10.71.61.0|get|0|98210|0|0|0|2f696d672f636170752f726f6d6d656c5f636162616e616c5f636170752d4f5245432d332e6a7067|]
+Mar  8 20:49:24 10.71.61.0 acc1094923309 close "/img/capu/rommel_cabanal_capu-OREC-5.jpg" bytes read 80982 written 0
+Mar  8 20:49:24 10.71.61.0 acc1094923309 [10.71.61.0|get|1|80982|0|0|0|2f696d672f636170752f726f6d6d656c5f636162616e616c5f636170752d4f5245432d352e6a7067|]
+Mar  8 20:49:24 10.71.61.0 acc1094923309 open "/img/capu/rommel_cabanal_capu-OREC-4.jpg" flags READ mode 0666
+Mar  8 20:49:24 10.71.61.0 acc1094923309 open "/img/capu/rommel_cabanal_capu-VB-1.jpg" flags READ mode 0666
+Mar  8 20:49:24 10.71.61.0 acc1094923309 close "/img/capu/rommel_cabanal_capu-OREC-4.jpg" bytes read 77689 written 0
+Mar  8 20:49:24 10.71.61.0 acc1094923309 [10.71.61.0|get|0|77689|0|0|0|2f696d672f636170752f726f6d6d656c5f636162616e616c5f636170752d4f5245432d342e6a7067|]
+Mar  8 20:49:24 10.71.61.0 acc1094923309 close "/img/capu/rommel_cabanal_capu-VB-1.jpg" bytes read 439541 written 0
+Mar  8 20:49:24 10.71.61.0 acc1094923309 [10.71.61.0|get|0|439541|0|0|0|2f696d672f636170752f726f6d6d656c5f636162616e616c5f636170752d56422d312e6a7067|]
+Mar  8 20:49:24 10.71.61.0 acc1094923309 open "/img/capu/rommel_cabanal_capu-VB-2.jpg" flags READ mode 0666
+Mar  8 20:49:24 10.71.61.0 acc1094923309 open "/img/capu/rommel_cabanal_capu-VB-3.jpg" flags READ mode 0666
+Mar  8 20:49:24 10.71.61.0 acc1094923309 close "/img/capu/rommel_cabanal_capu-VB-2.jpg" bytes read 244401 written 0
+Mar  8 20:49:24 10.71.61.0 acc1094923309 [10.71.61.0|get|0|244401|0|0|0|2f696d672f636170752f726f6d6d656c5f636162616e616c5f636170752d56422d322e6a7067|]
+Mar  8 20:49:24 10.71.61.0 acc1094923309 close "/img/capu/rommel_cabanal_capu-VB-3.jpg" bytes read 392131 written 0
+Mar  8 20:49:24 10.71.61.0 acc1094923309 [10.71.61.0|get|0|392131|0|0|0|2f696d672f636170752f726f6d6d656c5f636162616e616c5f636170752d56422d332e6a7067|]
+Mar  8 20:49:24 10.71.61.0 acc1094923309 open "/img/capu/rommel_cabanal_capu-VB-5.jpg" flags READ mode 0666
+Mar  8 20:49:24 10.71.61.0 acc1094923309 open "/img/capu/rommel_cabanal_capu-VB-4.jpg" flags READ mode 0666
+Mar  8 20:49:24 10.71.61.0 acc1094923309 close "/img/capu/rommel_cabanal_capu-VB-5.jpg" bytes read 300195 written 0
+Mar  8 20:49:24 10.71.61.0 acc1094923309 [10.71.61.0|get|0|300195|0|0|0|2f696d672f636170752f726f6d6d656c5f636162616e616c5f636170752d56422d352e6a7067|]
+Mar  8 20:49:24 10.71.61.0 acc1094923309 close "/img/capu/rommel_cabanal_capu-VB-4.jpg" bytes read 396106 written 0
+Mar  8 20:49:24 10.71.61.0 acc1094923309 [10.71.61.0|get|0|396106|0|0|0|2f696d672f636170752f726f6d6d656c5f636162616e616c5f636170752d56422d342e6a7067|]
+Mar  8 20:49:24 10.71.61.0 acc1094923309 open "/img/capu/rommel_cabanal_capu-LB-9.jpg" flags READ mode 0666
+Mar  8 20:49:24 10.71.61.0 acc1094923309 open "/img/capu/rommel_cabanal_capu-LB-8.jpg" flags READ mode 0666
+Mar  8 20:49:24 10.71.61.0 acc1094923309 close "/img/capu/rommel_cabanal_capu-LB-9.jpg" bytes read 517826 written 0
+Mar  8 20:49:24 10.71.61.0 acc1094923309 [10.71.61.0|get|0|517826|0|0|0|2f696d672f636170752f726f6d6d656c5f636162616e616c5f636170752d4c422d392e6a7067|]
+Mar  8 20:49:25 10.71.61.0 acc1094923309 close "/img/capu/rommel_cabanal_capu-LB-8.jpg" bytes read 267137 written 0
+Mar  8 20:49:25 10.71.61.0 acc1094923309 [10.71.61.0|get|1|267137|0|0|0|2f696d672f636170752f726f6d6d656c5f636162616e616c5f636170752d4c422d382e6a7067|]
+Mar  8 20:49:25 10.71.61.0 acc1094923309 open "/img/capu/rommel_cabanal_capu-LB-7.jpg" flags READ mode 0666
+Mar  8 20:49:25 10.71.61.0 acc1094923309 open "/img/capu/rommel_cabanal_capu-LB-6.jpg" flags READ mode 0666
+Mar  8 20:49:25 10.71.61.0 acc1094923309 close "/img/capu/rommel_cabanal_capu-LB-7.jpg" bytes read 256703 written 0
+Mar  8 20:49:25 10.71.61.0 acc1094923309 [10.71.61.0|get|0|256703|0|0|0|2f696d672f636170752f726f6d6d656c5f636162616e616c5f636170752d4c422d372e6a7067|]
+Mar  8 20:49:25 10.71.61.0 acc1094923309 close "/img/capu/rommel_cabanal_capu-LB-6.jpg" bytes read 555365 written 0
+Mar  8 20:49:25 10.71.61.0 acc1094923309 [10.71.61.0|get|0|555365|0|0|0|2f696d672f636170752f726f6d6d656c5f636162616e616c5f636170752d4c422d362e6a7067|]
+Mar  8 20:49:25 10.71.61.0 acc1094923309 open "/img/capu/rommel_cabanal_capu-LB-5.jpg" flags READ mode 0666
+Mar  8 20:49:25 10.71.61.0 acc1094923309 open "/img/capu/rommel_cabanal_capu-LB-4.jpg" flags READ mode 0666
+Mar  8 20:49:25 10.71.61.0 acc1094923309 close "/img/capu/rommel_cabanal_capu-LB-5.jpg" bytes read 395826 written 0
+Mar  8 20:49:25 10.71.61.0 acc1094923309 [10.71.61.0|get|0|395826|0|0|0|2f696d672f636170752f726f6d6d656c5f636162616e616c5f636170752d4c422d352e6a7067|]
+Mar  8 20:49:25 10.71.61.0 acc1094923309 close "/img/capu/rommel_cabanal_capu-LB-4.jpg" bytes read 381235 written 0
+Mar  8 20:49:25 10.71.61.0 acc1094923309 [10.71.61.0|get|0|381235|0|0|0|2f696d672f636170752f726f6d6d656c5f636162616e616c5f636170752d4c422d342e6a7067|]
+Mar  8 20:49:25 10.71.61.0 acc1094923309 open "/img/capu/rommel_cabanal_capu-LB-3.jpg" flags READ mode 0666
+Mar  8 20:49:25 10.71.61.0 acc1094923309 open "/img/capu/rommel_cabanal_capu-LB-1.jpg" flags READ mode 0666
+Mar  8 20:49:25 10.71.61.0 acc1094923309 close "/img/capu/rommel_cabanal_capu-LB-3.jpg" bytes read 351574 written 0
+Mar  8 20:49:25 10.71.61.0 acc1094923309 [10.71.61.0|get|0|351574|0|0|0|2f696d672f636170752f726f6d6d656c5f636162616e616c5f636170752d4c422d332e6a7067|]
+Mar  8 20:49:25 10.71.61.0 acc1094923309 close "/img/capu/rommel_cabanal_capu-LB-1.jpg" bytes read 306559 written 0
+Mar  8 20:49:25 10.71.61.0 acc1094923309 [10.71.61.0|get|0|306559|0|0|0|2f696d672f636170752f726f6d6d656c5f636162616e616c5f636170752d4c422d312e6a7067|]
+Mar  8 20:49:25 10.71.61.0 acc1094923309 open "/img/capu/rommel_cabanal_capu-LB-2.jpg" flags READ mode 0666
+Mar  8 20:49:25 10.71.61.0 acc1094923309 open "/img/capu/rommel_cabanal_capu-trans-8.jpg" flags READ mode 0666
+Mar  8 20:49:26 10.71.61.0 acc1094923309 close "/img/capu/rommel_cabanal_capu-LB-2.jpg" bytes read 365019 written 0
+Mar  8 20:49:26 10.71.61.0 acc1094923309 [10.71.61.0|get|1|365019|0|0|0|2f696d672f636170752f726f6d6d656c5f636162616e616c5f636170752d4c422d322e6a7067|]
+Mar  8 20:49:26 10.71.61.0 acc1094923309 close "/img/capu/rommel_cabanal_capu-trans-8.jpg" bytes read 760896 written 0
+Mar  8 20:49:26 10.71.61.0 acc1094923309 [10.71.61.0|get|1|760896|0|0|0|2f696d672f636170752f726f6d6d656c5f636162616e616c5f636170752d7472616e732d382e6a7067|]
+Mar  8 20:49:26 10.71.61.0 acc1094923309 open "/img/capu/rommel_cabanal_capu-trans-7.jpg" flags READ mode 0666
+Mar  8 20:49:26 10.71.61.0 acc1094923309 open "/img/capu/rommel_cabanal_capu-trans-6.jpg" flags READ mode 0666
+Mar  8 20:49:26 10.71.61.0 acc1094923309 close "/img/capu/rommel_cabanal_capu-trans-7.jpg" bytes read 559135 written 0
+Mar  8 20:49:26 10.71.61.0 acc1094923309 [10.71.61.0|get|0|559135|0|0|0|2f696d672f636170752f726f6d6d656c5f636162616e616c5f636170752d7472616e732d372e6a7067|]
+Mar  8 20:49:26 10.71.61.0 acc1094923309 close "/img/capu/rommel_cabanal_capu-trans-6.jpg" bytes read 656442 written 0
+Mar  8 20:49:26 10.71.61.0 acc1094923309 [10.71.61.0|get|0|656442|0|0|0|2f696d672f636170752f726f6d6d656c5f636162616e616c5f636170752d7472616e732d362e6a7067|]
+Mar  8 20:49:26 10.71.61.0 acc1094923309 open "/img/capu/rommel_cabanal_capu-5.jpg" flags READ mode 0666
+Mar  8 20:49:26 10.71.61.0 acc1094923309 open "/img/capu/rommel_cabanal_capu-4.jpg" flags READ mode 0666
+Mar  8 20:49:26 10.71.61.0 acc1094923309 close "/img/capu/rommel_cabanal_capu-5.jpg" bytes read 955219 written 0
+Mar  8 20:49:26 10.71.61.0 acc1094923309 [10.71.61.0|get|0|955219|0|0|0|2f696d672f636170752f726f6d6d656c5f636162616e616c5f636170752d352e6a7067|]
+Mar  8 20:49:26 10.71.61.0 acc1094923309 close "/img/capu/rommel_cabanal_capu-4.jpg" bytes read 942072 written 0
+Mar  8 20:49:26 10.71.61.0 acc1094923309 [10.71.61.0|get|0|942072|0|0|0|2f696d672f636170752f726f6d6d656c5f636162616e616c5f636170752d342e6a7067|]
+Mar  8 20:49:26 10.71.61.0 acc1094923309 open "/img/capu/rommel_cabanal_capu-trans-5.jpg" flags READ mode 0666
+Mar  8 20:49:26 10.71.61.0 acc1094923309 open "/img/capu/rommel_cabanal_capu-trans-4.jpg" flags READ mode 0666
+Mar  8 20:49:26 10.71.61.0 acc1094923309 close "/img/capu/rommel_cabanal_capu-trans-5.jpg" bytes read 587975 written 0
+Mar  8 20:49:26 10.71.61.0 acc1094923309 [10.71.61.0|get|0|587975|0|0|0|2f696d672f636170752f726f6d6d656c5f636162616e616c5f636170752d7472616e732d352e6a7067|]
+Mar  8 20:49:26 10.71.61.0 acc1094923309 close "/img/capu/rommel_cabanal_capu-trans-4.jpg" bytes read 455015 written 0
+Mar  8 20:49:26 10.71.61.0 acc1094923309 [10.71.61.0|get|0|455015|0|0|0|2f696d672f636170752f726f6d6d656c5f636162616e616c5f636170752d7472616e732d342e6a7067|]
+Mar  8 20:49:26 10.71.61.0 acc1094923309 open "/img/capu/rommel_cabanal_capu-trans-3.jpg" flags READ mode 0666
+Mar  8 20:49:26 10.71.61.0 acc1094923309 open "/img/capu/rommel_cabanal_capu-trans-2.jpg" flags READ mode 0666
+Mar  8 20:49:27 10.71.61.0 acc1094923309 close "/img/capu/rommel_cabanal_capu-trans-3.jpg" bytes read 483108 written 0
+Mar  8 20:49:27 10.71.61.0 acc1094923309 [10.71.61.0|get|1|483108|0|0|0|2f696d672f636170752f726f6d6d656c5f636162616e616c5f636170752d7472616e732d332e6a7067|]
+Mar  8 20:49:27 10.71.61.0 acc1094923309 close "/img/capu/rommel_cabanal_capu-trans-2.jpg" bytes read 634971 written 0
+Mar  8 20:49:27 10.71.61.0 acc1094923309 [10.71.61.0|get|1|634971|0|0|0|2f696d672f636170752f726f6d6d656c5f636162616e616c5f636170752d7472616e732d322e6a7067|]
+Mar  8 20:49:27 10.71.61.0 acc1094923309 open "/img/capu/rommel_cabanal_capu-trans-1.jpg" flags READ mode 0666
+Mar  8 20:49:27 10.71.61.0 acc1094923309 open "/img/capu/rommel_cabanal_capu-3.jpg" flags READ mode 0666
+Mar  8 20:49:27 10.71.61.0 acc1094923309 close "/img/capu/rommel_cabanal_capu-3.jpg" bytes read 722295 written 0
+Mar  8 20:49:27 10.71.61.0 acc1094923309 [10.71.61.0|get|0|722295|0|0|0|2f696d672f636170752f726f6d6d656c5f636162616e616c5f636170752d332e6a7067|]
+Mar  8 20:49:27 10.71.61.0 acc1094923309 close "/img/capu/rommel_cabanal_capu-trans-1.jpg" bytes read 512379 written 0
+Mar  8 20:49:27 10.71.61.0 acc1094923309 [10.71.61.0|get|0|512379|0|0|0|2f696d672f636170752f726f6d6d656c5f636162616e616c5f636170752d7472616e732d312e6a7067|]
+Mar  8 20:49:27 10.71.61.0 acc1094923309 open "/img/capu/rommel_cabanal_capu-1.jpg" flags READ mode 0666
+Mar  8 20:49:27 10.71.61.0 acc1094923309 open "/img/capu/rommel_cabanal_capu-2.jpg" flags READ mode 0666
+Mar  8 20:49:27 10.71.61.0 acc1094923309 close "/img/capu/rommel_cabanal_capu-1.jpg" bytes read 678719 written 0
+Mar  8 20:49:27 10.71.61.0 acc1094923309 [10.71.61.0|get|0|678719|0|0|0|2f696d672f636170752f726f6d6d656c5f636162616e616c5f636170752d312e6a7067|]
+Mar  8 20:49:27 10.71.61.0 acc1094923309 close "/img/capu/rommel_cabanal_capu-2.jpg" bytes read 899973 written 0
+Mar  8 20:49:27 10.71.61.0 acc1094923309 [10.71.61.0|get|0|899973|0|0|0|2f696d672f636170752f726f6d6d656c5f636162616e616c5f636170752d322e6a7067|]
+Mar  8 20:49:27 10.71.61.0 acc1094923309 open "/img/kapwa/rommel_cabanal_kapwa-5.jpg" flags READ mode 0666
+Mar  8 20:49:27 10.71.61.0 acc1094923309 open "/img/kapwa/rommel_cabanal_kapwa-4.jpg" flags READ mode 0666
+Mar  8 20:49:27 10.71.61.0 acc1094923309 close "/img/kapwa/rommel_cabanal_kapwa-5.jpg" bytes read 234006 written 0
+Mar  8 20:49:27 10.71.61.0 acc1094923309 [10.71.61.0|get|0|234006|0|0|0|2f696d672f6b617077612f726f6d6d656c5f636162616e616c5f6b617077612d352e6a7067|]
+Mar  8 20:49:27 10.71.61.0 acc1094923309 close "/img/kapwa/rommel_cabanal_kapwa-4.jpg" bytes read 213627 written 0
+Mar  8 20:49:27 10.71.61.0 acc1094923309 [10.71.61.0|get|0|213627|0|0|0|2f696d672f6b617077612f726f6d6d656c5f636162616e616c5f6b617077612d342e6a7067|]
+Mar  8 20:49:28 10.71.61.0 acc1094923309 open "/img/kapwa/rommel_cabanal_kapwa-3.jpg" flags READ mode 0666
+Mar  8 20:49:28 10.71.61.0 acc1094923309 open "/img/kapwa/rommel_cabanal_kapwa-2.jpg" flags READ mode 0666
+Mar  8 20:49:28 10.71.61.0 acc1094923309 close "/img/kapwa/rommel_cabanal_kapwa-2.jpg" bytes read 467088 written 0
+Mar  8 20:49:28 10.71.61.0 acc1094923309 [10.71.61.0|get|0|467088|0|0|0|2f696d672f6b617077612f726f6d6d656c5f636162616e616c5f6b617077612d322e6a7067|]
+Mar  8 20:49:28 10.71.61.0 acc1094923309 close "/img/kapwa/rommel_cabanal_kapwa-3.jpg" bytes read 474772 written 0
+Mar  8 20:49:28 10.71.61.0 acc1094923309 [10.71.61.0|get|0|474772|0|0|0|2f696d672f6b617077612f726f6d6d656c5f636162616e616c5f6b617077612d332e6a7067|]
+Mar  8 20:49:28 10.71.61.0 acc1094923309 open "/img/kapwa/rommel_cabanal_kapwa-1.jpg" flags READ mode 0666
+Mar  8 20:49:28 10.71.61.0 acc1094923309 open "/js/main.js" flags READ mode 0666
+Mar  8 20:49:28 10.71.61.0 acc1094923309 close "/img/kapwa/rommel_cabanal_kapwa-1.jpg" bytes read 476506 written 0
+Mar  8 20:49:28 10.71.61.0 acc1094923309 [10.71.61.0|get|0|476506|0|0|0|2f696d672f6b617077612f726f6d6d656c5f636162616e616c5f6b617077612d312e6a7067|]
+Mar  8 20:49:28 10.71.61.0 acc1094923309 close "/js/main.js" bytes read 379 written 0
+Mar  8 20:49:28 10.71.61.0 acc1094923309 [10.71.61.0|get|0|379|0|0|0|2f6a732f6d61696e2e6a73|]
+Mar  8 20:49:28 10.71.61.0 acc1094923309 open "/logs/sftp.log" flags READ mode 0666

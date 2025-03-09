@@ -1,0 +1,22 @@
+{
+  "name": "rommel",
+  "version": "1.0.0",
+  "authors": [
+    ""
+  ],
+  "description": "Rommel homepage",
+  "main": "index.html",
+  "license": "null",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-sass-official": "~3.3.3",
+    "jquery.cycle2.min": "https://raw.github.com/malsup/malsup.github.com/master/min/jquery.cycle2.min.js"
+  }
+}
