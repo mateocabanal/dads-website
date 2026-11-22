@@ -60,7 +60,7 @@ body:has(.project-head) main{background:var(--paper);color:var(--ink);padding-bo
 .project-info{padding:clamp(32px,6vw,88px) 0;display:grid;grid-template-columns:1fr 3fr;gap:22px}
 .project-info h2{font-weight:700;letter-spacing:-.06em}
 .case-context{display:grid;grid-template-columns:1.1fr 1fr;gap:clamp(20px,4vw,60px)}
-.case-description{font-size:clamp(17px,2vw,26px);line-height:1.45}
+.case-description{font-size:12pt;line-height:1.45}
 .case-description p+p{margin-top:.8em}
 .case-credits div{display:grid;grid-template-columns:1fr 1.2fr;gap:8px;padding:8px 0;border-bottom:1px solid var(--line);font-size:.875rem}
 .case-credits dt{color:#51524a}
