@@ -53,7 +53,7 @@ body:has(.project-head) main{background:var(--paper);color:var(--ink);padding-bo
 .back{display:inline-flex;padding:8px 14px;border:1px solid #85867b;border-radius:0;font-size:.875rem}
 .back:hover{background:var(--ink);color:var(--cream)}
 .project-meta{display:flex;flex-wrap:wrap;gap:10px 23px;margin:37px 0 10px}
-.project-head h1{font-size:clamp(29.25px,6vw,91.5px);letter-spacing:-.06em;line-height:.98;max-width:18ch}
+.project-head h1{font-size:clamp(26.325px,5.4vw,82.35px);letter-spacing:-.06em;line-height:.98;max-width:18ch}
 .project-photos{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px}
 .project-photos button{padding:0;border:0;background:#e3e2d7;cursor:zoom-in;align-self:start}
 .project-photos button:first-child{grid-column:1/-1}
