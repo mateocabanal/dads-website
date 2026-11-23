@@ -57,6 +57,7 @@ body:has(.project-head) main{background:var(--paper);color:var(--ink);padding-bo
 .project-photos{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px}
 .project-photos button{padding:0;border:0;background:#e3e2d7;cursor:zoom-in;align-self:start}
 .project-photos button:first-child{grid-column:1/-1}
+.tile-art img,.project-photos button:first-child img{filter:url("media/lead-sharpen.svg#sharpen")}
 .project-info{padding:clamp(32px,6vw,88px) 0;display:grid;grid-template-columns:1fr 3fr;gap:22px}
 .project-info h2{font-weight:700;letter-spacing:-.06em}
 .case-context{display:grid;grid-template-columns:1.1fr 1fr;gap:clamp(20px,4vw,60px)}
